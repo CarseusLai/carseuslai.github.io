@@ -27,7 +27,7 @@ author:
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=koBVaaUAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=koBVaaUAAAAJ"
   email            : "Carseus.lai@gmail.com"
   researchgate     : 
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : #""
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/carseus888/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0004-6027-3083"
+  orcid            : # "https://orcid.org/0009-0004-6027-3083"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
