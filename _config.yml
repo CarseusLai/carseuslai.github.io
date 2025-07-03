@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chia-Ming Lee"
-  avatar           : "images/chiaminglee.png"
-  bio              : "National Cheng Kung University (NCKU)"
-  location         : "Tainan, Taiwan"
+  name             : "Carseus Lai"
+  avatar           : "images/sinyinlai.png"
+  bio              : "National Taipei University of Technology (NTUT)"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=koBVaaUAAAAJ"
-  email            : "zuw408421476@gmail.com"
+  email            : "Carseus.lai@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ming053l"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/carseus888/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0004-6027-3083"
   pinterest        :
