@@ -5,12 +5,12 @@ main:
 
   - title: "News"
     url: "/#-news"
-
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
-
+    
   - title: "Work Experiences"
     url: "/#-work-experiences"
+    
+  - title: "Finished Products"
+    url: "/#-finished-products"
 
   - title: "Academic"
     url: "/#-academic"
