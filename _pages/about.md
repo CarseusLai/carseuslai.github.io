@@ -40,8 +40,13 @@ I am also exploring other computer vision-related fields which are interested to
 - *2025/3/24*: &nbsp;🎉🎉 I receive the top3% ranking in CVPR 2025 (NTIRE Workshop, Image Reflection Removal Challenge)!
 - 
 
-# 📝 Selected Publications 
+# 💼 Work Experiences
 
+- *2024.7~*: Brake system Defect Detection, Taiwan High Speed Rail.
+- *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
+
+
+# 📝 Finished Products 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/AuroraHSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,12 +112,6 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
 </div>
 
-
-# 💼 Work Experiences
-
-- *2024.7~*: Brake system Defect Detection, Taiwan High Speed Rail.
-- *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
-  
 # 🎓 Academic
 
 ### 🗣️ Invited Talk
