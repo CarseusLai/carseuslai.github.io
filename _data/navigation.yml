@@ -9,11 +9,14 @@ main:
   - title: "Selected Publications"
     url: "/#-selected-publications"
 
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "Work Experiences"
+    url: "/#-work-experiences"
 
-  - title: "Educations"
-    url: "/#-educations"
-
+  - title: "Academic"
+    url: "/#-academic"
+    
+  - title: "License"
+    url: "/#-license"
+    
   - title: "Others"
     url: "/#-others"  
