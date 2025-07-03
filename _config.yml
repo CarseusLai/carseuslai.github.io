@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chia-Ming Lee"
+title                    : "Carseus Lai"
 description              : "I work on computer vision and related problems."
-repository               : "ming053l/ming053l.github.io"
+repository               : "CarseusLai/carseuslai.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
