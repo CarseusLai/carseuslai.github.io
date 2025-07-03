@@ -107,26 +107,6 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS2024</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat**
-
-IEEE Transactions on Geoscience and Remote Sensing
-
-<a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee**, Guan-Lin Chen
-
-**Keywords**
-- Hypersepctral Image
-- Compression and Sensing
-- Image Restoration
-  
-  <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10474407" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">IEEE Xplore</a>
-      <a href="https://github.com/ming053l/RTCS" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
-  </div>
-</div>
-</div>
 
 # 💼 Work Experiences
 
