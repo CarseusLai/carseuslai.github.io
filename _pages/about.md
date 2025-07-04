@@ -34,11 +34,12 @@ My research interests include:
   
 I am also exploring other computer vision-related fields which are interested to me, such as Trustworthy/Efficient AI.
 
+<!--
 # 🔥 News
 
-- *2025/3/24*: &nbsp;🎉🎉 I receive the 3rd performance in CVPR 2025 (NTIRE Workshop, Image Shadow Removal Challenge), see you in Nashvile!
+- *2025/2/6*: &nbsp;🎉🎉 I receive the 3rd performance in CVPR 2025 (NTIRE Workshop, Image Shadow Removal Challenge), see you in Nashvile!
 - *2025/3/24*: &nbsp;🎉🎉 I receive the top3% ranking in CVPR 2025 (NTIRE Workshop, Image Reflection Removal Challenge)!
-- 
+-  -->
 
 # 💼 Work Experiences
 
