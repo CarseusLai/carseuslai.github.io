@@ -118,8 +118,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 ### 🗣️ Invited Talk
 
 ### 📝 Reviewer
-- **Conference Papers**
 <!--
+- **Conference Papers**
+
   - The Forty-fisrt IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2024).
 - **Journal Papers**  
   - *IEEE Transactions on Multimedia (TMM)*   
