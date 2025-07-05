@@ -20,7 +20,7 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-
+<!--
 I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU).
 
 I received a B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
@@ -33,7 +33,7 @@ My research interests include:
 - **Multimedia information security**
   
 I am also exploring other computer vision-related fields which are interested to me, such as Trustworthy/Efficient AI.
-
+ -->
 <!--
 # 🔥 News
 
@@ -42,13 +42,13 @@ I am also exploring other computer vision-related fields which are interested to
 -  -->
 
 # 💼 Work Experiences
-
+<!--
 - *2024.7~*: Brake system Defect Detection, Taiwan High Speed Rail.
 - *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
-
+ -->
 
 # 📝 Finished Products 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/AuroraHSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -112,24 +112,25 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 
 </div>
 </div>
-
+ -->
 # 🎓 Academic
 
 ### 🗣️ Invited Talk
 
 ### 📝 Reviewer
 - **Conference Papers**
+<!--
   - The Forty-fisrt IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2024).
 - **Journal Papers**  
   - *IEEE Transactions on Multimedia (TMM)*   
 - **Workshop Papers**  
   - The 8th AI City Challenge Workshop (AI-City2024), in conjuncted with IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
-
+ -->
 # 🎖 License
-
+<!--
 - *2025.03*:  **6th place (6/244)**, NTIRE 2025 Single Image Reflection Removal in the Wild Challenge, IEEE/CVF Computer Vision & Pattern Recognition (CVPR). 
 - *2025.03*:  **3rd place (3/306)**, NTIRE 2025 Single Image Shadow Removal Challenge, IEEE/CVF Computer Vision & Pattern Recognition (CVPR). 
 - *2024.12*:  **Runner-up (2/700)**, USV-based Embedded Obstacle Segmentation Challenge, Maritime Computer Vision Workshop, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV).
 - *2024.12*:  Shanghai Commercial and Savings Bank Foundation Scholarship.
-
+ -->
 # 🚀 Others
