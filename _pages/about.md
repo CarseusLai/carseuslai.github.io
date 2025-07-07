@@ -116,9 +116,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
  -->
 # 🎓 Educations
-- **2021.09 - 2025.01, M.S National Taipei University of Technology (NTUT)**
-- **2011.09 - 2012.11, M.S Chaoyang University of Technology (CYUT)**
-- **2009.09 - 2012.09, B.S Chaoyang University of Technology (CYUT)**
+- 2021.09 - 2025.01, M.S National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan
+- 2011.09 - 2012.11, M.S Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan
+- 2009.09 - 2012.09, B.S Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan
   
 # 📖 Academic
 - **Conference**
