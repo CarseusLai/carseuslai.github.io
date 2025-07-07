@@ -147,7 +147,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 # 🚀 Others
 **Work**
 - *2017.6~2018.4*: T-Star Telecom, Sales.
-- *2015.5.13~2017.2.25*: Australia Working Holiday, Backpacker.
+- *2015.5.13~2017.2.24*: Australia Working Holiday, Backpacker.
 
 **Achievements**
 
