@@ -65,6 +65,7 @@ I am also exploring other computer vision-related fields which are interested to
   </div>
 </div>
 </div>
+
 - *2018.7~2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer
 
 <!--
