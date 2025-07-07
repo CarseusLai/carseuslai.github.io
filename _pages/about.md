@@ -114,16 +114,18 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
  -->
 # 🎓 Academic
-
-### 🗣️ Invited Talk
-
-### 📝 Reviewer
-<!--
 - **Conference Papers**
+  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm (CSSV2024).
+- **Journal Papers**
+  - 賴昕碒（2025）。模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法。﹝碩士論文。國立臺北科技大學﹞臺灣博碩士論文知識加值系統。       https://hdl.handle.net/11296/3mez3q。*   
+<!--
+### 🗣️ Invited Talk
+### 📝 Reviewer
 
-  - The Forty-fisrt IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2024).
-- **Journal Papers**  
-  - *IEEE Transactions on Multimedia (TMM)*   
+
+  
+ 
+  
 - **Workshop Papers**  
   - The 8th AI City Challenge Workshop (AI-City2024), in conjuncted with IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
  -->
