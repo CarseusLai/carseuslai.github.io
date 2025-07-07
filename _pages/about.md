@@ -122,7 +122,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
   
 # 📖 Academic
 - **Conference**
-  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
+  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,<br> 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
 - **Journal**
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm.
 - **Monographs**
