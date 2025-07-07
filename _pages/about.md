@@ -42,10 +42,9 @@ I am also exploring other computer vision-related fields which are interested to
 -  -->
 
 # 💼 Work Experiences
-<!--
-- *2024.7~*: Brake system Defect Detection, Taiwan High Speed Rail.
-- *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
- -->
+
+- *2022.8~*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer.
+- *2018.7~2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer
 
 <!--
 
