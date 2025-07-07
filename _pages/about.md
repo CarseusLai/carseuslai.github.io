@@ -115,22 +115,22 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
 </div>
  -->
-
+# 📖 Educations
+- **2021.09 - 2025.01 National Taipei University of Technology (NTUT)**
+- **2009.09 - 2012.09 Chaoyang University of Technology (CYUT)**
+  
 # 🎓 Academic
-- **2021.09 - 2025.01 National Taipei University of Technology (NTUT)** - M.S
-- *Conference Papers*
-      - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
-- *Journal Papers*
-    - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm.
+- **Conference Papers**
+  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
+- **Journal Papers**
+  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm.
 
-
-- **2009.09 - 2012.09 Chaoyang University of Technology (CYUT)** - B.S
-- *Monographs*
-    - Baby Face 智慧型人臉跟隨之自走車系統.
+- **Monographs**
+  - Baby Face 智慧型人臉跟隨之自走車系統.
  
 
 <!--
-# 📖 Educations
+
 ### 🗣️ Invited Talk
 ### 📝 Reviewer
 
