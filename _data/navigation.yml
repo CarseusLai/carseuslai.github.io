@@ -12,8 +12,8 @@ main:
   - title: "Academic"
     url: "/#-academic"
     
-  - title: "License"
-    url: "/#-license"
+  - title: "Licenses"
+    url: "/#-licenses"
     
   - title: "Others"
     url: "/#-others"  
