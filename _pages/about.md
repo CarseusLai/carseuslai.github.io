@@ -20,6 +20,8 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
+### 📝 Skills
+
 <!--
 I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU).
 
@@ -44,6 +46,25 @@ I am also exploring other computer vision-related fields which are interested to
 # 💼 Work Experiences
 
 - *2022.8~*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer.
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/AuroraHSI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**AuroraHSI: Degradation-agnostic Hyperspectral Image Fusion Transformer via Mask-guided Information Sharing and Compensation**
+
+**Chia-Ming Lee**, Cheng-Jun Kang, Ching-Heng Cheng, <a href="https://vanlinlin.github.io/" target="https://vanlinlin.github.io/">Yu-Fan Lin</a>, <a href="https://nelly0421.github.io/" target="https://nelly0421.github.io/">Yi-Shiuan Chou</a>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, <a href="https://fuenyang1127.github.io/" target="https://fuenyang1127.github.io/">Fu-En Yang</a>, <a href="https://vllab.ee.ntu.edu.tw/ycwang.html" target="https://vllab.ee.ntu.edu.tw/ycwang.html">Yu-Chiang Frank Wang</a>
+
+**Keywords**
+
+- Hyperspectral Image Restoration
+- Robust Hyperspectral Image Fusion
+- Graph Neural Network
+  
+  <div class="links">
+      <a href="https://ming053l.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
+  </div>
+</div>
+</div>
 - *2018.7~2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer
 
 <!--
@@ -116,7 +137,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 # 🎓 Academic
 - **Conference Papers**
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm(CSSV2024).<br>
-    模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法 (CSSV2024)。
+    模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024)。
 - **Journal Papers**
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm.<br>
     模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法<br>(碩士論文, 國立臺北科技大學)臺灣博碩士論文知識加值系統。
