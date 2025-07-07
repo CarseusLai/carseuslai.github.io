@@ -47,8 +47,9 @@ I am also exploring other computer vision-related fields which are interested to
 - *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
  -->
 
-# 📝 Finished Products 
 <!--
+
+# 📝 Finished Products 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/AuroraHSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -117,7 +118,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - **Conference Papers**
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm (CSSV2024).
 - **Journal Papers**
-  - 賴昕碒（2025）。模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法。<br>﹝碩士論文。國立臺北科技大學﹞臺灣博碩士論文知識加值系統.
+  - 賴昕碒（2025）。模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法<br>﹝碩士論文。國立臺北科技大學﹞臺灣博碩士論文知識加值系統
 
 
 
