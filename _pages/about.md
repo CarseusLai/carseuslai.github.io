@@ -123,9 +123,12 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - **Journal Papers**
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm.
 
+
 - *2009.09 - 2012.09 Chaoyang University of Technology (CYUT)* - B.S
-- ** Bachelor's Monographs**
+- **Monographs**
   - Baby Face 智慧型人臉跟隨之自走車系統.
+ 
+
 <!--
 # 📖 Educations
 ### 🗣️ Invited Talk
