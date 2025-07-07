@@ -117,7 +117,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - **Conference Papers**
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm (CSSV2024).
 - **Journal Papers**
-  - 賴昕碒（2025）。模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法。﹝碩士論文。國立臺北科技大學﹞臺灣博碩士論文知識加值系統。       https://hdl.handle.net/11296/3mez3q。*   
+  - 賴昕碒（2025）。模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法。﹝碩士論文。國立臺北科技大學﹞臺灣博碩士論文知識加值系統。       https://hdl.handle.net/11296/3mez3q。
 <!--
 ### 🗣️ Invited Talk
 ### 📝 Reviewer
