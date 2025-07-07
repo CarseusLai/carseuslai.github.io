@@ -44,9 +44,9 @@ I am also exploring other computer vision-related fields which are interested to
 -  -->
 
 # 💼 Work Experiences
-
 - *2022.8~*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer.
-- *2018.7~2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer
+- *2018.7~2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer.
+
 
 <!--
 
@@ -116,9 +116,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
  -->
 # 🎓 Educations
-- 2021.09 - 2025.01, M.S National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan
-- 2011.09 - 2012.11, M.S Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan
-- 2009.09 - 2012.09, B.S Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan
+- 2021.09 - 2025.01, M.S National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.
+- 2011.09 - 2012.11, M.S Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.
+- 2009.09 - 2012.09, B.S Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.
   
 # 📖 Academic
 - **Conference**
@@ -145,3 +145,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - *2024.12*:  Shanghai Commercial and Savings Bank Foundation Scholarship.
  -->
 # 🚀 Others
+**Work**
+- *2017.6~2018.4*: T-Star Telecom, Sales.
+- *2015.5.13~2017.2.25*: Australia Working Holiday, Backpacker.
+
+**Achievements**
+- *2017.6~2018.4*: T-Star Telecom, Sales.
