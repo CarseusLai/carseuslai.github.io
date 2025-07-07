@@ -46,26 +46,6 @@ I am also exploring other computer vision-related fields which are interested to
 # 💼 Work Experiences
 
 - *2022.8~*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer.
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/AuroraHSI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**AuroraHSI: Degradation-agnostic Hyperspectral Image Fusion Transformer via Mask-guided Information Sharing and Compensation**
-
-**Chia-Ming Lee**, Cheng-Jun Kang, Ching-Heng Cheng, <a href="https://vanlinlin.github.io/" target="https://vanlinlin.github.io/">Yu-Fan Lin</a>, <a href="https://nelly0421.github.io/" target="https://nelly0421.github.io/">Yi-Shiuan Chou</a>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, <a href="https://fuenyang1127.github.io/" target="https://fuenyang1127.github.io/">Fu-En Yang</a>, <a href="https://vllab.ee.ntu.edu.tw/ycwang.html" target="https://vllab.ee.ntu.edu.tw/ycwang.html">Yu-Chiang Frank Wang</a>
-
-**Keywords**
-
-- Hyperspectral Image Restoration
-- Robust Hyperspectral Image Fusion
-- Graph Neural Network
-  
-  <div class="links">
-      <a href="https://ming053l.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
-  </div>
-</div>
-</div>
-
 - *2018.7~2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer
 
 <!--
