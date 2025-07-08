@@ -45,7 +45,7 @@ I am also exploring other computer vision-related fields which are interested to
 
 # 💼 Work Experiences
 - *2022.8 - Now*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer, Taipei
-- *2018.7 - 2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer. ShenZhen/Taipei.
+- *2018.7 - 2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer, ShenZhen/Taipei.
 
 
 <!--
