@@ -149,22 +149,21 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
  -->
 # 🎓 Educations
 - 2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.
-- 2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.
-- 2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.
-  
-# 📖 Academic
 - **Conference**
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,<br>
   模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
 - **Journal**
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,<br>
   模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(NTUT2025)
+
+- 2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.
+- 2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.
 - **Monographs**
   - Baby Face 智慧型人臉跟隨之自走車系統.
  
 
 <!--
-
+# 📖 Academic
 ### 🗣️ Invited Talk
 ### 📝 Reviewer
 
@@ -180,9 +179,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
  -->
 # 🚀 Others
 **Different Fields Work Experiences**
-- *2017.6 - 2018.4*: T-Star Telecom, Sales, Changhua.
+- *2017.6 - 2018.4*: Taiwan Star Telecom Co. Ltd. , Sales, Changhua.
 - *2015.5.13 - 2017.2.24*: Working Holiday, Backpacker, Australia.
-- *2014.4.14 - 2015.4.10*: Press Releases, Taoyuan.
+- *2014.4.14 - 2015.4.10*: Substitute Military Service - Press Releases of Police, Taoyuan.
 
 **Achievements**
 - 2016.12 - 2017.2, Blueberry Picker, Season top 1 of 500 people, Australia.
