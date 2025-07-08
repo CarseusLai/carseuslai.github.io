@@ -119,14 +119,14 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 </div>
 
-**<font color="blue">2017.6 - 2018.4: Taiwan Star Telecom Co. Ltd.</font>**, ShenZhen/Taipei<br>
-  - 🎵**<font color="brown">Sales</font>**<br>
+**<font color="blue">2017.6 - 2018.4: Taiwan Star Telecom Co. Ltd.</font>**, Taiwan,Changhua<br>
+  - **<font color="brown">Sales</font>**<br>
 
 **<font color="blue">2015.5.13 - 2017.2.24: Working Holiday</font>**, Australia<br>
-  - 🎵**<font color="brown">Backpacker</font>**<br>
+  - **<font color="brown">Backpacker</font>**<br>
 
-**<font color="blue">2014.4.14 - 2015.4.10: Substitute Military Service</font>**, ShenZhen/Taipei<br>
-  - 🎵**<font color="brown">Press Releases of Police</font>**<br>
+**<font color="blue">2014.4.14 - 2015.4.10: Substitute Military Service</font>**, Taiwan,Taoyuan<br>
+  - **<font color="brown">Press Releases of Police</font>**<br>
 
 <!--
 
