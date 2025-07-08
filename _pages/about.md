@@ -44,8 +44,8 @@ I am also exploring other computer vision-related fields which are interested to
 -  -->
 
 # 💼 Work Experiences
-- *2022.8 - Now*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer.
-- *2018.7 - 2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer.
+- *2022.8 - Now*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer, Taipei
+- *2018.7 - 2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer. ShenZhen/Taipei.
 
 
 <!--
@@ -146,8 +146,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
  -->
 # 🚀 Others
 **Different Fields Work Experiences**
-- *2017.6~2018.4*: T-Star Telecom, Sales.
-- *2015.5.13~2017.2.24*: Australia Working Holiday, Backpacker.
+- *2017.6 - 2018.4*: T-Star Telecom, Sales, Changhua.
+- *2015.5.13 - 2017.2.24*: Working Holiday, Backpacker, Australia.
 
 **Achievements**
-
+- 2016.12 - 2017.2, Blueberry Picker, Season top 1 of 500 people, Australia.
+- 2008 - 2013, SF Online Game Referee, Professional Game Shooter, Taiwan.
