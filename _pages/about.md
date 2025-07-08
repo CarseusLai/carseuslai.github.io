@@ -71,7 +71,7 @@ I am also exploring other computer vision-related fields which are interested to
 
 # 💼 Work Experiences
 **<font color="blue">2022.8 - Now: Luxshare-ICT</font>** - Audio Algorithm Development Department, Taipei<br>
-  - 🎵**<font color="brown">Product Design & Firmware Engineer</font>**<br>
+  - 🎵**<font color="brown">Acoustic Product Design & Firmware Engineer</font>**<br>
   Clients Collaborated With: Dell, Microsoft
   Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-      BT/wireless) with Teams and Zoom license.My responsibilities include porting the audio path in MCU(RTOS)    with DSP algorithms and supporting the firmware team with projects related to UI/UX, drivers, APIs, and     debugging issues. Additionally, I am proficient in using Git for version control and code management. 
 
