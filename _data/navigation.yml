@@ -9,9 +9,6 @@ main:
   - title: "Educations"
     url: "/#-educations"
     
-  - title: "Academic"
-    url: "/#-academic"
-    
   - title: "Licenses"
     url: "/#-licenses"
     
