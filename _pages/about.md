@@ -119,6 +119,14 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 </div>
 
+**<font color="blue">2017.6 - 2018.4: Taiwan Star Telecom Co. Ltd.</font>**, ShenZhen/Taipei<br>
+  - 🎵**<font color="brown">Sales</font>**<br>
+
+**<font color="blue">2015.5.13 - 2017.2.24: Working Holiday</font>**, Australia<br>
+  - 🎵**<font color="brown">Backpacker</font>**<br>
+
+**<font color="blue">2014.4.14 - 2015.4.10: Substitute Military Service</font>**, ShenZhen/Taipei<br>
+  - 🎵**<font color="brown">Press Releases of Police</font>**<br>
 
 <!--
 
@@ -189,16 +197,17 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
  -->
 # 🎓 Educations
 **2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.**
-## 📖 Academic
+### 📖 Academic
 - Conference
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
 - Journal
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(NTUT2025)
 
-**2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>\
-## 📖 Academic
+**2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
+### 📖 Academic
+
 **2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
-## 📖 Academic
+### 📖 Academic
 - Monographs
   - Baby Face 智慧型人臉跟隨之自走車系統.
  
@@ -218,11 +227,6 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - *2024.12*:  Shanghai Commercial and Savings Bank Foundation Scholarship.
  -->
 # 🚀 Others
-**Different Fields Work Experiences**
-- *2017.6 - 2018.4*: Taiwan Star Telecom Co. Ltd. , Sales, Changhua.
-- *2015.5.13 - 2017.2.24*: Working Holiday, Backpacker, Australia.
-- *2014.4.14 - 2015.4.10*: Substitute Military Service - Press Releases of Police, Taoyuan.
-
 **Achievements**
 - 2016.12 - 2017.2, Blueberry Picker, Season top 1 of 500 people, Australia.
 - 2008 - 2013, SF Online Game Referee and Professional Game Shooter(PR90), Taiwan.
