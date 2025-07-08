@@ -47,6 +47,10 @@ I am also exploring other computer vision-related fields which are interested to
 
 # 💼 Work Experiences
 - *2022.8 - Now*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer, Taipei
+- Clients Collaborated With: Dell, Microsoft
+Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom license.
+My responsibilities include porting the audio path in MCU(RTOS) with DSP algorithms and supporting the firmware team with projects related to UI/UX, drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management. 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sample</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -148,17 +152,17 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
  -->
 # 🎓 Educations
-- 2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.
-- **Conference**
+- **2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.**
+- *Conference*
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,<br>
   模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
-- **Journal**
+- *Journal*
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,<br>
   模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(NTUT2025)
 
-- 2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.
-- 2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.
-- **Monographs**
+- **2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**
+- **2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**
+- *Monographs*
   - Baby Face 智慧型人臉跟隨之自走車系統.
  
 
