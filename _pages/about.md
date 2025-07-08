@@ -21,13 +21,7 @@ redirect_from:
 # 🧍‍♂️ Biography
 
 ### 📝 Skills
-- MCU
-  - Microchip
-  - Atmel
-  - ST
-  - STM
-  - NXP
-  - Airoha
+- MCU - Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
 - Git - TortoiseGit
 - Programming Language
   - Assmbly 8051
@@ -70,7 +64,7 @@ I am also exploring other computer vision-related fields which are interested to
 -  -->
 
 # 💼 Work Experiences
-**<font color="blue">Luxshare-ICT</font>**         Taipei, 2022.8 - Now <br>
+**<font color="blue">Luxshare-ICT</font>** Taipei, 2022.8 - Now <br>
 - Audio Algorithm Development Department<br>
   - ♪ **<font color="brown">Acoustic Product Design & Firmware Engineer</font>**<br>
   Clients Collaborated With: Dell, Microsoft<br>
@@ -106,7 +100,8 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 </div>
 
-**<font color="blue">Mansion Industry</font>** - Firmware Development Department<br> ShenZhen/Taipei, 2018.7 - 2022.7<br>
+**<font color="blue">Mansion Industry</font>** ShenZhen/Taipei, 2018.7 - 2022.7<br>
+- Firmware Development Department<br>
   - ♩ **<font color="brown">Audio Product Assistant Manager & Firmware Engineer</font>**<br>
   Clients Collaborated With: OSD, Soundavo, Dynasty, KEF<br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems,   offering multi-channel audio solutions for residential and commercial use. From 2018 to 2020, I             participated in several Dante/AES67 conferences and online seminars and gained hands-on experience          configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution        development, and programming MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and     IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct      testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at     annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and 
@@ -120,20 +115,20 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 </div>
 
-**<font color="blue">Taiwan Star Telecom Co. Ltd.</font>**<br> Taiwan-Changhua, 2017.6 - 2018.4<br>
-  - **<font color="brown">Sales</font>**<br>
+**<font color="blue">Taiwan Star Telecom Co. Ltd.</font>** Taiwan-Changhua, 2017.6 - 2018.4<br>
+    - **<font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. 
 Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
 
-**<font color="blue">Working Holiday</font>**<br> Australia, 2015.5.13 - 2017.2.24<br>
-  - **<font color="brown">Backpacker</font>**<br>
+**<font color="blue">Working Holiday</font>** Australia, 2015.5.13 - 2017.2.24<br>
+    - **<font color="brown">Backpacker</font>**<br>
   Farm fruit: strawberry packer, blueberry picker, cherry packer, tomato picker, red berry picker, blackberry picker.
 part-time jobs: CCTV installation, construction worker, moving laborer.
 
 
-**<font color="blue">Substitute Military Service</font>**<br> Taiwan-Taoyuan, 2014.4.14 - 2015.4.10<br>
-  - **<font color="brown">Press Releases of Police</font>**<br>
+**<font color="blue">Substitute Military Service</font>** Taiwan-Taoyuan, 2014.4.14 - 2015.4.10<br>
+    - **<font color="brown">Press Releases of Police</font>**<br>
   As a substitute military serviceman responsible for writing press releases 
 at Taoyuan Airport Terminal 2 (Aviation Police Second Platoon team one), collaborating with stationed airport reporters from media outlets such as 
 CTI, EBC, SENT News, and others. 
