@@ -67,6 +67,12 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sample</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font color="green">Product 2</font>** 
+</div>
+</div>
  
 - *2018.7 - 2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer, ShenZhen/Taipei.
 
