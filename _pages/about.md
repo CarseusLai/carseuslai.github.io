@@ -70,7 +70,7 @@ I am also exploring other computer vision-related fields which are interested to
 -  -->
 
 # 💼 Work Experiences
-**2022.8 - Now: Luxshare-ICT**<br>
+**<font color="blue">2022.8 - Now: Luxshare-ICT</font>** 
 - Audio Algorithm Development Department<br>
   - Product Design & Firmware Engineer, Taipei<br>
   Clients Collaborated With: Dell, Microsoft
@@ -105,8 +105,8 @@ I am also exploring other computer vision-related fields which are interested to
 **<font color="green">Product 2</font>** 
 </div>
 </div>
- 
-**2018.7 - 2022.7: Mansion Industry**<br>
+
+**<font color="blue">2018.7 - 2022.7: Mansion Industry</font>** 
 - Firmware Development Department<br>
   - Audio Product Assistant Manager & Firmware Engineer, ShenZhen/Taipei.<br>
   Clients Collaborated With: OSD, Soundavo, Dynasty, KEF
