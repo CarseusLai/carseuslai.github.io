@@ -71,7 +71,8 @@ I am also exploring other computer vision-related fields which are interested to
 
 # 💼 Work Experiences
 **2022.8 - Now: Luxshare-ICT**<br>
-Audio Algorithm Development Department - Product Design & Firmware Engineer, Taipei<br>
+- Audio Algorithm Development Department<br>
+  - Product Design & Firmware Engineer, Taipei<br>
   Clients Collaborated With: Dell, Microsoft
   Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-      BT/wireless) with Teams and Zoom license.My responsibilities include porting the audio path in MCU(RTOS)    with DSP algorithms and supporting the firmware team with projects related to UI/UX, drivers, APIs, and     debugging issues. Additionally, I am proficient in using Git for version control and code management. 
 
@@ -106,7 +107,8 @@ Audio Algorithm Development Department - Product Design & Firmware Engineer, Tai
 </div>
  
 **2018.7 - 2022.7: Mansion Industry**<br>
-Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer, ShenZhen/Taipei.<br>
+- Firmware Development Department<br>
+  - Audio Product Assistant Manager & Firmware Engineer, ShenZhen/Taipei.<br>
   Clients Collaborated With: OSD, Soundavo, Dynasty, KEF
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems,   offering multi-channel audio solutions for residential and commercial use. From 2018 to 2020, I             participated in several Dante/AES67 conferences and online seminars and gained hands-on experience          configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution        development, and programming MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and     IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct      testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at     annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and 
   Chengdu (2018 - 2020).
