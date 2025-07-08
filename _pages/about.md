@@ -21,9 +21,33 @@ redirect_from:
 # 🧍‍♂️ Biography
 
 ### 📝 Skills
+- MCU
+  - Microchip
+  - Atmel
+  - ST
+  - STM
+  - NXP
+  - Airoha
+- Git - TortoiseGit
+- Programming Language
+  - Assmbly 8051
+  - C/C++
+  - VB.net/C#
+  - MATLAB
+  - Python
+- Test & Measurement
+  - Audio Precision
+  - Oscilloscope
+  - Logic Analyzer
+- OS - Windows, Linux/Mac
+- System Analysis
+- Hardware Debugging
+- Development Platforms
+  - LabVIEW
+  - Visual Studio
 - Photoshop
 - Illustrator
-- Car repair
+- Car mechanic
 
 <!--
 I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU).
