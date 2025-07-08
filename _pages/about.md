@@ -87,6 +87,16 @@ Firmware Development Department - Audio Product Assistant Manager & Firmware Eng
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems,   offering multi-channel audio solutions for residential and commercial use. From 2018 to 2020, I             participated in several Dante/AES67 conferences and online seminars and gained hands-on experience          configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution        development, and programming MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and     IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct      testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at     annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and 
   Chengdu (2018 - 2020).
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sample</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font color="green">Product 2</font>** 
+</div>
+</div>
+
 
 <!--
 
