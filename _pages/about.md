@@ -45,7 +45,7 @@ I am also exploring other computer vision-related fields which are interested to
 # 💼 Work Experiences
 - *2022.8 - Now*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer, Taipei
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sample</div><img src='images/drct_fix.gif' alt="sym" width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sample</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font color="green">[Product 1]</font>** 
