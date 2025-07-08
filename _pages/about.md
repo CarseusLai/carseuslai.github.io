@@ -21,7 +21,9 @@ redirect_from:
 # 🧍‍♂️ Biography
 
 ### 📝 Skills
-
+- Photoshop
+- Illustrator
+- Car repair
 <!--
 I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU).
 
@@ -177,10 +179,10 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 **Different Fields Work Experiences**
 - *2017.6 - 2018.4*: T-Star Telecom, Sales, Changhua.
 - *2015.5.13 - 2017.2.24*: Working Holiday, Backpacker, Australia.
+- *2014.4.14 - 2015.4.10*: Press Releases, Taoyuan.
 
 **Achievements**
 - 2016.12 - 2017.2, Blueberry Picker, Season top 1 of 500 people, Australia.
 - 2008 - 2013, SF Online Game Referee, Professional Game Shooter(PR90), Taiwan.
 
- ### Strengths
 
