@@ -45,19 +45,13 @@ I am also exploring other computer vision-related fields which are interested to
 # 💼 Work Experiences
 - *2022.8 - Now*: Luxshare-ICT, Audio Algorithm Development Department - Product Design & Firmware Engineer, Taipei
 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DRCT: Saving Image Super-Resolution away from Information Bottleneck** 
-
-IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Trends in Image Restoration and Enhancement (NTIRE) Workshop  <font color="red">[Oral]</font>
-
-<a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, **Chia-Ming Lee**, <a href="https://nelly0421.github.io/" target="https://nelly0421.github.io/">Yi-Shiuan Chou</a>
-
+**<font color="red">[Product 1]</font>** 
+<!--
 **Keywords** <img alt="Stars" src="https://img.shields.io/github/stars/ming053l/DRCT">
+
 - Image Super-resolution
 - Information Bottleneck
   <div class="links">
@@ -71,7 +65,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 
 </div>
 </div>
-
+ -->
+ 
 - *2018.7 - 2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer, ShenZhen/Taipei.
 
 
