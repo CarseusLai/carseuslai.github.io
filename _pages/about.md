@@ -63,10 +63,10 @@ I am also exploring other computer vision-related fields which are interested to
       <a href="https://drive.google.com/file/d/1zR9wSwqCryLeKVkJfTuoQILKiQdf_Vdz/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Poster</a>
       <a href="https://docs.google.com/presentation/d/1MxPPtgQZ61GFSr3YfGOm9scm23bbbXRj/edit?usp=sharing&ouid=105932000013245886245&rtpof=true&sd=true" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Slide</a>
   </div>
-
-</div>
-</div>
  -->
+</div>
+</div>
+
  
 - *2018.7 - 2022.7*: Mansion Industry, Firmware Development Department - Audio Product Assistant Manager & Firmware Engineer, ShenZhen/Taipei.
 
