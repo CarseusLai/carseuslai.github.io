@@ -190,11 +190,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 # 🎓 Educations
 **2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.**
 - Conference
-  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,<br>
-  模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
+  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(CSSV2024).
 - Journal
-  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,<br>
-  模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(NTUT2025)
+  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(NTUT2025)
 
 **2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 **2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
