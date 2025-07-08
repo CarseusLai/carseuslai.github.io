@@ -182,5 +182,5 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - 2016.12 - 2017.2, Blueberry Picker, Season top 1 of 500 people, Australia.
 - 2008 - 2013, SF Online Game Referee, Professional Game Shooter(PR90), Taiwan.
 
- ## Strengths
+ ### Strengths
 
