@@ -60,7 +60,7 @@ I am also exploring other computer vision-related fields which are interested to
 -  -->
 
 # 💼 Work Experience
-**<font color="blue">Luxshare-ICT</font>** <span style="display: inline-block; margin-left: auto;">Taipei, 2022.8 - Now</span><br>
+**<font color="blue">Luxshare-ICT</font>** <span style="display: inline-block; margin-right: auto;">Taipei, 2022.8 - Now</span><br>
 - **Audio Algorithm Development Department - ♪ <font color="brown">Acoustic Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
   Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-      BT/wireless) with Teams and Zoom license.My responsibilities include porting the audio path in MCU(RTOS)    with DSP algorithms and supporting the firmware team with projects related to UI/UX, drivers, APIs, and     debugging issues. Additionally, I am proficient in using Git for version control and code management. 
@@ -188,7 +188,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
 </div>
  -->
-# 🎓 Educations
+# 🎓 Education
 **2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.** 
 **<font color="red"> GPA: 3.88/4.0</font>**
 
@@ -200,7 +200,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 
 **2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 ### 📖 Academic
+- Journal
   - Employee Face Detection Time Clock System 人臉打卡辨識系統
+
 **2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 ### 📖 Academic
 - Monographs
@@ -221,7 +223,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - *2024.12*:  **Runner-up (2/700)**, USV-based Embedded Obstacle Segmentation Challenge, Maritime Computer Vision Workshop, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV).
 - *2024.12*:  Shanghai Commercial and Savings Bank Foundation Scholarship.
  -->
-# 🚀 Others
+# 🚀 Other
 **Achievements**
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia - Lindendale.
 - 2016.6 - 2016.9, (WHV)Strawberry Packer, Season top 5 of 80 people, Australia - Caboolture.
