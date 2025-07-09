@@ -201,12 +201,12 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 <font color="#D2B48C">*[Previous Field]</font>
 **2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 - Industry-Academic Cooperation Project
-  - Employee Face Detection Time Clock System 人臉打卡辨識系統
+  - Employee Face Detection Time Clock System 人臉打卡辨識系統(2013)
 
 **2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 ### 📖 Academic
 - Monographs
-  - Baby Face 智慧型人臉跟隨之自走車系統.
+  - Baby Face 智慧型人臉跟隨之自走車系統(CYUT2012).
  
 
 <!--
