@@ -6,11 +6,11 @@ main:
   - title: "Work Experience"
     url: "/#-work-experience"
     
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
     
-  - title: "Licenses"
-    url: "/#-licenses"
+  - title: "License"
+    url: "/#-license"
     
-  - title: "Others"
-    url: "/#-others"  
+  - title: "Other"
+    url: "/#-other"  
