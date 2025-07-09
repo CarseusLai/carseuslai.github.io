@@ -110,8 +110,8 @@ Additionally, it requires executing company-assigned tasks, handling customer co
 
 **<font color="blue">Working Holiday Visa</font>** <span style="display: inline-block; width: 60%; text-align: right;">Australia, 2015.5.13 - 2017.2.24</span><br>
 - **<font color="brown">Backpacker</font>**<br>
-  Farm fruit: strawberry packer, blueberry picker, cherry packer, tomato picker, red berry picker, blackberry picker.
-part-time jobs: CCTV installation, construction worker, moving laborer.
+  Farm fruit: strawberry packer, blueberry picker, cherry packer, tomato picker, red berry picker, blackberry picker.<br>
+Part-time jobs: CCTV installation, construction worker, moving laborer.
 
 
 **<font color="blue">Substitute Military Service</font>** <span style="display: inline-block; width: 60%; text-align: right;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
