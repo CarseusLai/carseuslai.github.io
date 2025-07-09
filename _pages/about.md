@@ -33,6 +33,7 @@ Reliable, detail-oriented, and analytical, with strong learning agility and exce
   - Audio Precision
   - Oscilloscope
   - Logic Analyzer
+  - multimeter
 - OS: Windows, Linux/Mac
 - System Analysis
 - Hardware Debugging
