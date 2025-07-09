@@ -63,7 +63,7 @@ I am also exploring other computer vision-related fields which are interested to
 - *2025/2/6*: &nbsp;🎉🎉 I receive the 3rd performance in CVPR 2025 (NTIRE Workshop, Image Shadow Removal Challenge), see you in Nashvile!
 -  -->
 
-# 💼 Work Experiences
+# 💼 Work Experience
 **<font color="blue">Luxshare-ICT</font>** Taipei, 2022.8 - Now <br>
 - **Audio Algorithm Development Department - ♪ <font color="brown">Acoustic Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
