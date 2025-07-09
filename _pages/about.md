@@ -21,8 +21,8 @@ redirect_from:
 # 🧍‍♂️ Biography
 Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
 ### 📝 Skills
-- MCU - Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
-- Git - TortoiseGit
+- MCU: Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
+- Git: TortoiseGit
 - Programming Language
   - Assmbly 8051
   - C/C++
@@ -36,8 +36,8 @@ Reliable, detail-oriented, and analytical, with strong learning agility and exce
 - OS - Windows, Linux/Mac
 - System Analysis
 - Hardware Debugging
-- Development Platforms - LabVIEW, Visual Studio
-- Other - Photoshop, Illustrator, Car mechanic
+- Development Platforms: LabVIEW, Visual Studio
+- Other: Photoshop, Illustrator, Car mechanic
 
 <!--
 I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU).
