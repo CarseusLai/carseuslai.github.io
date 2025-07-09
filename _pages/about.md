@@ -193,8 +193,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
  -->
 # 🎓 Educations
-**2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.**
-<font color="red"> GPA: 3.88/4.0</font>
+**2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.** 
+**<font color="red"> GPA: 3.88/4.0</font>**
 
 ### 📖 Academic
 - Conference
