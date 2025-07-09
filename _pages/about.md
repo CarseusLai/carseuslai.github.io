@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧍‍♂️ Biography  **Keeps Increasing INFO......**
+# 🧍‍♂️ Biography  **<font color="red">[Keeps Increasing INFO......]</font>
 Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
 ### 📝 Skills
 - MCU: Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
