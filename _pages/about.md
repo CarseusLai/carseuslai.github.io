@@ -19,7 +19,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography  **<font color="red">[Keeps Increasing INFO......]</font>**
-Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
+I am an engineer specializing in audio, algorithms, and firmware, with strong skills in system analysis and debugging.
+
+Personal Attributes: Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
+
 ### 📝 Skills
 - MCU: Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
 - Git: TortoiseGit
