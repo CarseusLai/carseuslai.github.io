@@ -112,7 +112,7 @@ I am also exploring other computer vision-related fields which are interested to
 Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
 
-**<font color="blue">Working Holiday</font>** Australia, 2015.5.13 - 2017.2.24<br>
+**<font color="blue">Working Holiday Visa</font>** Australia, 2015.5.13 - 2017.2.24<br>
   - **<font color="brown">Backpacker</font>**<br>
   Farm fruit: strawberry packer, blueberry picker, cherry packer, tomato picker, red berry picker, blackberry picker.
 part-time jobs: CCTV installation, construction worker, moving laborer.
@@ -225,5 +225,6 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
  -->
 # 🚀 Others
 **Achievements**
-- 2016.12 - 2017.2, Blueberry Picker, Season top 1 of 500 people, Australia.
-- 2008 - 2013, SF Online Game Referee and Professional Game Shooter(PR90), Taiwan.
+- 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia - Lindendale.
+- 2016.6 - 2016.9, (WHV)Strawberry Packer, Season top 5 of 80 people, Australia - Caboolture.
+- 2008 - 2013, (Part time of student days) SF Online Game Referee and Professional Game Shooter(PR90), Taiwan.
