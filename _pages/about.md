@@ -102,7 +102,7 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 </div>
 
-**<font color="blue">Taiwan Star Telecom Co. Ltd.</font>** Taiwan-Changhua, 2017.6 - 2018.4<br>
+**<font color="blue">Taiwan Star Telecom Co. Ltd.</font>** <span style="padding-left:20px;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
 - **<font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. 
 Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
