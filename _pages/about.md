@@ -221,12 +221,12 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
   - The 8th AI City Challenge Workshop (AI-City2024), in conjuncted with IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
  -->
 # 🎖 License
-<!--
-- *2025.03*:  **6th place (6/244)**, NTIRE 2025 Single Image Reflection Removal in the Wild Challenge, IEEE/CVF Computer Vision & Pattern Recognition (CVPR). 
-- *2025.03*:  **3rd place (3/306)**, NTIRE 2025 Single Image Shadow Removal Challenge, IEEE/CVF Computer Vision & Pattern Recognition (CVPR). 
-- *2024.12*:  **Runner-up (2/700)**, USV-based Embedded Obstacle Segmentation Challenge, Maritime Computer Vision Workshop, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV).
-- *2024.12*:  Shanghai Commercial and Savings Bank Foundation Scholarship.
- -->
+- *2020.02.17*: Audinate - Dnate Certification Level 3 ().
+- *2020.02.04*: Audinate - Dnate Certification Level 2 ().
+- *2019.02.27*: Audinate - Dnate Certification Level 1 ().
+- *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).
+- *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214). 
+
 # 🚀 Other
 **Achievements**
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia-Lindendale.
