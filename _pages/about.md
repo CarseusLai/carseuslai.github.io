@@ -33,7 +33,7 @@ Reliable, detail-oriented, and analytical, with strong learning agility and exce
   - Audio Precision
   - Oscilloscope
   - Logic Analyzer
-- OS - Windows, Linux/Mac
+- OS: Windows, Linux/Mac
 - System Analysis
 - Hardware Debugging
 - Development Platforms: LabVIEW, Visual Studio
@@ -200,7 +200,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 
 **2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 ### 📖 Academic
-
+  - Employee Face Detection Time Clock System 人臉打卡辨識系統
 **2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 ### 📖 Academic
 - Monographs
