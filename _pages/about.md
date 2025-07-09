@@ -115,7 +115,7 @@ Part-time jobs: CCTV installation, construction worker, moving laborer.
 
 
 **<font color="blue">Substitute Military Service</font>** <span style="display: inline-block; width: 60%; text-align: right;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
-- **<font color="black">Aviation Police Second Platoon team one - </font><font color="brown">Press Releases of Police</font>**<br>
+- **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Releases of Police</font>**<br>
   As a substitute military serviceman responsible for writing press releases 
 at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as 
 CTI, EBC, SENT News, and others. 
