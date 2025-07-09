@@ -227,4 +227,4 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 **Achievements**
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia - Lindendale.
 - 2016.6 - 2016.9, (WHV)Strawberry Packer, Season top 5 of 80 people, Australia - Caboolture.
-- 2008 - 2013, (Part time of student days) SF Online Game Referee and Professional Game Shooter(PR90), Taiwan.
+- 2008 - 2013, (Student Days) SF Online Game Referee and Professional Game Shooter(PR90), Taiwan.
