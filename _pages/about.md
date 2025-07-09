@@ -39,9 +39,10 @@ Reliable, detail-oriented, and analytical, with strong learning agility and exce
 - Development Platforms
   - LabVIEW
   - Visual Studio
-- Photoshop
-- Illustrator
-- Car mechanic
+- Other
+  - Photoshop
+  - Illustrator
+  - Car mechanic
 
 <!--
 I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU).
