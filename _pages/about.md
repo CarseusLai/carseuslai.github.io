@@ -103,13 +103,13 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 
 **<font color="blue">Taiwan Star Telecom Co. Ltd.</font>** <span style="display: inline-block; width: 60%; text-align: right;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
-- **<font color="brown">Sales</font>**<br>
+- Changhua Store - **<font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. 
 Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
 
 **<font color="blue">Working Holiday Visa</font>** <span style="display: inline-block; width: 60%; text-align: right;">Australia, 2015.5.13 - 2017.2.24</span><br>
-  - **<font color="brown">Backpacker</font>**<br>
+- **<font color="brown">Backpacker</font>**<br>
   Farm fruit: strawberry packer, blueberry picker, cherry packer, tomato picker, red berry picker, blackberry picker.
 part-time jobs: CCTV installation, construction worker, moving laborer.
 
