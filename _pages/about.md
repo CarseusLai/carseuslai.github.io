@@ -198,7 +198,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - Journal
   - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法(NTUT2025)
 
-*<font color="black">[Previous Field]</font><br>
+<font color="black">*[Previous Field]</font><br>
 **2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 - Industry-Academic Cooperation Project
   - Employee Face Detection Time Clock System 人臉打卡辨識系統
