@@ -103,7 +103,7 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 
 **<font color="blue">Taiwan Star Telecom Co. Ltd.</font>** <span style="display: inline-block; width: 60%; text-align: right;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
-- Changhua Store - **<font color="brown">Sales</font>**<br>
+- **Changhua Store - <font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. 
 Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
@@ -115,7 +115,7 @@ part-time jobs: CCTV installation, construction worker, moving laborer.
 
 
 **<font color="blue">Substitute Military Service</font>** <span style="display: inline-block; width: 60%; text-align: right;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
-- Aviation Police Second Platoon team one - **<font color="brown">Press Releases of Police</font>**<br>
+- **Aviation Police Second Platoon team one - <font color="brown">Press Releases of Police</font>**<br>
   As a substitute military serviceman responsible for writing press releases 
 at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as 
 CTI, EBC, SENT News, and others. 
