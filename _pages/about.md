@@ -25,7 +25,7 @@ I have a Master’s degree from the Department of Automation Technology at Natio
 My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,” addressed the simulation of drain pipe noise and its reduction through adaptive filtering techniques.<br>
 <br>
 **Personal Attributes: Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.**
-
+<br>
 ### 📝 Skills
 - MCU: Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
 - Git: TortoiseGit
@@ -65,7 +65,8 @@ I am also exploring other computer vision-related fields which are interested to
 
 - *2025/2/6*: &nbsp;🎉🎉 I receive the 3rd performance in CVPR 2025 (NTIRE Workshop, Image Shadow Removal Challenge), see you in Nashvile!
 -  -->
-
+<br>
+<br>
 # 💼 Work Experience
 **<font color="#007a87">Luxshare-ICT</font>** <span  style="display: inline-block; width: 60%; text-align: right;">Taipei, 2022.8 - Now</span ><br>
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustic Product Design / Firmware Engineer</font>**<br>
@@ -195,6 +196,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
 </div>
  -->
+ <br>
+ <br>
 # 🎓 Education
 **2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.** 
 **<font color="red"> GPA: 3.88/4.0</font>**
@@ -223,6 +226,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - **Workshop Papers**  
   - The 8th AI City Challenge Workshop (AI-City2024), in conjuncted with IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
  -->
+ <br>
+ <br>
 # 🎖 License
 - *2020.12.31*: Udemy - 學習和理解Node.JS.
 - *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站.
@@ -232,6 +237,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214). 
 - *2008*: WORKFORCE DEVELOPMENT AGENCY, MINSTRY OF LABOR - Level B technician for computer hardware fabrication.
+<br>
+<br>
 # 🚀 Other
 **Achievements**
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia-Lindendale.
