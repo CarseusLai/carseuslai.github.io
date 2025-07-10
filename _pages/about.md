@@ -236,8 +236,12 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214). 
 - *2008*: WORKFORCE DEVELOPMENT AGENCY, MINSTRY OF LABOR - Level B technician for computer hardware fabrication.
-<br>
-<br>
+
+
+
+
+  <br>
+  <br>
 # 🚀 Other
 **Achievements**
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia-Lindendale.
