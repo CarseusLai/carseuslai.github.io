@@ -216,8 +216,6 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 ### 📖 Academic
 - Monographs
   - Baby Face 智慧型人臉跟隨之自走車系統(CYUT2012).
- 
-
 <!--
 ### 🗣️ Invited Talk
 ### 📝 Reviewer
