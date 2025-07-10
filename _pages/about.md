@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧍‍♂️ Biography  **<font color="red">[Keeps Increasing INFO......]</font>**
+# 🧍‍♂️ Biography  **<font color="red">[Keep on Increasing......]</font>**
 I am an engineer specializing in audio, algorithms, and firmware, with strong skills in system analysis and debugging.
 
 Personal Attributes: Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
