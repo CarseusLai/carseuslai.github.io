@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography  **<font color="red">[Keep on Increasing......]</font>**
-I am an engineer specializing in audio, and firmware, with strong expertise in system analysis and debugging.<br>
+I am an engineer specializing in audio and firmware, with strong expertise in system analysis and debugging.<br>
 <br>
 I have a Master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm”, investigated the simulation of drain pipe noise and its reduction through adaptive filtering techniques.<br>
 <br>
