@@ -221,12 +221,14 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
   - The 8th AI City Challenge Workshop (AI-City2024), in conjuncted with IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
  -->
 # 🎖 License
-- *2020.02.17*: Audinate - Dnate Certification Level 3 ().
-- *2020.02.04*: Audinate - Dnate Certification Level 2 ().
-- *2019.02.27*: Audinate - Dnate Certification Level 1 ().
+- *2020.12.31*: Udemy - 學習和理解Node.JS.
+- *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站.
+- *2020.02.17*: Audinate - Dnate Certification Level 3.
+- *2020.02.04*: Audinate - Dnate Certification Level 2.
+- *2019.02.27*: Audinate - Dnate Certification Level 1.
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214). 
-
+- *2008*: WORKFORCE DEVELOPMENT AGENCY, MINSTRY OF LABOR - Level B technician for computer hardware fabrication.
 # 🚀 Other
 **Achievements**
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia-Lindendale.
