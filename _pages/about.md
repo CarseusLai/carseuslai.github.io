@@ -220,7 +220,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法<br>
 The 31th National Conference on Sound and Vibration(CSSV)<br>
 **Sin-Yin Lai**, Yu-Xuan Lin
-  - **Keywords:** TMS320C6748、Adaptive Filter、NLMS、COMSOL
+  - **Keywords:** TMS320C6748、Adaptive Filter、NLMS、COMSOL.
 </div>
 </div>
 
