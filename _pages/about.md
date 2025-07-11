@@ -227,7 +227,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CSSV2024</div>
-    <img src='images/CSSV2024.png' alt="sym" width="70%"></div>
+    <img src='images/CSSV2024.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic
@@ -242,7 +242,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">NTUT2025</div>
-    <img src='images/Thesis.png' alt="sym" width="70%"></div>
+    <img src='images/Thesis.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic
@@ -260,7 +260,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">TXper2013</div>
-    <img src='images/Facedetection_txper.png' alt="sym" width="70%"></div>
+    <img src='images/Facedetection_txper.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -276,7 +276,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
-    <img src='images/PTZ_and_CAR.png' alt="sym" width="70%"></div>
+    <img src='images/PTZ_and_CAR.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic
