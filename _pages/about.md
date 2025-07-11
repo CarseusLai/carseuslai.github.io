@@ -241,8 +241,6 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 
 <font color="#D2B48C">*[Previous Field]</font>
 **2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
-- Industry-Academic Cooperation Project
-  - Employee Face Detection Time Clock System 人臉打卡辨識系統(2013)
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
@@ -252,7 +250,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box-text' markdown="1">
 
 - **Industry-Academic Cooperation Project**<br>
-  Employee Face Detection Time Clock System<br>
+  Employee Face Detection Time Clock System, 人臉打卡辨識系統<br>
   - **Keywords:** PTZ Camera, Self-propelled Car.
 </div>
 </div>
@@ -267,7 +265,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box-text' markdown="1">
 
 - **Monographs**<br>
-  Baby Face Intelligent Face Following Self-Driving Vehicle System<br>
+  Baby Face Intelligent Face Following Self-Driving Vehicle System, Baby Face 智慧型人臉跟隨之自走車系統<br>
   - **Keywords:** PTZ Camera, Self-propelled Car.
 </div>
 </div>
