@@ -240,6 +240,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 
 <font color="#D2B48C">*[Previous Field]</font>
 **2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
+*left school without graduating*.
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
