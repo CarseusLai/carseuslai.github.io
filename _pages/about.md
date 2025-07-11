@@ -227,7 +227,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CSSV2024</div>
-    <img src='images/CSSV2024.png' alt="sym" width="80%"></div>
+    <img src='images/CSSV2024.png' alt="sym" width="70%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic
@@ -242,7 +242,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">NTUT2025</div>
-    <img src='images/Thesis.png' alt="sym" width="80%"></div>
+    <img src='images/Thesis.png' alt="sym" width="70%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic
@@ -260,11 +260,11 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">TXper2013</div>
-    <img src='images/Facedetection_txper.png' alt="sym" width="60%"></div>
+    <img src='images/Facedetection_txper.png' alt="sym" width="70%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-- **Industry-Academic Cooperation Project**<br> - **<font color="#1c0459">TXper鼎高科技</font>**<br>
+- **Industry-Academic Cooperation Project** - **<font color="#1c0459">TXper鼎高科技</font>**<br>
   Access control image integration and abnormal object detection technology development project, 門禁影像整合與異常物體偵測技術開發計畫<br>
   **Sin-Yin Lai**, Jia-Yu Jhang
   - **Keywords:** FaceDetection, OpenCV, Embedded.
@@ -276,7 +276,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
-    <img src='images/PTZ_and_CAR.png' alt="sym" width="60%"></div>
+    <img src='images/PTZ_and_CAR.png' alt="sym" width="70%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic
