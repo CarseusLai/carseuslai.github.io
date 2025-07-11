@@ -99,7 +99,7 @@ I am also exploring other computer vision-related fields which are interested to
 </div>
 
 **<font color="#870073">Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
-- **<font color="dark-brown">Firmware</font>**<br>
+- **<font color="brown">Firmware</font>**<br>
   Firmware development, using audio streaming technologies over NET and BT. Also, it’s integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
 
 
