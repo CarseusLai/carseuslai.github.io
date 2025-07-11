@@ -252,7 +252,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 - **Industry-Academic Cooperation Project**<br>
   Employee Face Detection Time Clock System, 員工人臉打卡偵測系統<br>
   **Sin-Yin Lai**, Jia-Yu Jhang
-  - **Keywords:** PTZ Camera, Self-propelled Car.
+  - **Keywords:** FaceDetection, OpenCV, Embedded.
 </div>
 </div>
 
