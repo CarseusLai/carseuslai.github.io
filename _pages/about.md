@@ -102,7 +102,16 @@ I am also exploring other computer vision-related fields which are interested to
 - **<font color="brown">Firmware</font>**<br>
   Firmware development, using audio streaming technologies over NET and BT. Also, it’s integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
 
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <div class="badge">Sample</div>
+    <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
+**<font color="green">Product 2</font>** 
+</div>
+</div>
 
 
 **<font color="#007a87">Mansion Industry Co,. Ltd</font>** <span style="display: inline-block; width: 60%; text-align: right;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
@@ -119,7 +128,7 @@ I am also exploring other computer vision-related fields which are interested to
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Product 2</font>** 
+**<font color="green">Product 3</font>** 
 </div>
 </div>
 
