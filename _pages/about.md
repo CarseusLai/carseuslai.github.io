@@ -73,7 +73,11 @@ I am also exploring other computer vision-related fields which are interested to
   Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-      BT/wireless) with Teams and Zoom Certification license.My responsibilities include porting the audio path in MCU(RTOS)    with DSP algorithms and supporting the firmware team with projects related to UI/UX, drivers, APIs, and     debugging issues. Additionally, I am proficient in using Git for version control and code management. 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sample</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <div class="badge">Sample</div>
+    <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 **<font color="green">Product 1</font>** 
@@ -102,7 +106,11 @@ I am also exploring other computer vision-related fields which are interested to
   Chengdu (2018 - 2020).
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sample</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <div class="badge">Sample</div>
+    <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 **<font color="green">Product 2</font>** 
@@ -212,8 +220,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 <div class='paper-box-text' markdown="1">
 
 - Conference
-  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法<br>
-The 31th National Conference on Sound and Vibration(CSSV)<br>
+  **Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法<br>
+The 31th National Conference on Sound and Vibration(CSSV)**<br>
 **Sin-Yin Lai**, Yu-Xuan Lin
 
 **Keywords:** NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode
