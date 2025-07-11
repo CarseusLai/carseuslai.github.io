@@ -81,7 +81,6 @@ I am also exploring other computer vision-related fields which are interested to
 <div class='paper-box-text' markdown="1">
 
 **<font color="green">Product 1</font>** 
-
 <!--
 **Keywords** <img alt="Stars" src="https://img.shields.io/github/stars/ming053l/DRCT">
 
@@ -98,6 +97,13 @@ I am also exploring other computer vision-related fields which are interested to
  -->
 </div>
 </div>
+
+**<font color="#870073">Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
+- **<font color="drak-brown"></font>**<br>
+  Firmware development, using audio streaming technologies over NET and BT. Also, it’s integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
+
+
+
 
 **<font color="#007a87">Mansion Industry Co,. Ltd</font>** <span style="display: inline-block; width: 60%; text-align: right;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
 - **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Assistant Manager / Firmware Engineer</font>**<br>
