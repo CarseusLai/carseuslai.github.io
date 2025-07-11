@@ -244,6 +244,19 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 - Industry-Academic Cooperation Project
   - Employee Face Detection Time Clock System 人臉打卡辨識系統(2013)
 
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <div class="badge">CYUT2013_TXper</div>
+    <img src='images/facedetection_txper.png' alt="sym" width="100%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+- **Industry-Academic Cooperation Project**<br>
+  Employee Face Detection Time Clock System<br>
+  - **Keywords:** PTZ Camera, Self-propelled Car.
+</div>
+</div>
+
 **2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.**<br>
 ### 📖 Academic
 <div class='paper-box'>
