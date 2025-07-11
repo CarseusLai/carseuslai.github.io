@@ -221,7 +221,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
  <br>
  <br>
 # 🎓 Education
-**<font color="#134ed6">2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</font>** 
+**<font color="black">2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</font>** 
 **<font color="red"> GPA: 3.88/4.0</font>**
 
 <div class='paper-box'>
@@ -254,7 +254,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 </div>
 
 <font color="#D2B48C">*[Previous Field]</font>
-**<font color="#134ed6">2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</font>** <br>
+**<font color="black">2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</font>** <br>
 *left school without graduating*.
 
 <div class='paper-box'>
@@ -272,7 +272,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 </div>
 
 <font color="#D2B48C">*[Previous Field]</font>
-**<font color="#134ed6">2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</font>** <br>
+**<font color="black">2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</font>** <br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
