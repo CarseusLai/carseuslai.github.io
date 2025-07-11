@@ -260,7 +260,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">TXper2013</div>
-    <img src='images/Facedetection_txper.png' alt="sym" width="100%"></div>
+    <img src='images/Facedetection_txper.png' alt="sym" width="60%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -277,7 +277,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
-    <img src='images/PTZ_and_CAR.png' alt="sym" width="100%"></div>
+    <img src='images/PTZ_and_CAR.png' alt="sym" width="60%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic
