@@ -202,8 +202,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 **<font color="red"> GPA: 3.88/4.0</font>**
 
 ### 📖 Academic
-- Conference
-  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法
+
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
@@ -211,7 +210,9 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
     <img src='images/CSSV2024.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
-  
+
+- Conference
+  - Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法<br>
 The 31th National Conference on Sound and Vibration(CSSV)<br>
 **Sin-Yin Lai**, Yu-Xuan Lin
 
