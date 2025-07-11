@@ -265,7 +265,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box-text' markdown="1">
 
 - **Industry-Academic Cooperation Project**<br>
-  Access control image integration and abnormal object detection technology development plan, 門禁影像整合與異常物體偵測技術開發計畫<br>
+  Access control image integration and abnormal object detection technology development project, 門禁影像整合與異常物體偵測技術開發計畫<br>
   **Sin-Yin Lai**, Jia-Yu Jhang
   - **Keywords:** FaceDetection, OpenCV, Embedded.
 </div>
