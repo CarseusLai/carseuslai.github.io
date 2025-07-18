@@ -235,7 +235,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
   </div>
 <div class='paper-box-text' markdown="1">
 
-- **Industry-Academic Cooperation Project** - **<font color="#1c0459">TXper鼎高科技</font>**<br>
+- **Industry-Academic Cooperation Project**<br>**<font color="#1c0459">TXper鼎高科技</font>**<br>
   Access control image integration and abnormal object detection technology development project, <br>
   門禁影像整合與異常物體偵測技術開發計畫<br>
   **Sin-Yin Lai**, Jia-Yu Jhang
