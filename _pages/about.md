@@ -230,6 +230,10 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
     <div class="badge">TXper2013</div>
     <img src='images/Facedetection_txper.png' alt="sym" width="80%"></div>
   </div>
+  <div class='paper-box-image'><div>
+    <div class="badge">TXper2013</div>
+    <img src='images/Facedetection_txper_.png' alt="sym" width="80%"></div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 - **Industry-Academic Cooperation Project** - **<font color="#1c0459">TXper鼎高科技</font>**<br>
