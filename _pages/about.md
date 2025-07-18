@@ -116,7 +116,7 @@ at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters fr
 CTI, EBC, SENT News, and others. 
 
 **<font color="#007a87">Wayi International Inc.</font>** <span style="display: inline-block; width: 60%; text-align: right;">Central Taiwan, 2010 - 2012</span><br>
-- **<font color="black">Game Judges of Central Taiwan- </font><font color="brown">Referee</font>**<br>
+- **<font color="black">Game Judges of Central Taiwan - </font><font color="brown">Referee</font>**<br>
   (Student Days) 
 
 <!--
