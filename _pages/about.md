@@ -76,27 +76,12 @@ I am also exploring other computer vision-related fields which are interested to
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">Sample</div>
-    <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
+    <img src='images/drct_fix.gif' alt="sym" width="100%">
     <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
   
 **<font color="green">Product 1</font>**
-  
-<!--
-**Keywords** <img alt="Stars" src="https://img.shields.io/github/stars/ming053l/DRCT">
-
-- Image Super-resolution
-- Information Bottleneck
-  <div class="links">
-      <a href="https://arxiv.org/pdf/2404.00722.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
-      <a href="https://arxiv.org/abs/2404.00722" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
-      <a href="https://github.com/ming053l/DRCT" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
-      <a href="https://allproj002.github.io/drct.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Project page</a>
-      <a href="https://drive.google.com/file/d/1zR9wSwqCryLeKVkJfTuoQILKiQdf_Vdz/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Poster</a>
-      <a href="https://docs.google.com/presentation/d/1MxPPtgQZ61GFSr3YfGOm9scm23bbbXRj/edit?usp=sharing&ouid=105932000013245886245&rtpof=true&sd=true" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Slide</a>
-  </div>
- -->
 </div>
 </div>
 
