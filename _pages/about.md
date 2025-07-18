@@ -17,7 +17,10 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
+# 🔥 News
+- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
 
+<br>
 # 🧑‍💻 Biography
 I'm an engineer specializing in audio and firmware, with strong expertise in system analysis and debugging.<br>
 <br>
@@ -45,11 +48,8 @@ I graduated with a master’s degree from the Department of Automation Technolog
 - Development Platforms: LabVIEW, Visual Studio
 - Others: Photoshop, Illustrator, Car mechanic
 
-# 🔥 News
-- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
 <br>
 <br>
-
 # 💼 Work Experience **<font color="red">[Keep on Increasing......]</font>**
 **<font color="#007a87">Luxshare-ICT</font>** <span  style="display: inline-block; width: 60%; text-align: right;">Taipei, 2022.8 - Now</span ><br>
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustic Product Design / Firmware Engineer</font>**<br>
