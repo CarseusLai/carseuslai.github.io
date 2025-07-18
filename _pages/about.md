@@ -203,7 +203,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法<br>
 The 31th National Conference on Sound and Vibration(CSSV)<br>
 **Sin-Yin Lai**, Yu-Xuan Lin
-  - **Keywords:** TMS320C6748、Adaptive Filter、NLMS、COMSOL.
+  -- **Keywords:** TMS320C6748、Adaptive Filter、NLMS、COMSOL.
 </div>
 </div>
 
@@ -215,7 +215,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Journal<br>
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**
-  - **Keywords:** NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode.
+  -- **Keywords:** NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode.
 </div>
 </div>
 
@@ -258,7 +258,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 ### 📖 Academic - Monographs<br>
   Baby Face Intelligent Face Following Self-Driving Vehicle System, Baby Face 智慧型人臉跟隨之自走車系統, 
   **Jia-Meng Lai** (old name),  Wei-Jia Huang,  Wei-Xiang Cai
-  - **Keywords:** PTZ Camera, Self-propelled Car.
+  -- **Keywords:** PTZ Camera, Self-propelled Car.
 </div>
 </div>
 
