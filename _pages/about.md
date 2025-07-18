@@ -59,7 +59,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <img src='images/DELL_SL525.png' alt="sym" width="100%"></div>
+    <img src='images/DELL_SL525.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
   
@@ -228,11 +228,11 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">TXper2013</div>
-    <img src='images/Facedetection_txper.png' alt="sym" width="80%"></div>
+    <img src='images/Facedetection_txper.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-image'><div>
     <div class="badge">TXper2013</div>
-    <img src='images/Facedetection_txper_.png' alt="sym" width="80%"></div>
+    <img src='images/Facedetection_txper_.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -249,6 +249,10 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
     <img src='images/PTZ_and_CAR.png' alt="sym" width="80%"></div>
+  </div>
+  <div class='paper-box-image'><div>
+    <div class="badge">CYUT2012</div>
+    <img src='images/PTZ_and_CAR_.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic
