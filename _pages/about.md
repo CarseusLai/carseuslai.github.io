@@ -90,8 +90,8 @@ I graduated with a master’s degree from the Department of Automation Technolog
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Product</a>
-    <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
+    <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300</a>
+    <img src='images/Soundavo PMX-3300.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
