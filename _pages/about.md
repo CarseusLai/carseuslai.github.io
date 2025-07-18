@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑‍💻 Biography  **<font color="red">[Keep on Increasing......]</font>**
+# 🧑‍💻 Biography
 I'm an engineer specializing in audio and firmware, with strong expertise in system analysis and debugging.<br>
 <br>
 I graduated with a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm”, investigated the simulation of drain pipe noise and its reduction through adaptive filtering techniques.<br>
@@ -50,7 +50,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 <br>
 <br>
 
-# 💼 Work Experience
+# 💼 Work Experience **<font color="red">[Keep on Increasing......]</font>**
 **<font color="#007a87">Luxshare-ICT</font>** <span  style="display: inline-block; width: 60%; text-align: right;">Taipei, 2022.8 - Now</span ><br>
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustic Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
@@ -59,11 +59,11 @@ I graduated with a master’s degree from the Department of Automation Technolog
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
+    <img src='images/DELL_SL525.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
   
-**<font color="green">Product 1</font>**
+**<font color="green">target="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">DELL SL525</a></font>**
 </div>
 </div>
 
