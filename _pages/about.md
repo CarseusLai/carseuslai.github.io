@@ -90,11 +90,12 @@ I graduated with a master’s degree from the Department of Automation Technolog
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
+    <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Product</a>
     <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>**
+
 </div>
 </div>
 
