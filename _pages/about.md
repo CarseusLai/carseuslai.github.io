@@ -245,8 +245,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 
 <font color="#D2B48C">*[Previous Field]</font>
 **<font color="black">2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</font>** <br>
-### 📖 Academic
-- **Monographs**<br>
+
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
@@ -257,7 +256,8 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
     <img src='images/PTZ_and_CAR_.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
-
+### 📖 Academic
+- **Monographs**<br>
   Baby Face Intelligent Face Following Self-Driving Vehicle System, Baby Face 智慧型人臉跟隨之自走車系統, 
   **Jia-Meng Lai** (old name),  Wei-Jia Huang,  Wei-Xiang Cai
   - **Keywords:** PTZ Camera, Self-propelled Car.
