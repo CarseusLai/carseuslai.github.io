@@ -74,7 +74,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
-    <img src='images/EB-SD.png' alt="sym" width="100%"></div>
+    <img src='images/EB-SD.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
