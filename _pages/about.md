@@ -157,8 +157,7 @@ Part-time jobs: CCTV installation, construction worker, moving laborer.
 **<font color="#007a87">Substitute Military Service</font>** <span style="display: inline-block; width: 60%; text-align: right;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
 - **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Release</font>**<br>
   As a substitute military serviceman responsible for writing press releases 
-at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as 
-CTI, EBC, SENT News, and others. 
+at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others. 
 
 **<font color="#007a87">Wayi International Inc.</font>** <span style="display: inline-block; width: 60%; text-align: right;">Central Taiwan, 2012 - 2013</span><br>
 - **<font color="black">Game Judges of Central Taiwan - </font><font color="brown">Referee</font>**<br>
@@ -240,14 +239,14 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">NTUT2025</div>
-    <img src='images/Thesis.png' alt="sym" width="100%"></div>
+    <img src='images/Thesis.png' alt="sym" width="90%"></div>
   </div>
 
   <div class='paper-box-image'><div>
     <div class="badge">NTUT2025</div>
     <img src='images/DSP.png' alt="sym" width="100%"></div>
   </div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box-text' markdown="1">
 ### 📖 Academic - Journal<br>
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**<br>
   Keywords: NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode.
