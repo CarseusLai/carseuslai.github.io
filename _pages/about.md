@@ -102,13 +102,13 @@ I graduated with a master’s degree from the Department of Automation Technolog
   </div>
 
   <div class='paper-box-image'><div>
-    <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300</a>
-    <img src='images/Soundavo PMX-3300.png' alt="sym" width="100%"></div>
+    <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300 Power Conditioner</a>
+    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 
   <div class='paper-box-image'><div>
-    <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100</a>
-    <img src='images/Soundavo PMX-1100.png' alt="sym" width="100%"></div>
+    <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100 Power Conditioner</a>
+    <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 </div>
