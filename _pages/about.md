@@ -79,7 +79,7 @@ I am also exploring other computer vision-related fields which are interested to
     <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
     <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
   </div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
   
 **<font color="green">Product 1</font>**
   
