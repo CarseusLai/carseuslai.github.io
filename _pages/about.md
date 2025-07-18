@@ -89,13 +89,13 @@ I graduated with a master’s degree from the Department of Automation Technolog
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://tw.kef.com/products/bts30">KEF BTS30 Bluetooth Keypad and Compact Amplifier System</a>
-    <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="60%"></div>
+    <a href="https://tw.kef.com/products/bts30">KEF BTS30 Compact Amplifier System</a>
+    <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="80%"></div>
   </div>
 
   <div class='paper-box-image'><div>
-    <a href="https://tw.kef.com/products/bts30"></a>
-    <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System_.png' alt="sym" width="60%"></div>
+    <a href="https://tw.kef.com/products/bts30">KEF BTS30 Bluetooth Keypad</a>
+    <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System_.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 </div>
