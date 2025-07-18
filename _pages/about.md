@@ -289,7 +289,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 
 - **Industry-Academic Cooperation Project**<br>**<font color="#1c0459">TXper鼎高科技</font>**<br>
 <a href="https://www.telexper.com/ai-atm.html">Access control image integration and abnormal object detection technology development project,
-  門禁影像整合與異常物體偵測技術開發計畫</a>, <br>
+  門禁影像整合與異常物體偵測技術開發計畫</a> <br>
   **Sin-Yin Lai**, Jia-Yu Jhang<br>
   Keywords: FaceDetection, OpenCV, Embedded.
 </div>
@@ -309,7 +309,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Monographs<br>
-  <a href="https://www.youtube.com/watch?v=NdO4KCDFiwY">Baby Face Intelligent Face Following Self-Driving Vehicle System, Baby Face 智慧型人臉跟隨之自走車系統</a>, <br>
+  <a href="https://www.youtube.com/watch?v=NdO4KCDFiwY">Baby Face Intelligent Face Following Self-Driving Vehicle System, Baby Face 智慧型人臉跟隨之自走車系統</a> <br>
   **Jia-Meng Lai** (old name),  Wei-Jia Huang,  Wei-Xiang Cai<br>
   Keywords: PTZ Camera, Self-propelled Car.
 </div>
