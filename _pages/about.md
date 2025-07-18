@@ -78,11 +78,14 @@ I am also exploring other computer vision-related fields which are interested to
     <div class="badge">Sample</div>
     <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
   </div>
-<div class='paper-box-text' markdown="1">
+
+  <div class="badge">Sample</div>
+    <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
+  <div class='paper-box-text' markdown="1">
   
 **<font color="green">Product 1</font>**
 </div>
-
+</div>
 
 **<font color="#870073">Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
 - **<font color="brown">Firmware</font>**<br>
