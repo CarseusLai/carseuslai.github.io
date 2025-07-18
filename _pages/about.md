@@ -93,7 +93,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 
   <div class='paper-box-image'><div>
     <a href="https://www.thomann.co.uk/fun_generation_rta_31.htm">Thomann Fun Generation RTA-31</a>
-    <img src='images/Thomann Fun Generation RTA-31.png' alt="sym" width="100%"></div>
+    <img src='images/Thomann Fun Generation RTA-31.png' alt="sym" width="90%"></div>
   </div>
 
   <div class='paper-box-image'><div>
@@ -103,7 +103,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 
   <div class='paper-box-image'><div>
     <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300 Power Conditioner</a>
-    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="100%"></div>
+    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="95%"></div>
   </div>
 
   <div class='paper-box-image'><div>
