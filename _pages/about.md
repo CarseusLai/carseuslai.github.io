@@ -28,7 +28,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 ### 🖥️ Skills
 - MCU: Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
 - Git: TortoiseGit
-- Programming Language
+- Programming Languages
   - Assmbly 8051
   - C/C++
   - VB.net/C#
@@ -39,11 +39,11 @@ I graduated with a master’s degree from the Department of Automation Technolog
   - Oscilloscope
   - Logic Analyzer
   - multimeter
-- OS: Windows, Linux/Mac
+- OS: Windows, Linux and MacOS
 - System Analysis
 - Hardware Debugging
 - Development Platforms: LabVIEW, Visual Studio
-- Other: Photoshop, Illustrator, Car mechanic
+- Others: Photoshop, Illustrator, Car mechanic
 
 # 🔥 News
 - *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
