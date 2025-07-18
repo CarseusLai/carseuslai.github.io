@@ -112,7 +112,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.blacklionaudio.com/store/power-conditioners/pg-2-power-conditioner/">BLACK LION PG-2 Power Conditioner</a>
-    <img src='images/BLACK LION PG-2 Power Conditioner.png' alt="sym" width="100%"></div>
+    <img src='images/BLACK LION PG-2 Power Conditioner.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 </div>
