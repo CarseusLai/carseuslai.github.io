@@ -92,7 +92,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.mclellandmusic.com/twproducts">McLELLAND MAP-1650E</a>
-    <img src='images/McLELLAND MAP-1650E.png' alt="sym" width="80%"></div>
+    <img src='images/McLELLAND MAP-1650E.png' alt="sym" width="110%"></div>
   </div>
   
 <div class='paper-box-text' markdown="1">
@@ -169,6 +169,16 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
     <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100 Power Conditioner</a>
     <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
+<div class='paper-box-text' markdown="1">
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    **DjMixer**
+    <img src='images/DjMixer.png' alt="sym" width="100%"></div>
+  </div>
+  
 <div class='paper-box-text' markdown="1">
 </div>
 </div>
