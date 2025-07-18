@@ -77,8 +77,10 @@ I am also exploring other computer vision-related fields which are interested to
   <div class='paper-box-image'><div>
     <div class="badge">Sample</div>
     <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
+    <img src='images/drct_fix.gif' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="2">
+  
 **<font color="green">Product 1</font>**
   
 <!--
@@ -128,7 +130,7 @@ I am also exploring other computer vision-related fields which are interested to
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Product 3</font>** 
+**<font color="green">Product 3</font>**
 </div>
 </div>
 
