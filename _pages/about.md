@@ -270,8 +270,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
   - The 8th AI City Challenge Workshop (AI-City2024), in conjuncted with IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
  -->
  
- <br>
- <br>
+
 # 🎖 License
 - *2020.12.31*: Udemy - 學習和理解Node.JS.
 - *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站.
@@ -285,8 +284,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 
 
 
-  <br>
-  <br>
+
 # 🚀 Other
 **Achievements**
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia-Lindendale.
