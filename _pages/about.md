@@ -248,11 +248,11 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
-    <img src='images/PTZ_and_CAR.png' alt="sym" width="100%"></div>
+    <img src='images/PTZ_and_CAR.png' alt="sym" width="110%"></div>
   </div>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
-    <img src='images/PTZ_and_CAR_.png' alt="sym" width="120%"></div>
+    <img src='images/PTZ_and_CAR_.png' alt="sym" width="110%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Monographs<br>
