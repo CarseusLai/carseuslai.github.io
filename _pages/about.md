@@ -63,7 +63,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
   </div>
 <div class='paper-box-text' markdown="1">
   
-**<font color="green">Dell Pro Plus SL525</a></font>**
+**<font color="green"><a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a></font>**
 </div>
 </div>
 
