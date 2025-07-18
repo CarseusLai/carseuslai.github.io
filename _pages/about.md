@@ -261,7 +261,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 
   <div class='paper-box-image'><div>
     <div class="badge">CSSV2024</div>
-    <img src='images/Thesis Acoustic mode2.png' alt="sym" width="120%"></div>
+    <img src='images/Thesis Acoustic mode2.png' alt="sym" width="130%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Conference<br>
