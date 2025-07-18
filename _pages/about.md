@@ -256,7 +256,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Monographs<br>
-  Baby Face Intelligent Face Following Self-Driving Vehicle System, Baby Face 智慧型人臉跟隨之自走車系統, 
+  Baby Face Intelligent Face Following Self-Driving Vehicle System, Baby Face 智慧型人臉跟隨之自走車系統, <br>
   **Jia-Meng Lai** (old name),  Wei-Jia Huang,  Wei-Xiang Cai<br>
   Keywords: PTZ Camera, Self-propelled Car.
 </div>
