@@ -175,8 +175,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    **DjMixer
-    <img src='images/DjMixer.png' alt="sym" width="90%"></div>
+    **DJ Mixer
+    <img src='images/DJ Mixer.png' alt="sym" width="90%"></div>
   </div>
   
 <div class='paper-box-text' markdown="1">
