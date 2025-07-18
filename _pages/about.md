@@ -202,7 +202,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 ### 📖 Academic - Conference<br>
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法<br>
 The 31th National Conference on Sound and Vibration(CSSV)<br>
-**Sin-Yin Lai**, Yu-Xuan Lin
+**Sin-Yin Lai**, Yu-Xuan Lin<br>
   Keywords: TMS320C6748、Adaptive Filter、NLMS、COMSOL.
 </div>
 </div>
@@ -214,7 +214,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Journal<br>
-  Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**
+  Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**<br>
   Keywords: NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode.
 </div>
 </div>
@@ -237,7 +237,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 - **Industry-Academic Cooperation Project**<br>**<font color="#1c0459">TXper鼎高科技</font>**<br>
   Access control image integration and abnormal object detection technology development project, <br>
   門禁影像整合與異常物體偵測技術開發計畫<br>
-  **Sin-Yin Lai**, Jia-Yu Jhang
+  **Sin-Yin Lai**, Jia-Yu Jhang<br>
   Keywords: FaceDetection, OpenCV, Embedded.
 </div>
 </div>
@@ -257,7 +257,7 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Monographs<br>
   Baby Face Intelligent Face Following Self-Driving Vehicle System, Baby Face 智慧型人臉跟隨之自走車系統, 
-  **Jia-Meng Lai** (old name),  Wei-Jia Huang,  Wei-Xiang Cai
+  **Jia-Meng Lai** (old name),  Wei-Jia Huang,  Wei-Xiang Cai<br>
   Keywords: PTZ Camera, Self-propelled Car.
 </div>
 </div>
@@ -265,9 +265,6 @@ The 31th National Conference on Sound and Vibration(CSSV)<br>
 <!--
 ### 🗣️ Invited Talk
 ### 📝 Reviewer
-
-- **Workshop Papers**  
-  - The 8th AI City Challenge Workshop (AI-City2024), in conjuncted with IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
  -->
  
 
