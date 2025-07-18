@@ -90,12 +90,12 @@ I graduated with a master’s degree from the Department of Automation Technolog
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/wsa-5rp-wireless-surround-sound-rear-speakers-kit-with-2-x-50w-amplifier-built-in">Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers</a>
+    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/wsa-5rp-wireless-surround-sound-rear-speakers-kit-with-2-x-50w-amplifier-built-in">Dynasty WSA-5RP Wireless Surround Sound Rear Speakers</a>
     <img src='images/Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers.png' alt="sym" width="80%"></div>
   </div>
 
   <div class='paper-box-image'><div>
-    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/dynasty-proaudio-wsa-5tr-wireless-speaker-starter-kit-wireless-subwoofer-powered-subwoofer-5-8ghz-wireless-technology-work-with-any-powered-subwoofer-active-speaker-45-channel-audio-transmitter-wsa-5tr">Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver</a>
+    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/dynasty-proaudio-wsa-5tr-wireless-speaker-starter-kit-wireless-subwoofer-powered-subwoofer-5-8ghz-wireless-technology-work-with-any-powered-subwoofer-active-speaker-45-channel-audio-transmitter-wsa-5tr">Dynasty WSA-5TR Wireless Transmitter-Receiver</a>
     <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
