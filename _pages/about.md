@@ -25,7 +25,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 <br>
 **Personal Attributes: Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.**
 <br>
-### 📝 Skills
+### 🧑‍💻 Skills
 - MCU: Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
 - Git: TortoiseGit
 - Programming Language
