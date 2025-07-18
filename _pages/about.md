@@ -19,9 +19,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography  **<font color="red">[Keep on Increasing......]</font>**
-I am an engineer specializing in audio and firmware, with strong expertise in system analysis and debugging.<br>
+I'm an engineer specializing in audio and firmware, with strong expertise in system analysis and debugging.<br>
 <br>
-I have a Master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm”, investigated the simulation of drain pipe noise and its reduction through adaptive filtering techniques.<br>
+I graduated with a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm”, investigated the simulation of drain pipe noise and its reduction through adaptive filtering techniques.<br>
 <br>
 **Personal Attributes: Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.**
 <br>
@@ -45,25 +45,8 @@ I have a Master’s degree from the Department of Automation Technology at Natio
 - Development Platforms: LabVIEW, Visual Studio
 - Other: Photoshop, Illustrator, Car mechanic
 
-<!--
-I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU).
-
-I received a B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
-
-Find my resume <a href="https://drive.google.com/file/d/1xu92XDAillZLk1Dg-WzbTan9NyWXrHjm/view?usp=sharing" target="https://drive.google.com/file/d/1xu92XDAillZLk1Dg-WzbTan9NyWXrHjm/view?usp=sharing">here</a> (last updated Mar 24, 2025).
-
-My research interests include: 
-
-- **Low-level computer vision problems**
-- **Multimedia information security**
-  
-I am also exploring other computer vision-related fields which are interested to me, such as Trustworthy/Efficient AI.
- -->
-<!--
 # 🔥 News
-
-- *2025/2/6*: &nbsp;🎉🎉 I receive the 3rd performance in CVPR 2025 (NTIRE Workshop, Image Shadow Removal Challenge), see you in Nashvile!
--  -->
+- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
 <br>
 <br>
 # 💼 Work Experience
