@@ -51,7 +51,7 @@ I graduated with a master’s degree from the Department of Automation Technolog
 <br>
 
 
-# 💼 Work Experience **<font color="red">[Keep on Increasing......]</font>**
+# 💼 Work Experience
 **<font color="#007a87">Luxshare-ICT</font>** <span  style="display: inline-block; width: 60%; text-align: right;">Taipei, 2022.8 - Now</span ><br>
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustic Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
