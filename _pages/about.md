@@ -189,7 +189,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 **<font color="#007a87">Working Holiday Visa</font>** <span style="display: inline-block; width: 60%; text-align: right;">Australia, 2015.5.13 - 2017.2.24</span><br>
 - **<font color="brown">Backpacker</font>**<br>
-  Farm fruit: strawberry packer, blueberry picker, cherry packer, tomato picker, red berry picker, blackberry picker.<br>
+  Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
 Part-time jobs: CCTV installation, construction worker, moving laborer.
 
 
