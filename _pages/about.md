@@ -38,9 +38,9 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   - Oscilloscope
   - Logic Analyzer
   - multimeter
-- OS: Windows, Linux and MacOS
 - System Analysis
 - Hardware Debugging
+- OS: Windows, Linux and MacOS
 - Development Platforms: LabVIEW, Visual Studio
 - Others: Photoshop, Illustrator, Car mechanic
 
