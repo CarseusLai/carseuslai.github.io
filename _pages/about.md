@@ -212,12 +212,12 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300</a>
-    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="95%"></div>
+    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="50%"></div>
   </div>
 
   <div class='paper-box-image'><div>
     <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100</a>
-    <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
+    <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="50%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 **<font color="green">Power Conditioner</font><br>
