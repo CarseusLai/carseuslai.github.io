@@ -76,7 +76,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 
 
 
-**<font color="#870073">Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
+**<font color="#870073">Individual Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
