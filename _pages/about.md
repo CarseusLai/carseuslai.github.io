@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div align="center" style="margin: 40px 0">
+<div align="center" style="margin: 10px 0">
    <a href="https://github.com/carseuslai/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=carseuslai&color=DE002D">
    </a>
 </div>
 
