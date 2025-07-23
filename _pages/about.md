@@ -324,8 +324,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
   </div>
 <div class='paper-box-text' markdown="1">
 
-- **Industry-Academic Cooperation Project**<br>**<font color="#1c0459">TXper鼎高科技</font>**<br>
-<a href="https://www.telexper.com/telexper-ch/products/video/11-atm.mp4"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="20%"></a> <br>
+**Industry-Academic Cooperation Project**<br>**<font color="#1c0459">TXper鼎高科技</font>**<br>
 <a href="https://www.telexper.com/ai-atm.html">Access control image integration and abnormal object detection technology development project,
   門禁影像整合與異常物體偵測技術開發計畫</a> <br>
   **Sin-Yin Lai**, Jia-Yu Jhang<br>
