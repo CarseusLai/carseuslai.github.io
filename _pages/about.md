@@ -66,6 +66,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 
 **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
 **Participated in** <br>
+- Collaborated with AE/PM/EE/FW
 - Firmware development
   - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and Adjust Audio path. <br>
 - Acoustic test
@@ -104,7 +105,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.mclellandmusic.com/twproducts">**McLELLAND MAP-1650E</a>
-    <img src='images/McLELLAND MAP-1650E.png' alt="sym" width="140%"></div>
+    <img src='images/McLELLAND MAP-1650E.png' alt="sym" width="90%"></div>
   </div>
   
 <div class='paper-box-text' markdown="1">
@@ -128,6 +129,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   
 **<font color="green">Dj Mixer(USB/COAX/XLR/MIDI)</font>**<br>
 **Participated in**<br>
+- Collaborated with PM/EE
 - Firmware development
 - Acoustic test
 </div>
