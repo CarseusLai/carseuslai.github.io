@@ -191,7 +191,6 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Spectrum Analyser - 31 bands</font>**<br>
 **Participated in**<br>
 - Firmware development
-- ID design
 </div>
 </div>
 
