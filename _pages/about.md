@@ -110,9 +110,10 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box-text' markdown="1">
   
 **<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font>extended to 3<br>
-**Participated in**<br>
-- Product Design with PM/EE/FW/
-- Firmware Verification(oursourcing)
+**Led the design and implementation**<br>
+- Collaborated with PM/ME/ID/EE/FW
+- ID design
+- Firmware verification(oursourcing)
 - Acoustic test
 </div>
 </div>
@@ -145,8 +146,9 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box-text' markdown="1">
 
 **<font color="green">5.2/5.8G Wireless Audio Transmitter-Receiver</font><br>
-**Participated in** <br>
-- Product Design with PM/EE/FW/
+**Led the design and implementation** <br>
+- Collaborated with PM/ME/ID/EE/FW
+- ID design
 - Acoustic test
   
 </div>
@@ -163,8 +165,9 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box-text' markdown="1">
   
 **<font color="green">Compact Amplifier System with Bluetooth Keypad</font><br>
-**Participated in** <br>
-- Product Design with PM/EE/FW/
+**Led the design and implementation** <br>
+- Collaborated with PM/ME/ID/EE/FW
+- ID design
 - Acoustic test
   
 </div>
