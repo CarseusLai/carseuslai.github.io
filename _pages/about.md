@@ -63,10 +63,12 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
     <img src='images/Dell Pro Plus SL525.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
+
+  <font color="green">Participated in: Firmware development(UI/UX, charger, bettery, amp, integrated)</font>
 </div>
 </div>
 
-<font color="green">Participated in: Firmware development</font>
+
 
 
 **<font color="#870073">Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
