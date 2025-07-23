@@ -178,6 +178,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Compact Amplifier System with Bluetooth Keypad</font>**<br>
 **Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
+- Firmware verification(oursourcing)
 - ID design
 - Acoustic test
 </div>
