@@ -113,7 +113,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **Participated in**<br>
 - Product Design with PM/EE/FW/
 - Firmware Verification(oursourcing)
-- Acoustic test - Using Audio precision analysis Playback with FR.
+- Acoustic test
 </div>
 </div>
 
@@ -124,8 +124,11 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
   
 <div class='paper-box-text' markdown="1">
-  **Participated in**<br>
-    Firmware development
+  
+**<font color="green">Dj Mixer(USB/COAX/XLR/MIDI)</font><br>
+**Participated in** <br>
+- Firmware development
+- Acoustic test
 </div>
 </div>
 
@@ -140,6 +143,12 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
     <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
+
+**<font color="green">5.8/5.G Wireless Audio Transmitter-Receiver</font><br>
+**Participated in** <br>
+- Product Design with PM/EE/FW/
+- Acoustic test
+  
 </div>
 </div>
 
@@ -147,19 +156,17 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://tw.kef.com/products/bts30">KEF BTS30 Bluetooth Keypad</a>
-    <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System_.png' alt="sym" width="70%"></div>
-  </div>
-  
-  <div class='paper-box-image'><div>
     <a href="https://tw.kef.com/products/bts30">KEF BTS30 Compact Amplifier System</a>
     <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="70%"></div>
   </div>
   
 <div class='paper-box-text' markdown="1">
-  **Participated in**<br>
-    Firmware development - 
-    Acoustic test - Using Audio precision analysis Playback with FR.
+  
+**<font color="green">Compact Amplifier System with Bluetooth Keypad</font><br>
+**Participated in** <br>
+- Product Design with PM/EE/FW/
+- Acoustic test
+  
 </div>
 </div>
 
@@ -169,25 +176,36 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
     <img src='images/Thomann Fun Generation RTA-31.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
+
+**<font color="green">Spectrum Analyser - 31 bands</font><br>
+**Participated in** <br>
+- Firmware development
 </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.blacklionaudio.com/store/power-conditioners/pg-2-power-conditioner/">BLACK LION PG-2 Power Conditioner</a>
+    <a href="https://www.blacklionaudio.com/store/power-conditioners/pg-2-power-conditioner/">BLACK LION PG-2</a>
     <img src='images/BLACK LION PG-2 Power Conditioner.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
+
+**<font color="green">Power Conditioner</font><br>
+**Participated in** <br>
+- Firmware development
 </div>
 </div>
 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.soundavo.com/products/sld-1-db-display-with-measuring-microphone">Soundavo SLD-1 DB Display with Measuring Microphone</a>
+    <a href="https://www.soundavo.com/products/sld-1-db-display-with-measuring-microphone">Soundavo SLD-1</a>
     <img src='images/Soundavo SLD-1 DB Display with Measuring Microphone.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
+**<font color="green">DB Display with Measuring Microphone</font><br>
+**Participated in** <br>
+- Firmware development
 </div>
 </div>
 
@@ -198,10 +216,13 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
 
   <div class='paper-box-image'><div>
-    <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100 Power Conditioner</a>
+    <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100</a>
     <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
+**<font color="green">Power Conditioner</font><br>
+**Participated in** <br>
+- Firmware development
 </div>
 </div>
 
