@@ -24,7 +24,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 <br>
 **✨ Personal Attributes: Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.**
 <br>
-### 💻 Skills
+### 🛠 Technology Stack
 - MCU: Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
 - Git: TortoiseGit
 - Programming Languages
