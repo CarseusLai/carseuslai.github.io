@@ -161,7 +161,6 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
 - Acoustic test
-  
 </div>
 </div>
 
@@ -179,7 +178,6 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
 - Acoustic test
-  
 </div>
 </div>
 
@@ -420,11 +418,6 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
   Keywords: PTZ Camera, Self-propelled Car.
 </div>
 </div>
-
-<!--
-### 🗣️ Invited Talk
-### 📝 Reviewer
- -->
  
 
 # 🎖 License
@@ -436,9 +429,6 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214). 
 - *2008*: WORKFORCE DEVELOPMENT AGENCY, MINSTRY OF LABOR - Level B technician for computer hardware fabrication.
-
-
-
 
 
 # 🚀 Other
