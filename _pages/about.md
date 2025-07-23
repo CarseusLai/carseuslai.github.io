@@ -64,7 +64,9 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
-  <font color="green">Participated in: Firmware development(UI/UX, charger, bettery, amp, integrated)</font>
+  **Participated in **<br>
+    Firmware development - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp and  integrated DSP algorithm, Adjust Audio path.
+    Acoustic test - Using Audio precision analysis Playback and Phone with FR.
 </div>
 </div>
 
