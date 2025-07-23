@@ -156,7 +156,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://tw.kef.com/products/bts30">KEF BTS30 Compact Amplifier System</a>
+    <a href="https://tw.kef.com/products/bts30">KEF BTS30</a>
     <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="70%"></div>
   </div>
   
@@ -211,7 +211,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300 Power Conditioner</a>
+    <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300</a>
     <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="95%"></div>
   </div>
 
