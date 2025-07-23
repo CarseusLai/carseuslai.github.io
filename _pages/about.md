@@ -108,9 +108,12 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
   
 <div class='paper-box-text' markdown="1">
-   **Participated in**<br>
-    Firmware development - 
-    Acoustic test - Using Audio precision analysis Playback with FR.
+  
+**<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font>extended to 3<br>
+**Participated in**<br>
+- Product Design with PM/EE/FW/
+- Firmware Verification(oursourcing)
+- Acoustic test - Using Audio precision analysis Playback with FR.
 </div>
 </div>
 
