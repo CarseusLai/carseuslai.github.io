@@ -135,13 +135,24 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/wsa-5rp-wireless-surround-sound-rear-speakers-kit-with-2-x-50w-amplifier-built-in">Dynasty WSA-5RP Wireless Surround Sound Rear Speakers</a>
-    <img src='images/Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers.png' alt="sym" width="50%"></div>
+    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/wsa-5rp-wireless-surround-sound-rear-speakers-kit-with-2-x-50w-amplifier-built-in">Dynasty WSA-5RP </a>
+    <img src='images/Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers.png' alt="sym" width="70%"></div>
   </div>
+<div class='paper-box-text' markdown="1">
 
+**<font color="green">5.2/5.8G Wireless Surround Sound Rear Speakers</font><br>
+**Led the design and implementation** <br>
+- Collaborated with PM/ME/ID/EE/FW
+- ID design
+- Acoustic test
+  
+</div>
+</div>
+
+<div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/dynasty-proaudio-wsa-5tr-wireless-speaker-starter-kit-wireless-subwoofer-powered-subwoofer-5-8ghz-wireless-technology-work-with-any-powered-subwoofer-active-speaker-45-channel-audio-transmitter-wsa-5tr">Dynasty WSA-5TR Wireless Transmitter-Receiver</a>
-    <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="50%"></div>
+    <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="70%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -155,10 +166,9 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 </div>
 
 
-
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://tw.kef.com/products/bts30">KEF BTS30</a>
+    <a href="https://tw.kef.com/products/bts30">KEF BTS30 Amplfier</a>
     <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="70%"></div>
   </div>
   
@@ -215,12 +225,20 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300</a>
-    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="50%"></div>
+    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
+<div class='paper-box-text' markdown="1">
+**<font color="green">Power Conditioner</font><br>
+**Participated in** <br>
+- Firmware development
+</div>
+</div>
 
+
+<div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100</a>
-    <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="50%"></div>
+    <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 **<font color="green">Power Conditioner</font><br>
