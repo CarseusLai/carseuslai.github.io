@@ -64,9 +64,10 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
+**<font color="orange">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>
 **Participated in**<br>
 - Firmware development
-  - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp and  integrated DSP algorithm, Adjust Audio path.<br>
+  - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and Adjust Audio path. <br>
 - Acoustic test
   - Using Audio precision analysis Playback and Phone with FR.
 </div>
