@@ -65,7 +65,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 <div class='paper-box-text' markdown="1">
 
 **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font><br>
-**Participated in**<br>
+**Participated in** <br>
 - Firmware development
   - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and Adjust Audio path. <br>
 - Acoustic test
@@ -78,6 +78,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 
 **<font color="#870073">Individual Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
 
+**<font color="green">Pre Amp(USB/BT/BLE/DONGLE)</font><br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
