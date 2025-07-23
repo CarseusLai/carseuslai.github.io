@@ -65,9 +65,9 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 <div class='paper-box-text' markdown="1">
 
 **Participated in**<br>
-- Firmware development<br> 
+- Firmware development
   - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp and  integrated DSP algorithm, Adjust Audio path.<br>
-- Acoustic test<br> 
+- Acoustic test
   - Using Audio precision analysis Playback and Phone with FR.
 </div>
 </div>
@@ -77,7 +77,6 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 
 **<font color="#870073">Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
 - **<font color="brown">Firmware</font>**<br>
-  Firmware development, using audio streaming technologies over NET and BT. Also, it’s integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
@@ -85,6 +84,11 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
     <img src='images/EB-SD.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
+
+**Participated in**<br>
+- Firmware development
+  - using audio streaming technologies over NET and BT. Also, it’s integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
+  
 </div>
 </div>
 
