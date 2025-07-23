@@ -135,16 +135,16 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/wsa-5rp-wireless-surround-sound-rear-speakers-kit-with-2-x-50w-amplifier-built-in">Dynasty WSA-5RP Wireless Surround Sound Rear Speakers</a>
-    <img src='images/Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers.png' alt="sym" width="70%"></div>
+    <img src='images/Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers.png' alt="sym" width="50%"></div>
   </div>
 
   <div class='paper-box-image'><div>
     <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/dynasty-proaudio-wsa-5tr-wireless-speaker-starter-kit-wireless-subwoofer-powered-subwoofer-5-8ghz-wireless-technology-work-with-any-powered-subwoofer-active-speaker-45-channel-audio-transmitter-wsa-5tr">Dynasty WSA-5TR Wireless Transmitter-Receiver</a>
-    <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="80%"></div>
+    <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="50%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">5.8/5.G Wireless Audio Transmitter-Receiver</font><br>
+**<font color="green">5.2/5.8G Wireless Audio Transmitter-Receiver</font><br>
 **Participated in** <br>
 - Product Design with PM/EE/FW/
 - Acoustic test
