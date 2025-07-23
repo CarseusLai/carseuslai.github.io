@@ -64,7 +64,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font><br>
+<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font><br>
 **Participated in** <br>
 - Firmware development
   - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and Adjust Audio path. <br>
@@ -86,7 +86,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Pre Amp(WiFi/BT/USB/COAX/OPT)</font><br>
+<font color="green">Pre Amp(WiFi/BT/USB/COAX/OPT)</font><br>
 **Participated in**<br>
 - Firmware development
   - using audio streaming technologies over NET and BT. Also, it’s integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
@@ -109,7 +109,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   
 <div class='paper-box-text' markdown="1">
   
-**<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font>extended to 3<br>
+<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font>extended to 3<br>
 **Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
@@ -126,8 +126,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   
 <div class='paper-box-text' markdown="1">
   
-**<font color="green">Dj Mixer(USB/COAX/XLR/MIDI)</font><br>
-**Participated in** <br>
+<font color="green">Dj Mixer(USB/COAX/XLR/MIDI)</font><br>
+**Participated in**<br>
 - Firmware development
 - Acoustic test
 </div>
@@ -140,8 +140,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">5.2/5.8G Wireless Surround Sound Rear Speakers</font><br>
-**Led the design and implementation** <br>
+<font color="green">5.2/5.8G Wireless Surround Sound Rear Speakers</font><br>
+**Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
 - Acoustic test
@@ -151,13 +151,13 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/dynasty-proaudio-wsa-5tr-wireless-speaker-starter-kit-wireless-subwoofer-powered-subwoofer-5-8ghz-wireless-technology-work-with-any-powered-subwoofer-active-speaker-45-channel-audio-transmitter-wsa-5tr">Dynasty WSA-5TR Wireless Transmitter-Receiver</a>
+    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/dynasty-proaudio-wsa-5tr-wireless-speaker-starter-kit-wireless-subwoofer-powered-subwoofer-5-8ghz-wireless-technology-work-with-any-powered-subwoofer-active-speaker-45-channel-audio-transmitter-wsa-5tr">Dynasty WSA-5TR</a>
     <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="70%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">5.2/5.8G Wireless Audio Transmitter-Receiver</font><br>
-**Led the design and implementation** <br>
+<font color="green">5.2/5.8G Wireless Audio Transmitter-Receiver</font><br>
+**Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
 - Acoustic test
@@ -174,8 +174,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   
 <div class='paper-box-text' markdown="1">
   
-**<font color="green">Compact Amplifier System with Bluetooth Keypad</font><br>
-**Led the design and implementation** <br>
+<font color="green">Compact Amplifier System with Bluetooth Keypad</font><br>
+**Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
 - Acoustic test
@@ -190,8 +190,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Spectrum Analyser - 31 bands</font><br>
-**Participated in** <br>
+<font color="green">Spectrum Analyser - 31 bands</font><br>
+**Participated in**<br>
 - Firmware development
 </div>
 </div>
@@ -203,8 +203,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Power Conditioner</font><br>
-**Participated in** <br>
+<font color="green">Power Conditioner</font><br>
+**Participated in**<br>
 - Firmware development
 </div>
 </div>
@@ -216,8 +216,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
     <img src='images/Soundavo SLD-1 DB Display with Measuring Microphone.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
-**<font color="green">DB Display with Measuring Microphone</font><br>
-**Participated in** <br>
+<font color="green">DB Display with Measuring Microphone</font><br>
+**Participated in**<br>
 - Firmware development
 </div>
 </div>
@@ -228,8 +228,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
     <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
-**<font color="green">Power Conditioner</font><br>
-**Participated in** <br>
+<font color="green">Power Conditioner</font><br>
+**Participated in**<br>
 - Firmware development
 </div>
 </div>
@@ -241,8 +241,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
     <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
-**<font color="green">Power Conditioner</font><br>
-**Participated in** <br>
+<font color="green">Power Conditioner</font><br>
+**Participated in**<br>
 - Firmware development
 </div>
 </div>
