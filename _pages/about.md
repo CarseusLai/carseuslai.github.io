@@ -64,8 +64,8 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
-  **Participated in **<br>
-    Firmware development - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp and  integrated DSP algorithm, Adjust Audio path.
+  **Participated in**<br>
+    Firmware development - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp and  integrated DSP algorithm, Adjust Audio path.<br>
     Acoustic test - Using Audio precision analysis Playback and Phone with FR.
 </div>
 </div>
@@ -83,8 +83,6 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
     <img src='images/EB-SD.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
-
-
 </div>
 </div>
 
@@ -102,6 +100,9 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
   
 <div class='paper-box-text' markdown="1">
+   **Participated in**<br>
+    Firmware development - 
+    Acoustic test - Using Audio precision analysis Playback with FR.
 </div>
 </div>
 
@@ -112,6 +113,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
   
 <div class='paper-box-text' markdown="1">
+  **Participated in**<br>
+    Firmware development
 </div>
 </div>
 
@@ -143,6 +146,9 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   </div>
   
 <div class='paper-box-text' markdown="1">
+  **Participated in**<br>
+    Firmware development - 
+    Acoustic test - Using Audio precision analysis Playback with FR.
 </div>
 </div>
 
