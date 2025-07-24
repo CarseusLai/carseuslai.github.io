@@ -69,13 +69,13 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - Firmware development
   - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and audio path. <br>
 - Acoustic analysis
-  - Using Audio precision to verify dsp algorithm in Playback.
+  - Using Audio precision to verify DSP algorithm in Playback.
 </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
+     In-house development
     <img src='images/two-way AINR dongle.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -86,13 +86,28 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - Firmware development
   - Control DSP AINR level on downlink and uplink.
 - Acoustic analysis
-  - Using Audio precision to verify dsp algorithm in playback and phone.
+  - Using Audio precision to verify DSP algorithm in playback and phone.
   - Define specific sample rate and data format for downlink and uplink.
   - Verify I2S data integrity and measure clock jitter.
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+     In-house development
+    <img src='images/Dual Speaker.png' alt="sym" width="80%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
+**<font color="green">Dual Speakers(USB/BT/DONGLE)</font>** extended to 2<br>
+**Participated in** <br>
+- Collaborated with AE/FW
+- Firmware development
+  - integrated DSP algorithm and audio path.
+- Acoustic analysis
+  - Using Audio precision to verify DSP algorithm in playback and phone.
+  - Verify I2S data integrity.
+</div>
 
 **<font color="#870073">Individual Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
 
@@ -127,7 +142,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   
 <div class='paper-box-text' markdown="1">
   
-**<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font>extended to 3**<br>
+**<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font> extended to 3**<br>
 **Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
@@ -150,7 +165,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Collaborated with PM/EE
 - Firmware development
 - Acoustic analysis
-  - Using Audio precision to verify dsp algorithm in playback.
+  - Using Audio precision to verify DSP algorithm in playback.
 </div>
 </div>
 
@@ -217,7 +232,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **Participated in**<br>
 - Firmware development
 - Acoustic analysis
-  - Using Audio precision to verify dsp algorithm in playback.
+  - Using Audio precision to verify DSP algorithm in playback.
 </div>
 </div>
 
