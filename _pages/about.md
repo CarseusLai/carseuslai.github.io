@@ -17,7 +17,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-# <img src='gifs/universe.gif' alt="sym" width="4%"> Biography
+# 🧑‍🚀 Biography
 I graduated with a master’s degree from the Department of Automation Technology at National Taipei University of Technology. <br>
 My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm”, investigated the simulation of drain pipe noise and its reduction through adaptive filtering techniques.<br>
 <br>
@@ -342,6 +342,11 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
 </div>
  -->
+<br>
+<br>
+# <img src='gifs/universe.gif' alt="sym" width="3%"> Side Project
+
+ 
  <br>
  <br>
 # 🎓 Education
