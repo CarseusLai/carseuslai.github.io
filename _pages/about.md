@@ -104,7 +104,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 **Participated in** <br>
 - Collaborated with AE/FW
 - Firmware development
-  - integrated DSP algorithm and audio path.
+  - Integrated DSP algorithm and audio path.
 - Acoustic analysis
   - Using Audio precision to verify DSP algorithm in playback and phone.
   - Verify I2S data integrity.
