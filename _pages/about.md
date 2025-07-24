@@ -173,7 +173,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://tw.kef.com/products/bts30">KEF BTS30 Amplfier</a>
+    <a href="https://tw.kef.com/products/bts30">KEF BTS30</a>
     <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="70%"></div>
   </div>
   
@@ -185,6 +185,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Firmware verification(oursourcing)
 - ID design
 - Acoustic analysis
+  - Using Audio precision to verify Playback.
 </div>
 </div>
 
@@ -199,7 +200,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **Participated in**<br>
 - Firmware development
 - Acoustic analysis
-  - Using Audio precision to verify Playback.
+  - Using Audio precision to verify dsp algorithm in Playback.
 </div>
 </div>
 
