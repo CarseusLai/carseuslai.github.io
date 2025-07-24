@@ -67,7 +67,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 **Participated in** <br>
 - Collaborated with AE/PM/EE/FW
 - Firmware development
-  - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and Audio path. <br>
+  - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and audio path. <br>
 - Acoustic analysis
   - Using Audio precision to verify dsp algorithm in Playback.
 </div>
@@ -84,7 +84,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 **Participated in** <br>
 - Collaborated with AE/PM/EE/FW
 - Firmware development
-  - Dsp control AINR.
+  - Control DSP AINR level on downlink and uplink.
 - Acoustic analysis
   - Using Audio precision to verify dsp algorithm in playback and phone.
   - Define specific sample rate and data format for downlink and uplink.
