@@ -225,7 +225,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box-text' markdown="1">
 **<font color="green">DB Display with Measuring Microphone</font>**<br>
 **Participated in**<br>
-- Firmware development
+- Firmware verification(oursourcing)
 - ID design
 </div>
 </div>
