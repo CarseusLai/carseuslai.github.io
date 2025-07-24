@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="50" height="50" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="50" height="50" />**Hi there!!!**
 
 # <img src='gifs/universe.gif' alt="sym" width="4%"> Biography
 I graduated with a master’s degree from the Department of Automation Technology at National Taipei University of Technology. <br>
