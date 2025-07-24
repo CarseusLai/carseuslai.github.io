@@ -25,6 +25,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 <br>
 ## 🛠 Skill
 - MCU: Microchip, Atmel, ST, STM, NXP, Airoha(Jira)
+- DSP: TMS320C6748
 - Git: TortoiseGit
 - Programming Languages
   - Assmbly 8051
