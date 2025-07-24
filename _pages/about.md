@@ -108,6 +108,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   - Using Audio precision to verify DSP algorithm in playback and phone.
   - Verify I2S data integrity.
 </div>
+</div>
 
 **<font color="#870073">Individual Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
 
