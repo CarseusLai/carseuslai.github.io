@@ -77,7 +77,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 <div class='paper-box'>
   <div class='paper-box-image'><div>
      In-house development
-    <img src='images/two-way AINR dongle.png' alt="sym" width="90%"></div>
+    <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
