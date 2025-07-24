@@ -95,7 +95,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 <div class='paper-box'>
   <div class='paper-box-image'><div>
      In-house development
-    <img src='images/Dual Speakers.png' alt="sym" width="80%"></div>
+    <img src='images/Dual Speaker.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
