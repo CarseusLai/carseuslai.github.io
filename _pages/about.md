@@ -110,9 +110,8 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 </div>
 </div>
 
+
 **<font color="#870073">Individual Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
-
-
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
