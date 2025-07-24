@@ -37,7 +37,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   - Audio Precision
   - Oscilloscope
   - Logic Analyzer
-  - multimeter
+  - Multimeter
 - System Analysis
 - Hardware Debugging
 - OS: Windows, Linux and MacOS
