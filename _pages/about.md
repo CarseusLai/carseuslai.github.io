@@ -19,6 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="50" height="50" />
+
 # 🧑‍💻 Biography
 I graduated with a master’s degree from the Department of Automation Technology at National Taipei University of Technology. <br>
 My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm”, investigated the simulation of drain pipe noise and its reduction through adaptive filtering techniques.<br>
