@@ -100,7 +100,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Dual Speaker(USB/BT/DONGLE)</font>** daisy-chaining 2 units<br>
+**<font color="green">Dual Speaker(USB/BT/DONGLE)</font> - daisy-chaining 2 units**<br>
 **Participated in** <br>
 - Collaborated with AE/FW
 - Firmware development
@@ -143,7 +143,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   
 <div class='paper-box-text' markdown="1">
   
-**<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font> extendable to connect 3 units.**<br>
+**<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font> - extendable to connect 3 units.**<br>
 **Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
