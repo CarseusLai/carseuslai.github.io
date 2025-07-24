@@ -116,7 +116,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
-    <img src='images/EB-SD.png' alt="sym" width="90%"></div>
+    <img src='images/EB-SD.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
