@@ -99,7 +99,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Dual Speakers(USB/BT/DONGLE)</font>** extended to 2<br>
+**<font color="green">Dual Speaker(USB/BT/DONGLE)</font>** extended to 2<br>
 **Participated in** <br>
 - Collaborated with AE/FW
 - Firmware development
