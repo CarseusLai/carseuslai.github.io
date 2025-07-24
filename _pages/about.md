@@ -69,8 +69,8 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - Collaborated with AE/PM/EE/FW
 - Firmware development
   - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and Adjust Audio path. <br>
-- Acoustic test
-  - Using Audio precision analysis Playback and Phone with FR.
+- Acoustic analysis
+  - Using Audio precision to verify dsp algorithm in Playback.
 </div>
 </div>
 
@@ -115,7 +115,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
 - Firmware verification(oursourcing)
-- Acoustic test
+- Acoustic analysis
+  - Using Audio precision to verify HW(LP, BP, HP) in Playback.
 </div>
 </div>
 
@@ -131,7 +132,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **Participated in**<br>
 - Collaborated with PM/EE
 - Firmware development
-- Acoustic test
+- Acoustic analysis
+  - Using Audio precision to verify dsp algorithm in Playback.
 </div>
 </div>
 
@@ -146,7 +148,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
-- Acoustic test
+- Acoustic analysis
+  - Using Audio precision to verify Playback.
   
 </div>
 </div>
@@ -162,7 +165,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
-- Acoustic test
+- Acoustic analysis
+    - Using Audio precision to verify Playback.
 </div>
 </div>
 
@@ -180,7 +184,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Collaborated with PM/ME/ID/EE/FW
 - Firmware verification(oursourcing)
 - ID design
-- Acoustic test
+- Acoustic analysis
 </div>
 </div>
 
@@ -194,6 +198,8 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Spectrum Analyser - 31 bands</font>**<br>
 **Participated in**<br>
 - Firmware development
+- Acoustic analysis
+  - Using Audio precision to verify Playback.
 </div>
 </div>
 
