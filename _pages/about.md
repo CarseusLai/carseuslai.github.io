@@ -73,6 +73,24 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
+    <img src='images/two-way AINR dongle.png' alt="sym" width="80%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**<font color="green">two-way AINR dongle(USB/AUX)</font>**<br>
+**Participated in** <br>
+- Collaborated with AE/PM/EE/FW
+- Firmware development
+  - Dsp control AINR.
+- Acoustic analysis
+  - Using Audio precision to verify dsp algorithm in playback and phone.
+  - Define specific sample rate and data format for downlink and uplink.
+  - Verify I2S data integrity and measure clock jitter.
+</div>
+</div>
 
 
 
@@ -115,7 +133,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - ID design
 - Firmware verification(oursourcing)
 - Acoustic analysis
-  - Using Audio precision to verify HW(LP, BP, HP) in Playback.
+  - Using Audio precision to verify HW(LP, BP, HP) in playback.
 </div>
 </div>
 
@@ -132,7 +150,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Collaborated with PM/EE
 - Firmware development
 - Acoustic analysis
-  - Using Audio precision to verify dsp algorithm in Playback.
+  - Using Audio precision to verify dsp algorithm in playback.
 </div>
 </div>
 
@@ -148,7 +166,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
 - Acoustic analysis
-  - Using Audio precision to verify Playback.
+  - Using Audio precision to verify playback.
   
 </div>
 </div>
@@ -165,7 +183,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
 - Acoustic analysis
-    - Using Audio precision to verify Playback.
+    - Using Audio precision to verify playback.
 </div>
 </div>
 
@@ -184,7 +202,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Firmware verification(oursourcing)
 - ID design
 - Acoustic analysis
-  - Using Audio precision to verify Playback.
+  - Using Audio precision to verify playback.
 </div>
 </div>
 
@@ -199,7 +217,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **Participated in**<br>
 - Firmware development
 - Acoustic analysis
-  - Using Audio precision to verify dsp algorithm in Playback.
+  - Using Audio precision to verify dsp algorithm in playback.
 </div>
 </div>
 
