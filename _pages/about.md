@@ -81,7 +81,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">two-way AINR dongle(USB/AUX)</font>**<br>
+**<font color="green">Two-way AINR dongle(USB/AUX)</font>**<br>
 **Participated in** <br>
 - Collaborated with AE/PM/EE/FW
 - Firmware development
@@ -123,7 +123,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 **<font color="green">Pre Amp(WiFi/BT/USB/COAX/OPT)</font>**<br>
 **Participated in**<br>
 - Firmware development
-  - using audio streaming technologies over NET and BT. Also, it’s integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
+  - Using audio streaming technologies over NET and BT. it integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
   
 </div>
 </div>
