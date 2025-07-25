@@ -29,7 +29,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - Git: TortoiseGit
 - Programming Languages
   - Assmbly 8051
-  - C/C++
+  - C
   - VB.net/C#
   - MATLAB
   - Python
