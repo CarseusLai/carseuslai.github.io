@@ -112,7 +112,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 </div>
 
 
-**<font color="#870073">Individual Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">
+**<font color="#870073">Individual Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">2022-Now<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
@@ -123,7 +123,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 **<font color="green">Pre Amp(WiFi/BT/USB/COAX/OPT)</font>**<br>
 **Participated in**<br>
 - Firmware development
-  - Using audio streaming technologies over NET and BT. it integrating USB, COAX, and SPDIF modules to build audio products such as preamp and amp (Class D) with advanced audio processing capabilities. 
+  - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
   
 </div>
 </div>
