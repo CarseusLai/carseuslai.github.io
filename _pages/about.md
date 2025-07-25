@@ -24,7 +24,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 **✨ Personal Attributes: Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.**
 <br>
 ## 🛠 Skill
-- MCU: Airoha(Jira), Microchip, NXP, Atmel, ST, STM, ,Arduino 
+- MCU: Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
 - DSP: TMS320C6748
 - Git: TortoiseGit
 - Programming Languages
