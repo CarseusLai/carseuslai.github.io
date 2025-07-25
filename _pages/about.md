@@ -474,12 +474,12 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 # 🎖 License
 - *2020.12.31*: Udemy - 學習和理解Node.JS.
 - *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站.
-- *2020.02.17*: Audinate - Dnate Certification Level 3.
-- *2020.02.04*: Audinate - Dnate Certification Level 2.
-- *2019.02.27*: Audinate - Dnate Certification Level 1.
-- *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).
-- *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214). 
-- *2008*: WORKFORCE DEVELOPMENT AGENCY, MINSTRY OF LABOR - Level B technician for computer hardware fabrication.
+- *2020.02.17*: <a href="https://github.com/CarseusLai/carseuslai.github.io/blob/main/licenses/certification-Dante-Level-3.pdf">Audinate - Dnate Certification Level 3.</a>
+- *2020.02.04*: <a href="https://github.com/CarseusLai/carseuslai.github.io/blob/main/licenses/certification-Dante-Level-2.pdf">Audinate - Dnate Certification Level 2.</a>
+- *2019.02.27*: <a href="https://github.com/CarseusLai/carseuslai.github.io/blob/main/licenses/certification-Dante-Level-1.pdf">Audinate - Dnate Certification Level 1.</a>
+- *2013.07.23*: <a href="https://github.com/CarseusLai/carseuslai.github.io/blob/main/licenses/LAi_JIA_MENG_RHCE.pdf">Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).</a>
+- *2011.08.23*: <a href="https://github.com/CarseusLai/carseuslai.github.io/blob/main/licenses/LAi_JIA_MENG_RHCSA.pdf">Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214). </a>
+- *2008*: <a href="https://github.com/CarseusLai/carseuslai.github.io/blob/main/licenses/B%20level.pdf">WORKFORCE DEVELOPMENT AGENCY, MINSTRY OF LABOR - Level B technician for computer hardware fabrication.</a> 
 
 
 # 🚀 Other
