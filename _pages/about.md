@@ -120,7 +120,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   </div>
 <div class='paper-box-text' markdown="1">
 
-**<font color="green">Pre Amp(WiFi/BT/USB/COAX/OPT)</font>**<br>
+**<font color="green">Pre Amp(WiFi/BT)</font>**<br>
 **Participated in**<br>
 - Firmware development
   - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
