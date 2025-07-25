@@ -231,6 +231,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 **<font color="green">Spectrum Analyser - 31 bands</font>**<br>
 **Participated in**<br>
+- Collaborated with PM/EE
 - Firmware development
 - Acoustic analysis
   - Using Audio precision to verify DSP algorithm in playback.
@@ -246,6 +247,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 
 **<font color="green">Power Conditioner</font>**<br>
 **Participated in**<br>
+- Collaborated with EE
 - Firmware development
 </div>
 </div>
@@ -272,6 +274,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box-text' markdown="1">
 **<font color="green">Power Conditioner</font>**<br>
 **Participated in**<br>
+- Collaborated with EE
 - Firmware development
 </div>
 </div>
@@ -285,6 +288,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box-text' markdown="1">
 **<font color="green">Power Conditioner</font>**<br>
 **Participated in**<br>
+- Collaborated with EE
 - Firmware development
 </div>
 </div>
