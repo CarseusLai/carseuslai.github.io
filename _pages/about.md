@@ -490,6 +490,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/carseuslai/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=carseuslai&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=carseuslai&color=DE002D&style=plastic">
    </a>
 </div>
+
