@@ -311,7 +311,7 @@ at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters fr
 
 **<font color="#007a87">Wayi International Inc.</font>** <span style="display: inline-block; width: 60%; text-align: right;">Central Taiwan, 2012 - 2013</span><br>
 - **<font color="black">SF Online Referee Team - </font><font color="brown">Referee</font>**<br>
-  (Student Days) SF Online.
+  (Student Days).
 
 <!--
 
