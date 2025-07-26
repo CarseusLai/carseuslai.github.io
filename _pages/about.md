@@ -310,7 +310,7 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
 at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others. 
 
 **<font color="#007a87">Wayi International Inc.</font>** <span style="display: inline-block; width: 60%; text-align: right;">Central Taiwan, 2012 - 2013</span><br>
-- **<font color="black">Game Judges of Central Taiwan - </font><font color="brown">Referee</font>**<br>
+- **<font color="black">SF Online Referee Team - </font><font color="brown">Referee</font>**<br>
   (Student Days) SF Online.
 
 <!--
