@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CarseusLai"
+  github           : #"CarseusLai"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  hackerrank       : "https://www.hackerrank.com/profile/Carseus"
 
 # Reading Files
 include:
