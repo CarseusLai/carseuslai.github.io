@@ -490,9 +490,3 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 - 2016.6 - 2016.9, (WHV)Strawberry Packer, Season top 5 of 80 people, Australia-Caboolture.
 - 2008 - 2013, (Student Days) SF Online Game of Professional Shooter(PR90), Central Taiwan.
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/carseuslai/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=carseuslai&color=DE002D&style=plastic">
-   </a>
-</div>
-
