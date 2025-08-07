@@ -27,9 +27,9 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - MCU: Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
 - DSP: TMS320C6748(NLMS Algorithm)
 - Git: TortoiseGit
-- Programming Languages(<a href="https://www.hackerrank.com/carseus" target="_blank">
-  <img src="https://www.hackerrank.com/carseus/badge.png" alt="HackerRank Badge" />
-</a>)
+- Programming Languages<a href="https://www.hackerrank.com/carseus" target="_blank">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
+</a>
   - Assmbly 8051
   - C
   - Python
