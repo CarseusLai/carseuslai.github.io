@@ -46,9 +46,35 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - Development Platforms: LabVIEW, Visual Studio
 - Others: Photoshop, Illustrator, Car mechanic
 
-<a href="https://www.hackerrank.com/carseus">
-  <img src="https://www.hackerrank.com/carseus/badge.png" alt="HackerRank Badge" />
-</a>
+<div id="hackerrank-level"></div>
+
+<script>
+async function fetchHackerRank() {
+  const username = 'carseus';
+  const url = `https://www.hackerrank.com/rest/hackers/${username}/badges`;
+
+  try {
+    const response = await fetch(url);
+    const data = await response.json();
+
+    if (data && data.models && data.models.length > 0) {
+      const badge = data.models[0];
+      document.getElementById('hackerrank-level').innerHTML = `
+        <h3>HackerRank Badge</h3>
+        <p>${badge.badge_display_name}</p>
+        <img src="${badge.image_url}" alt="Badge Image" />
+      `;
+    } else {
+      document.getElementById('hackerrank-level').innerText = 'No badges found.';
+    }
+  } catch (error) {
+    document.getElementById('hackerrank-level').innerText = 'Error fetching data.';
+    console.error(error);
+  }
+}
+
+fetchHackerRank();
+</script>
 
 
 # 🔥 News
