@@ -318,7 +318,7 @@ at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters fr
 
 **<font color="#007a87">Wayi International Inc.</font>** <span style="display: inline-block; width: 60%; text-align: right;">Central Taiwan, 2011 - 2013(Student Days)</span><br>
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
-  I was trained by an e-Sports player for 1 year and have been a professional SF online(FPS) shooter for the past 8 years.
+  I was trained by an e-Sports player for one year and was a professional SF online (FPS) shooter for eight years.
 
 <!--
 
