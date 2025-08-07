@@ -46,6 +46,11 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - Development Platforms: LabVIEW, Visual Studio
 - Others: Photoshop, Illustrator, Car mechanic
 
+<a href="https://www.hackerrank.com/carseus">
+  <img src="https://www.hackerrank.com/carseus/badge.png" alt="HackerRank Badge" />
+</a>
+
+
 # 🔥 News
 - *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
 <br>
