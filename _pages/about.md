@@ -27,7 +27,9 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - MCU: Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
 - DSP: TMS320C6748(NLMS Algorithm)
 - Git: TortoiseGit
-- Programming Languages
+- Programming Languages(<a href="https://www.hackerrank.com/carseus" target="_blank">
+  <img src="https://www.hackerrank.com/carseus/badge.png" alt="HackerRank Badge" />
+</a>)
   - Assmbly 8051
   - C
   - Python
@@ -47,34 +49,6 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - Others: Photoshop, Illustrator, Car mechanic
 
 <div id="hackerrank-level"></div>
-
-<script>
-async function fetchHackerRank() {
-  const username = 'carseus';
-  const url = `https://www.hackerrank.com/rest/hackers/${username}/badges`;
-
-  try {
-    const response = await fetch(url);
-    const data = await response.json();
-
-    if (data && data.models && data.models.length > 0) {
-      const badge = data.models[0];
-      document.getElementById('hackerrank-level').innerHTML = `
-        <h3>HackerRank Badge</h3>
-        <p>${badge.badge_display_name}</p>
-        <img src="${badge.image_url}" alt="Badge Image" />
-      `;
-    } else {
-      document.getElementById('hackerrank-level').innerText = 'No badges found.';
-    }
-  } catch (error) {
-    document.getElementById('hackerrank-level').innerText = 'Error fetching data.';
-    console.error(error);
-  }
-}
-
-fetchHackerRank();
-</script>
 
 
 # 🔥 News
