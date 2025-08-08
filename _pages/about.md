@@ -16,6 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
+# 🔥 News
+- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
+
 <span class='anchor' id='about-me'></span>
 # 🧑‍🚀 Biography
 I graduated with a master’s degree from the Department of Automation Technology at National Taipei University of Technology. <br>
@@ -50,9 +53,6 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 
 <div id="hackerrank-level"></div>
 
-
-# 🔥 News
-- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
 <br>
 <br>
 
