@@ -96,7 +96,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - Acoustic analysis
   - Using Audio precision to verify DSP algorithm in playback and phone.
   - Define specific sample rate and data format for downlink and uplink.
-  - Verify I2S data integrity and measure clock jitter.
+  - Verify UAC protocol, I2S data and measure clock jitter.
 </div>
 </div>
 
