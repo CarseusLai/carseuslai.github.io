@@ -469,8 +469,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Monographs<br>
-   <a href="https://www.youtube.com/watch?v=NdO4KCDFiwY"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="20%"></a> <br>
-  Baby Face Intelligent Face Following Self-Driving Vehicle System<br>
+   Baby Face Intelligent Face Following Self-Driving Vehicle System
+  <a href="https://www.youtube.com/watch?v=NdO4KCDFiwY"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="20%"></a><br>
   **Jia-Meng Lai** (old name), Wei-Jia Huang,  Wei-Xiang Cai<br>
   Keywords: PTZ Camera, Self-propelled Car.
 </div>
