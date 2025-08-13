@@ -118,7 +118,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 </div>
 
 
-**<font color="#870073">Individual Oursourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">2022 - Now<br>
+**<font color="#870073">Individual Outsourcing</font>** <span style="display: inline-block; width: 60%; text-align: right;">2022 - Now<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
@@ -153,7 +153,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
 - ID design
-- Firmware verification(oursourcing)
+- Firmware verification(outsourcing)
 - Acoustic analysis
   - Using Audio precision to verify HW(LP, BP, HP) in playback.
 </div>
@@ -221,7 +221,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Compact Amplifier System with Bluetooth Keypad</font>**<br>
 **Led the design and implementation**<br>
 - Collaborated with PM/ME/ID/EE/FW
-- Firmware verification(oursourcing)
+- Firmware verification(outsourcing)
 - ID design
 - Acoustic analysis
   - Using Audio precision to verify playback.
@@ -267,7 +267,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 <div class='paper-box-text' markdown="1">
 **<font color="green">DB Display with Measuring Microphone</font>**<br>
 **Participated in**<br>
-- Firmware verification(oursourcing)
+- Firmware verification(outsourcing)
 - ID design
 </div>
 </div>
