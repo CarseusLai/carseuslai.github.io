@@ -170,7 +170,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Dj Mixer(USB/COAX/XLR/MIDI)</font>**<br>
 **Participated in**<br>
 - Collaborated with PM/EE
-- Firmware development
+- Firmware development - Assmbly
 - Acoustic analysis
   - Using Audio precision to verify DSP algorithm in playback.
 </div>
