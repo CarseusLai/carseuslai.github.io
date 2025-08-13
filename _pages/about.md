@@ -478,6 +478,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
  
 
 # 🎖 License
+- *2025.08.13*: HankerRank - Problem Solving(Basic).
 - *2020.12.31*: Udemy - 學習和理解Node.JS.
 - *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站.
 - *2020.02.17*: Audinate - Dnate Certification Level 3.
