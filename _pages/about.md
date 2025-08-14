@@ -38,7 +38,8 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   - Python
   - MATLAB
   - JAVA
-  - VB.net/C#
+  - VB.net
+  - C#
 - Test with Measurement
   - Audio Precision
   - Oscilloscope
