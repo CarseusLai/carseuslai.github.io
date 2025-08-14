@@ -31,7 +31,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 - DSP: TMS320C6748(NLMS Algorithm)
 - Git: TortoiseGit
 - Programming Languages
-<a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="19%"></a><a href="https://leetcode.com/u/Carseus/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sym" width="19%"></a>
+<a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="19%"></a><!--<a href="https://leetcode.com/u/Carseus/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sym" width="17%"></a> -->
 
   - Assmbly 8051
   - C
