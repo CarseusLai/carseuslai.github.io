@@ -48,7 +48,8 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   - USB Analyzer
   - Multimeter
 - System Analysis
-- Others: Photoshop, Illustrator, Car mechanic
+- Adobe: Audition, Premiere Pro, Photoshop, Illustrator
+- Others: Car mechanic
 
 <div id="hackerrank-level"></div>
 
