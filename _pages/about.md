@@ -313,8 +313,9 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
 
 **<font color="#007a87">Substitute Military Service</font>** <span style="display: inline-block; width: 60%; text-align: right;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
 - **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Release</font>**<br>
-  As a substitute military serviceman responsible for writing press releases 
-at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others. 
+  As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
+  <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="20%"></a>
+  <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="20%"></a>
 
 **<font color="#007a87">Wayi International Inc.</font>** <span style="display: inline-block; width: 60%; text-align: right;">Central Taiwan, 2011 - 2013(Student Days)</span><br>
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
