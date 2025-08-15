@@ -27,10 +27,10 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 **✨ Personal Attributes: Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.**
 <br>
 ## 🛠 Skill
-- MCU: Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
-- DSP: TMS320C6748(NLMS Algorithm)
-- Git: TortoiseGit
-- Programming Languages
+- **MCU:** Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
+- **DSP:** TMS320C6748(NLMS Algorithm)
+- **Git:** TortoiseGit
+- **Programming Languages**
 <a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="19%"></a><!--<a href="https://leetcode.com/u/Carseus/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sym" width="17%"></a> -->
 
   - Assmbly 8051
@@ -40,16 +40,16 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   - JAVA
   - VB.net
   - C#
-- Hardware Debugging
-- Test with Measurement
+- **Hardware Debugging**
+- **Test with Measurement**
   - Audio Precision
   - Oscilloscope
   - Logic Analyzer
   - USB Analyzer
   - Multimeter
-- System Analysis
-- Adobe: Audition, Premiere Pro, Photoshop, Illustrator
-- Others: Car mechanic
+- **System Analysis**
+- **Adobe:** Audition, Premiere Pro, Photoshop, Illustrator
+- **Others:** Car mechanic
 
 <div id="hackerrank-level"></div>
 
