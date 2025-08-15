@@ -120,7 +120,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 </div>
 
 
-**<span style="color:#de09b3; font-size:20px;">Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:20px;">2022 - Now<br>
+**<span style="color:#de09b3; font-size:20px;">Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
@@ -137,7 +137,7 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
 </div>
 
 
-**<span style="color:#007a87; font-size:20px;">Mansion Industry Co,. Ltd (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:20px;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
+**<span style="color:#007a87; font-size:20px;">Mansion Industry Co,. Ltd (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
 - **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Manager Assistant / Firmware Engineer</font>**<br>
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
@@ -301,24 +301,24 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 </div>
 </div>
 
-**<span style="color:#007a87; font-size:20px;">Taiwan Star Telecom Co. Ltd.</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:20px;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
+**<span style="color:#007a87; font-size:20px;">Taiwan Star Telecom Co. Ltd.</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
 - **<font color="black">Changhua Store - </font><font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
 
-**<span style="color:#007a87; font-size:20px;">Working Holiday Visa</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:20px;">Australia, 2015.5.13 - 2017.2.24</span><br>
+**<span style="color:#007a87; font-size:20px;">Working Holiday Visa</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Australia, 2015.5.13 - 2017.2.24</span><br>
 - **<font color="brown">Backpacker</font>**<br>
   Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
 Part-time jobs: CCTV installation, construction worker, furniture moving laborer.
 
 
-**<span style="color:#007a87; font-size:20px;">Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:20px;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
+**<span style="color:#007a87; font-size:20px;">Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
 - **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Release</font>**<br>
   As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
   <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="10%"></a>
   <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="10%"></a>
 
-**<span style="color:#007a87; font-size:20px;">Wayi International Inc.</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:20px;">Central Taiwan, 2011 - 2013(Student Days)</span><br>
+**<span style="color:#007a87; font-size:20px;">Wayi International Inc.</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Central Taiwan, 2011 - 2013(Student Days)</span><br>
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
   I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
