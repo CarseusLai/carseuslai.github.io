@@ -322,71 +322,6 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
   I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
 <!--
-
-# 📝 Finished Products 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/AuroraHSI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**AuroraHSI: Degradation-agnostic Hyperspectral Image Fusion Transformer via Mask-guided Information Sharing and Compensation**
-
-**Chia-Ming Lee**, Cheng-Jun Kang, Ching-Heng Cheng, <a href="https://vanlinlin.github.io/" target="https://vanlinlin.github.io/">Yu-Fan Lin</a>, <a href="https://nelly0421.github.io/" target="https://nelly0421.github.io/">Yi-Shiuan Chou</a>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, <a href="https://fuenyang1127.github.io/" target="https://fuenyang1127.github.io/">Fu-En Yang</a>, <a href="https://vllab.ee.ntu.edu.tw/ycwang.html" target="https://vllab.ee.ntu.edu.tw/ycwang.html">Yu-Chiang Frank Wang</a>
-
-**Keywords**
-
-- Hyperspectral Image Restoration
-- Robust Hyperspectral Image Fusion
-- Graph Neural Network
-  
-  <div class="links">
-      <a href="https://ming053l.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
-  </div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2024</div><img src='images/SMPD24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Revisiting Vision-Language Features Adaptation and Inconsistency for Social Media Popularity Prediction**
-
-ACM International Conference on Multimedia (ACMMM2024)
-
-<a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, **Chia-Ming Lee**, <a href="https://vanlinlin.github.io/" target="https://vanlinlin.github.io/">Yu-Fan Lin</a>, <a href="https://nelly0421.github.io/" target="https://nelly0421.github.io/">Yi-Shiuan Chou</a>, Chih-Yu Jiang, Chi-Han Tsai
-
-**Keywords**
-- Vision-Language Model 
-- Social Media Analysis
-
-  <div class="links">
-      <a href="https://arxiv.org/pdf/2407.00556.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
-      <a href="https://arxiv.org/abs/2407.00556" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
-  </div>
-  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DRCT: Saving Image Super-Resolution away from Information Bottleneck** 
-
-IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Trends in Image Restoration and Enhancement (NTIRE) Workshop  <font color="red">[Oral]</font>
-
-<a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, **Chia-Ming Lee**, <a href="https://nelly0421.github.io/" target="https://nelly0421.github.io/">Yi-Shiuan Chou</a>
-
-**Keywords** <img alt="Stars" src="https://img.shields.io/github/stars/ming053l/DRCT">
-- Image Super-resolution
-- Information Bottleneck
-  <div class="links">
-      <a href="https://arxiv.org/pdf/2404.00722.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
-      <a href="https://arxiv.org/abs/2404.00722" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
-      <a href="https://github.com/ming053l/DRCT" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
-      <a href="https://allproj002.github.io/drct.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Project page</a>
-      <a href="https://drive.google.com/file/d/1zR9wSwqCryLeKVkJfTuoQILKiQdf_Vdz/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Poster</a>
-      <a href="https://docs.google.com/presentation/d/1MxPPtgQZ61GFSr3YfGOm9scm23bbbXRj/edit?usp=sharing&ouid=105932000013245886245&rtpof=true&sd=true" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Slide</a>
-  </div>
-
-</div>
-</div>
  -->
 <br>
 <br>
@@ -396,8 +331,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
  <br>
  <br>
 # 🎓 Education
-**<font color="black">2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</font>** 
-**<font color="red"> GPA: 3.88/4.0</font>**
+**<span style="color:black; font-size:15px;">2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**
+**<span style="color:red; font-size:15px;">GPA: 3.88/4.0</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
@@ -435,8 +370,8 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
 
 <font color="#D2B48C">*[Previous Field]</font>
-**<font color="grey">2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</font>** <br>
-*left school without graduating*.
+**<span style="color:gery; font-size:15px;">2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
+**<span style="color:gery; font-size:15px;">*left school without graduating</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
@@ -458,7 +393,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Tren
 </div>
 
 <font color="#D2B48C">*[Previous Field]</font>
-**<font color="grey">2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</font>** <br>
+**<span style="color:gery; font-size:15px;">2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
