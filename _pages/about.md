@@ -372,7 +372,7 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
 
 <font color="#D2B48C">*[Previous Field]</font>
 **<span style="color:gery; font-size:15px;">2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
-**<span style="color:gery; font-size:15px;">*left school without graduating</span>**
+**<span style="color:gery; font-size:15px;">**left school without graduating</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
