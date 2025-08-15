@@ -46,10 +46,8 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   - Logic Analyzer
   - USB Analyzer
   - Multimeter
-- System Analysis
 - Hardware Debugging
-- Development Platforms: LabVIEW, Visual Studio
-- OS: Windows, Linux and MacOS
+- System Analysis
 - Others: Photoshop, Illustrator, Car mechanic
 
 <div id="hackerrank-level"></div>
