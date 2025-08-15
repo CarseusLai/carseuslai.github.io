@@ -40,13 +40,13 @@ My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical No
   - JAVA
   - VB.net
   - C#
+- Hardware Debugging
 - Test with Measurement
   - Audio Precision
   - Oscilloscope
   - Logic Analyzer
   - USB Analyzer
   - Multimeter
-- Hardware Debugging
 - System Analysis
 - Others: Photoshop, Illustrator, Car mechanic
 
