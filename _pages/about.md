@@ -424,7 +424,7 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
 - *2019.02.27*: Audinate - Dnate Certification Level 1.
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214).
-- *2008*: WORKFORCE DEVELOPMENT AGENCY, MINSTRY OF LABOR - Level B technician for computer hardware fabrication.
+- *2008*: Workforce Development Agency - Level B technician for computer hardware fabrication.
 
 
 # 🚀 Other
