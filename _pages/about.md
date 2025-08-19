@@ -400,8 +400,6 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
  <br>
  <br>
 # 🎓 Education
-
-
 **<span style="color:black; font-size:15px;">
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG-MYV0cB-KeQ/company-logo_200_200/company-logo_200_200/0/1631312309160?e=1758758400&v=beta&t=dPi2Y-Dk4OewjHSNgcbJooQrRkL7NDXnJGJtb3E5xLQ" 
   alt="logo" style="
@@ -412,7 +410,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
-2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**
+2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**<br>
 **<span style="color:red; font-size:15px;">GPA: 3.88/4.0</span>**
 
 <div class='paper-box'>
