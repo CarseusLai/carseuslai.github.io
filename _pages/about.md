@@ -21,7 +21,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍🚀 Biography
-I specialize in audio and firmware, with expertise in system analysis and debugging. I hold a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,” focused on simulating drain pipe noise and effectively reducing it using adaptive filtering techniques.<br>
+I specialize in audio and firmware, with expertise in system analysis and debugging. I hold a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm” focused on simulating drain pipe noise and effectively reducing it using adaptive filtering techniques.<br>
 <br>
 **✨ Personal Attributes:** Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
 <br>
@@ -515,15 +515,15 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
  
 
 # 🎖 License
-- *2025.08.13*: HankerRank - Problem Solving(Basic).
-- *2020.12.31*: Udemy - 學習和理解Node.JS.
-- *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站.
-- *2020.02.17*: Audinate - Dnate Certification Level 3.
-- *2020.02.04*: Audinate - Dnate Certification Level 2.
-- *2019.02.27*: Audinate - Dnate Certification Level 1.
-- *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214).
-- *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214).
-- *2008*: Workforce Development Agency - Level B technician for computer hardware fabrication.
+- *2025.08.13*: HankerRank - Problem Solving(Basic)
+- *2020.12.31*: Udemy - 學習和理解Node.JS
+- *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站
+- *2020.02.17*: Audinate - Dnate Certification Level 3
+- *2020.02.04*: Audinate - Dnate Certification Level 2
+- *2019.02.27*: Audinate - Dnate Certification Level 1
+- *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214)
+- *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214)
+- *2008*: Workforce Development Agency - Level B technician for computer hardware fabrication
 
 
 # 🚀 Other
