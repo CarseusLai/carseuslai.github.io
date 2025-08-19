@@ -60,12 +60,12 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 **<span style="color:#007a87; font-size:20px;"> 
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_200_200/company-logo_200_200/0/1630654780861/luxshare_ict_logo?e=1758758400&v=beta&t=PmH9A3Qg93CJPvFebL1Vkw353xvKuit94EmCUPlw01E" 
   alt="logo" style="
-  width: 70px; 
-  height: 50px; 
+  width: 60px; 
+  height: 60px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 0px; /* 可選，讓邊角稍圓 */
+  border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
 Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022.8 - Now<br>
 
