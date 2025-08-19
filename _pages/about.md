@@ -392,8 +392,6 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
   (Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
-<!--
- -->
 <br>
 <br>
 # <img src='gifs/universe.gif' alt="sym" width="3%"> Side Project
@@ -457,7 +455,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 **<span style="color:gery; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
-  width: 70px; 
+  width: 50px; 
   height: 50px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
@@ -490,7 +488,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 **<span style="color:gery; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
-  width: 70px; 
+  width: 50px; 
   height: 50px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
