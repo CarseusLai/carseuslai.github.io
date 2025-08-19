@@ -405,7 +405,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 **<span style="color:black; font-size:15px;">
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG-MYV0cB-KeQ/company-logo_200_200/company-logo_200_200/0/1631312309160?e=1758758400&v=beta&t=dPi2Y-Dk4OewjHSNgcbJooQrRkL7NDXnJGJtb3E5xLQ" 
   alt="logo" style="
-  width: 70px; 
+  width: 50px; 
   height: 50px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
