@@ -57,7 +57,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 
 # 💼 Work Experience
-**<span style="color:#007a87; font-size:20px;">Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022.8 - Now<br>
+**<span style="color:#007a87; font-size:20px;"> <img src="https://img.astone.cc/wp-content/uploads/2024/03/lixunjingmi.jpg" alt="logo" style="width: 20px; height: 20px; margin-right: 8px;">Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022.8 - Now<br>
 
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustics Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
