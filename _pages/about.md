@@ -129,7 +129,17 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   </div>
 
 
-**<span style="color:#de09b3; font-size:20px;">Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
+**<span style="color:#de09b3; font-size:20px;">
+<img src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/289483129_4999210780188450_3158782135202169323_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WdEX6QC3GeEQ7kNvwHnHHFj&_nc_oc=Adl2BqqdCEUL4356sz0wHrGToAZc7RP_6wycBbye1WIHm7b-hGiekiQD8fcpAgRFkRk&_nc_zt=23&_nc_ht=scontent.ftpe3-1.fna&_nc_gid=JajamoxqVTSZPMIHwPRT0g&oh=00_AfXeIE5bjYE-5zD2QJJFi8u5zA8mMBzhKQsaYmrZclqrEA&oe=68AA67A8" 
+  alt="logo" style="
+  width: 60px; 
+  height: 60px; 
+  margin-right: 8px; 
+  border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 10px; /* 可選，讓邊角稍圓 */
+">
+Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
   
   <div class='paper-box'>
     <div class='paper-box-image'><div>
@@ -393,6 +403,8 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
  <br>
 # 🎓 Education
 
+
+**<span style="color:black; font-size:15px;">
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG-MYV0cB-KeQ/company-logo_200_200/company-logo_200_200/0/1631312309160?e=1758758400&v=beta&t=dPi2Y-Dk4OewjHSNgcbJooQrRkL7NDXnJGJtb3E5xLQ" 
   alt="logo" style="
   width: 70px; 
@@ -402,7 +414,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
-**<span style="color:black; font-size:15px;">2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**
+2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**
 **<span style="color:red; font-size:15px;">GPA: 3.88/4.0</span>**
 
 <div class='paper-box'>
@@ -441,6 +453,8 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 </div>
 
 <font color="#D2B48C">*[Previous Field]</font>
+
+**<span style="color:gery; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
   width: 70px; 
@@ -450,7 +464,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
-**<span style="color:gery; font-size:15px;">2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
+2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
 **<span style="color:gery; font-size:15px;">**left school without graduating</span>**
 
 <div class='paper-box'>
@@ -473,6 +487,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 </div>
 
 <font color="#D2B48C">*[Previous Field]</font>
+**<span style="color:gery; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
   width: 70px; 
@@ -482,7 +497,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
-**<span style="color:gery; font-size:15px;">2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
+2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
