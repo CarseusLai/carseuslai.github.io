@@ -57,7 +57,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 
 # 💼 Work Experience
-**<span style="color:#007a87; font-size:20px;"> <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_200_200/company-logo_200_200/0/1630654780861/luxshare_ict_logo?e=1758758400&v=beta&t=PmH9A3Qg93CJPvFebL1Vkw353xvKuit94EmCUPlw01E" alt="logo" style="width: 50px; height: 50px; margin-right: 8px;">Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022.8 - Now<br>
+**<span style="color:#007a87; font-size:20px;"> <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_200_200/company-logo_200_200/0/1630654780861/luxshare_ict_logo?e=1758758400&v=beta&t=PmH9A3Qg93CJPvFebL1Vkw353xvKuit94EmCUPlw01E" alt="logo" style="width: 100px; height: 100px; margin-right: 8px;">Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022.8 - Now<br>
 
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustics Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
