@@ -58,7 +58,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 # 💼 Work Experience
 **<span style="color:#007a87; font-size:20px;"> 
-<img src="你的縮圖網址.png" alt="logo" style="
+<img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_200_200/company-logo_200_200/0/1630654780861/luxshare_ict_logo?e=1758758400&v=beta&t=PmH9A3Qg93CJPvFebL1Vkw353xvKuit94EmCUPlw01E" 
+  alt="logo" style="
   width: 90px; 
   height: 90px; 
   margin-right: 8px; 
