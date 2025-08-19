@@ -393,14 +393,14 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
  <br>
 # 🎓 Education
 
-<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_200_200/company-logo_200_200/0/1631318290475?e=1758758400&v=beta&t=y48TMaajgRqIt-3xiSxmn2FRoghAn_5Vi8gQytN1fh4" 
+<img src="https://media.licdn.com/dms/image/v2/C560BAQG-MYV0cB-KeQ/company-logo_200_200/company-logo_200_200/0/1631312309160?e=1758758400&v=beta&t=dPi2Y-Dk4OewjHSNgcbJooQrRkL7NDXnJGJtb3E5xLQ" 
   alt="logo" style="
-  width: 60px; 
-  height: 60px; 
+  width: 70px; 
+  height: 50px; 
   margin-right: 8px; 
-  border: 1px solid black; /* 四周黑線 */
+  /*border: 1px solid black; /* 四周黑線 */
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 10px; /* 可選，讓邊角稍圓 */
+  border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
 **<span style="color:black; font-size:15px;">2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**
 **<span style="color:red; font-size:15px;">GPA: 3.88/4.0</span>**
@@ -441,6 +441,15 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 </div>
 
 <font color="#D2B48C">*[Previous Field]</font>
+<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
+  alt="logo" style="
+  width: 70px; 
+  height: 50px; 
+  margin-right: 8px; 
+  /*border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 0px; /* 可選，讓邊角稍圓 */
+">
 **<span style="color:gery; font-size:15px;">2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
 **<span style="color:gery; font-size:15px;">**left school without graduating</span>**
 
@@ -464,6 +473,15 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 </div>
 
 <font color="#D2B48C">*[Previous Field]</font>
+<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
+  alt="logo" style="
+  width: 70px; 
+  height: 50px; 
+  margin-right: 8px; 
+  /*border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 0px; /* 可選，讓邊角稍圓 */
+">
 **<span style="color:gery; font-size:15px;">2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
 
 <div class='paper-box'>
