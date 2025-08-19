@@ -63,7 +63,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   width: 60px; 
   height: 60px; 
   margin-right: 8px; 
-  /*border: 1px solid black; /* 四周黑線 */
+  border: 1px solid black; /* 四周黑線 */
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
@@ -74,79 +74,90 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management. 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'><div>
-    <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
-    <img src='images/Dell Pro Plus SL525.png' alt="sym" width="90%"></div>
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+      <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
+      <img src='images/Dell Pro Plus SL525.png' alt="sym" width="90%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
+  **Participated in** <br>
+  - Collaborated with AE/PM/EE/FW
+  - Firmware development
+    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and audio path. <br>
+  - Acoustic analysis
+    - Using Audio precision to verify DSP algorithm in Playback.
   </div>
-<div class='paper-box-text' markdown="1">
-
-**<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
-**Participated in** <br>
-- Collaborated with AE/PM/EE/FW
-- Firmware development
-  - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and audio path. <br>
-- Acoustic analysis
-  - Using Audio precision to verify DSP algorithm in Playback.
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'><div>
-     In-house development
-    <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
   </div>
-<div class='paper-box-text' markdown="1">
-
-**<font color="green">Two-way AINR dongle(USB/AUX)</font>**<br>
-**Participated in** <br>
-- Collaborated with AE/PM/EE/FW
-- Firmware development
-  - Control DSP AINR level on downlink and uplink.
-- Acoustic analysis
-  - Using Audio precision to verify DSP algorithm in playback and phone.
-  - Define specific sample rate and data format for downlink and uplink.
-  - Verify UAC protocol, I2S data and measure clock jitter.
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'><div>
-     In-house development
-    <img src='images/Dual Speaker.png' alt="sym" width="90%"></div>
+  
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+       In-house development
+      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Two-way AINR dongle(USB/AUX)</font>**<br>
+  **Participated in** <br>
+  - Collaborated with AE/PM/EE/FW
+  - Firmware development
+    - Control DSP AINR level on downlink and uplink.
+  - Acoustic analysis
+    - Using Audio precision to verify DSP algorithm in playback and phone.
+    - Define specific sample rate and data format for downlink and uplink.
+    - Verify UAC protocol, I2S data and measure clock jitter.
   </div>
-<div class='paper-box-text' markdown="1">
-
-**<font color="green">Dual Speaker(USB/BT/DONGLE)</font> - daisy-chaining 2 units**<br>
-**Participated in** <br>
-- Collaborated with AE/FW
-- Firmware development
-  - Integrated DSP algorithm and audio path.
-- Acoustic analysis
-  - Using Audio precision to verify DSP algorithm in playback and phone.
-  - Verify I2S data integrity.
-</div>
-</div>
+  </div>
+  
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+       In-house development
+      <img src='images/Dual Speaker.png' alt="sym" width="90%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Dual Speaker(USB/BT/DONGLE)</font> - daisy-chaining 2 units**<br>
+  **Participated in** <br>
+  - Collaborated with AE/FW
+  - Firmware development
+    - Integrated DSP algorithm and audio path.
+  - Acoustic analysis
+    - Using Audio precision to verify DSP algorithm in playback and phone.
+    - Verify I2S data integrity.
+  </div>
+  </div>
 
 
 **<span style="color:#de09b3; font-size:20px;">Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
-<div class='paper-box'>
-  <div class='paper-box-image'><div>
-    <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
-    <img src='images/EB-SD.png' alt="sym" width="100%"></div>
-  </div>
-<div class='paper-box-text' markdown="1">
-
-**<font color="green">Pre Amp(WiFi/BT)</font>**<br>
-**Participated in**<br>
-- Firmware development
-  - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
   
-</div>
-</div>
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+      <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
+      <img src='images/EB-SD.png' alt="sym" width="100%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Pre Amp(WiFi/BT)</font>**<br>
+  **Participated in**<br>
+  - Firmware development
+    - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
+    
+  </div>
+  </div>
 
 
-**<span style="color:#007a87; font-size:20px;">Mansion Industry Co,. Ltd (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
+**<span style="color:#007a87; font-size:20px;">
+<img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_200_200/company-logo_200_200/0/1630631911515?e=1758758400&v=beta&t=6xMX9dnUOs22x7nIn-ZqJyylSl6_PNpYKU_g3rknE_k" 
+  alt="logo" style="
+  width: 60px; 
+  height: 60px; 
+  margin-right: 8px; 
+  border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 10px; /* 可選，讓邊角稍圓 */
+">
+Mansion Industry Co,. Ltd (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
 - **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Manager Assistant / Firmware Engineer</font>**<br>
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
