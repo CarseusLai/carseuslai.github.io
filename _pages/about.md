@@ -321,24 +321,64 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 </div>
 </div>
 
-**<span style="color:#007a87; font-size:20px;">Taiwan Star Telecom Co. Ltd.</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
+**<span style="color:#007a87; font-size:20px;">
+<img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_200_200/company-logo_200_200/0/1640702287175?e=1758758400&v=beta&t=PslV68D8apC289sMDk8wAzoCjteqOkwT0IcMhSRGS2c" 
+  alt="logo" style="
+  width: 60px; 
+  height: 60px; 
+  margin-right: 8px; 
+  border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 10px; /* 可選，讓邊角稍圓 */
+">
+Taiwan Star Telecom Co. Ltd.</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
 - **<font color="black">Changhua Store - </font><font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
 
-**<span style="color:#007a87; font-size:20px;">Working Holiday Visa</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Australia, 2015.5.13 - 2017.2.24</span><br>
+**<span style="color:#007a87; font-size:20px;">
+<img src="https://media.licdn.com/dms/image/v2/C560BAQGOa1KKM7EIfQ/company-logo_200_200/company-logo_200_200/0/1630639615112?e=1758758400&v=beta&t=7Kq9ZT2o4zE4dG2q4JFVfcL9KOnslxTWHRYhpC_S_ys" 
+  alt="logo" style="
+  width: 60px; 
+  height: 60px; 
+  margin-right: 8px; 
+  border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 10px; /* 可選，讓邊角稍圓 */
+">
+Working Holiday Visa</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Australia, 2015.5.13 - 2017.2.24</span><br>
 - **<font color="brown">Backpacker</font>**<br>
   Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
 Part-time jobs: CCTV installation, construction worker, furniture moving laborer.
 
 
-**<span style="color:#007a87; font-size:20px;">Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
+**<span style="color:#007a87; font-size:20px;">
+<img src="https://media.licdn.com/dms/image/v2/C560BAQF5Nwucr2wehw/company-logo_200_200/company-logo_200_200/0/1630670973313?e=1758758400&v=beta&t=dV4Pm7XAIQxRMW46ixFALbttThEMQs2bPprJEpHhZME" 
+  alt="logo" style="
+  width: 60px; 
+  height: 60px; 
+  margin-right: 8px; 
+  border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 10px; /* 可選，讓邊角稍圓 */
+">
+Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
 - **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Release</font>**<br>
   As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
   <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="10%"></a>
   <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="10%"></a>
 
-**<span style="color:#007a87; font-size:20px;">Wayi International Inc.</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Central Taiwan, 2011 - 2013</span><br>
+**<span style="color:#007a87; font-size:20px;">
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_200_200/company-logo_200_200/0/1631318290475?e=1758758400&v=beta&t=y48TMaajgRqIt-3xiSxmn2FRoghAn_5Vi8gQytN1fh4" 
+  alt="logo" style="
+  width: 60px; 
+  height: 60px; 
+  margin-right: 8px; 
+  border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 10px; /* 可選，讓邊角稍圓 */
+">
+Wayi International Inc.</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Central Taiwan, 2011 - 2013</span><br>
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
   (Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
