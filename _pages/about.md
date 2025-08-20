@@ -141,7 +141,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
 ">
 INDIVIDUAL OUTSOURCING</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
   
-  <div class='paper-box'>
+  <div class='paper-box' style='background-color: #d3d3d3;'>
     <div class='paper-box-image'><div>
       <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
       <img src='images/EB-SD.png' alt="sym" width="100%"></div>
