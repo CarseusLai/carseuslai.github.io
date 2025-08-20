@@ -375,8 +375,8 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
 Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
 - **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Release</font>**<br>
   As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
-  <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="10%"></a>
-  <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="10%"></a>
+  <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="19%"></a>
+  <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="19%"></a>
 
 **<span style="color:#007a87; font-size:20px;">
 <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_200_200/company-logo_200_200/0/1631318290475?e=1758758400&v=beta&t=y48TMaajgRqIt-3xiSxmn2FRoghAn_5Vi8gQytN1fh4" 
