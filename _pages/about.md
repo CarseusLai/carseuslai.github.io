@@ -139,7 +139,6 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
 INDIVIDUAL OUTSOURCING</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
-</div>
 
   
   <div class='paper-box' style='background-color: #d3d3d3;'>
