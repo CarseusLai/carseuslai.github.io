@@ -139,7 +139,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
+INDIVIDUAL OUTSOURCING</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
   
   <div class='paper-box'>
     <div class='paper-box-image'><div>
@@ -330,7 +330,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Firmware development - Assmbly
 </div>
 </div>
-
+<font color="#cbe80c">*[Previous Field]</font>
 **<span style="color:#007a87; font-size:20px;">
 <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_200_200/company-logo_200_200/0/1640702287175?e=1758758400&v=beta&t=PslV68D8apC289sMDk8wAzoCjteqOkwT0IcMhSRGS2c" 
   alt="logo" style="
@@ -448,8 +448,6 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 </div>
 </div>
 
-<font color="#D2B48C">*[Previous Field]</font>
-
 **<span style="color:gery; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
@@ -482,7 +480,6 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 </div>
 </div>
 
-<font color="#D2B48C">*[Previous Field]</font>
 **<span style="color:gery; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
