@@ -330,7 +330,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 - Firmware development - Assmbly
 </div>
 </div>
-<font color="#cbe80c">*[Previous Field]</font>
+<font color="orange">*[Previous Field, Before 2018]</font>
 **<span style="color:#007a87; font-size:20px;">
 <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_200_200/company-logo_200_200/0/1640702287175?e=1758758400&v=beta&t=PslV68D8apC289sMDk8wAzoCjteqOkwT0IcMhSRGS2c" 
   alt="logo" style="
