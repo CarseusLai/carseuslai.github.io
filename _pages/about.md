@@ -168,7 +168,7 @@ INDIVIDUAL OUTSOURCING</span>** <span style="display: inline-block; width: 60%; 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei, 2018.7 - 2022.7<br>
+Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
 
 - **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Manager Assistant / Firmware Engineer</font>**<br>
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
