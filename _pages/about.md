@@ -128,7 +128,6 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   </div>
   </div>
 
-
 **<span style="color:#de09b3; font-size:20px;">
 <img src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/289483129_4999210780188450_3158782135202169323_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WdEX6QC3GeEQ7kNvwHnHHFj&_nc_oc=Adl2BqqdCEUL4356sz0wHrGToAZc7RP_6wycBbye1WIHm7b-hGiekiQD8fcpAgRFkRk&_nc_zt=23&_nc_ht=scontent.ftpe3-1.fna&_nc_gid=JajamoxqVTSZPMIHwPRT0g&oh=00_AfXeIE5bjYE-5zD2QJJFi8u5zA8mMBzhKQsaYmrZclqrEA&oe=68AA67A8" 
   alt="logo" style="
@@ -141,8 +140,8 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
 ">
 INDIVIDUAL OUTSOURCING</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
 
-<div class='paper-box'>  
-  <div class='paper-box' style='background-color: #d3d3d3'>
+  
+  <div class='paper-box' style='background-color: #d3d3d3;'>
     <div class='paper-box-image'><div>
       <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
       <img src='images/EB-SD.png' alt="sym" width="100%"></div>
@@ -169,7 +168,6 @@ INDIVIDUAL OUTSOURCING</span>** <span style="display: inline-block; width: 60%; 
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
 Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
-
 - **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Manager Assistant / Firmware Engineer</font>**<br>
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
@@ -530,4 +528,3 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia-Lindendale.
 - 2016.6 - 2016.9, (WHV)Strawberry Packer, Season top 5 of 80 people, Australia-Caboolture.
 - 2008 - 2013, (Student Days) SF Online Game of Professional Shooter(PR90), Central Taiwan.
-
