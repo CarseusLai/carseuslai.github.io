@@ -128,9 +128,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   </div>
   </div>
 
-
-<div class='paper-box' style='background-color: #d3d3d3;'>  
-**<span style="color:#de09b3; font-size:20px;">
+**<span style="background-color: #d3d3d3; color:#de09b3; font-size:20px;">
 <img src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/289483129_4999210780188450_3158782135202169323_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WdEX6QC3GeEQ7kNvwHnHHFj&_nc_oc=Adl2BqqdCEUL4356sz0wHrGToAZc7RP_6wycBbye1WIHm7b-hGiekiQD8fcpAgRFkRk&_nc_zt=23&_nc_ht=scontent.ftpe3-1.fna&_nc_gid=JajamoxqVTSZPMIHwPRT0g&oh=00_AfXeIE5bjYE-5zD2QJJFi8u5zA8mMBzhKQsaYmrZclqrEA&oe=68AA67A8" 
   alt="logo" style="
   width: 60px; 
@@ -155,7 +153,6 @@ INDIVIDUAL OUTSOURCING</span>** <span style="display: inline-block; width: 60%; 
   - Firmware development
     - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
     
-  </div>
   </div>
   </div>
 
