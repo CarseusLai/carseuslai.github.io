@@ -130,7 +130,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
 
 
 **<span style="color:#de09b3; font-size:20px;">
-<img src="https://www.kecesaudio.com/img/logo.png" 
+<img src="https://shop.textalk.se/shop/ws57/81557/files/Loggor/Keces%20Audio%20-%20Logo.png" 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
