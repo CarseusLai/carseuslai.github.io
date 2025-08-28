@@ -341,7 +341,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Taiwan Star Telecom Co. Ltd.</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
+Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
 - **<font color="black">Changhua Store - </font><font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
