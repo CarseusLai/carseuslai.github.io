@@ -368,13 +368,13 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 <br>
 # <img src='gifs/universe.gif' alt="sym" width="3%"> Side Project
 
-**<span style="color:#de09b3; font-size:20px;">
+**<span style="color:#de09b3; font-size:15px;">
 <img src="https://shop.textalk.se/shop/ws57/81557/files/Loggor/Keces%20Audio%20-%20Logo.png" 
   alt="logo" style="
-  width: 40px; 
-  height: 40px; 
+  width: 50px; 
+  height: 50px; 
   margin-right: 8px; 
-  border: 1px solid black; /* 四周黑線 */
+  /*border: 1px solid black; /* 四周黑線 */
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
