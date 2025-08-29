@@ -371,14 +371,14 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 **<span style="color:#de09b3; font-size:20px;">
 <img src="https://shop.textalk.se/shop/ws57/81557/files/Loggor/Keces%20Audio%20-%20Logo.png" 
   alt="logo" style="
-  width: 60px; 
-  height: 60px; 
+  width: 40px; 
+  height: 40px; 
   margin-right: 8px; 
   border: 1px solid black; /* 四周黑線 */
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 10px; /* 可選，讓邊角稍圓 */
+  border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
-Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
+Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">
   
   <div class='paper-box' style='background-color: #d3d3d3;'>
     <div class='paper-box-image'><div>
