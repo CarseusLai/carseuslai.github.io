@@ -129,34 +129,6 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   </div>
 
 
-**<span style="color:#de09b3; font-size:20px;">
-<img src="https://shop.textalk.se/shop/ws57/81557/files/Loggor/Keces%20Audio%20-%20Logo.png" 
-  alt="logo" style="
-  width: 60px; 
-  height: 60px; 
-  margin-right: 8px; 
-  border: 1px solid black; /* 四周黑線 */
-  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 10px; /* 可選，讓邊角稍圓 */
-">
-INDIVIDUAL OUTSOURCING</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
-  
-  <div class='paper-box' style='background-color: #d3d3d3;'>
-    <div class='paper-box-image'><div>
-      <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
-      <img src='images/EB-SD.png' alt="sym" width="100%"></div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **<font color="green">Pre Amp(WiFi/BT)</font>**<br>
-  **Participated in**<br>
-  - Firmware development
-    - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
-    
-  </div>
-  </div>
-
-
 **<span style="color:#007a87; font-size:20px;">
 <img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_200_200/company-logo_200_200/0/1630631911515?e=1758758400&v=beta&t=6xMX9dnUOs22x7nIn-ZqJyylSl6_PNpYKU_g3rknE_k" 
   alt="logo" style="
@@ -396,6 +368,32 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 <br>
 # <img src='gifs/universe.gif' alt="sym" width="3%"> Side Project
 
+**<span style="color:#de09b3; font-size:20px;">
+<img src="https://shop.textalk.se/shop/ws57/81557/files/Loggor/Keces%20Audio%20-%20Logo.png" 
+  alt="logo" style="
+  width: 60px; 
+  height: 60px; 
+  margin-right: 8px; 
+  border: 1px solid black; /* 四周黑線 */
+  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 10px; /* 可選，讓邊角稍圓 */
+">
+Individual Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022 - Now<br>
+  
+  <div class='paper-box' style='background-color: #d3d3d3;'>
+    <div class='paper-box-image'><div>
+      <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
+      <img src='images/EB-SD.png' alt="sym" width="100%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Pre Amp(WiFi/BT)</font>**<br>
+  **Participated in**<br>
+  - Firmware development
+    - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
+    
+  </div>
+  </div>
  
  <br>
  <br>
