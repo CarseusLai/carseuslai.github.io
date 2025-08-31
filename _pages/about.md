@@ -446,7 +446,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 </div>
 </div>
 
-**<span style="color:gery; font-size:15px;">
+**<span style="color:gary; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
   width: 50px; 
@@ -457,7 +457,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
 2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
-**<span style="color:gery; font-size:15px;">**left school without graduating</span>**
+**<span style="color:gary; font-size:15px;">**left school without graduating</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
