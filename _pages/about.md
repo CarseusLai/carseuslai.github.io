@@ -478,7 +478,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 </div>
 </div>
 
-**<span style="color:gery; font-size:15px;">
+**<span style="color:black; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
   width: 50px; 
