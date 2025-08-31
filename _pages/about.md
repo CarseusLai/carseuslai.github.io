@@ -368,7 +368,7 @@ Wayi International Inc.</span>** <span style="display: inline-block; width: 60%;
 <br>
 # <img src='gifs/universe.gif' alt="sym" width="3%"> Side Project
 
-**<span style="color:green; font-size:15px;">
+**<span style="color:black; font-size:15px;">
 <img src="https://shop.textalk.se/shop/ws57/81557/files/Loggor/Keces%20Audio%20-%20Logo.png" 
   alt="logo" style="
   width: 50px; 
