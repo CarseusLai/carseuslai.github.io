@@ -15,9 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
-# 🔥 News
-- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
+<!--# 🔥 News
+- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.-->
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍🚀 Biography
