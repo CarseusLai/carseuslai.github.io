@@ -426,6 +426,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**<br>
   - Firmware development - C
     - Using TMS320C6748 DSP demoboard to control NLMS Algorithm.<br>
+  
   Keywords: NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode.
 </div>
 </div>
@@ -478,6 +479,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   **Jia-Meng Lai**(old name), Jia-Yu Jhang<br>
   - Software development - C++
     - Using OpenCV API.<br>
+    
   Keywords: FaceDetection, OpenCV, Embedded.
 </div>
 </div>
@@ -510,6 +512,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   **Jia-Meng Lai** (old name), Wei-Jia Huang,  Wei-Xiang Cai<br>
   - Software development - VB.net
     - Control PTZ cameras, self-propelled vehicles, ultrasound, Bluetooth transmission.<br>
+  
   Keywords: PTZ Camera, Self-propelled Car.
 </div>
 </div>
