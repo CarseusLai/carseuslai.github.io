@@ -99,7 +99,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   <div class='paper-box-text' markdown="1">
   
   **<font color="green">Two-way AINR dongle(USB/AUX)</font>**<br>
-  **Participated in** <br>
+  **Led the design and implementation** <br>
   - Collaborated with AE/PM/EE/FW
   - Firmware development
     - Control DSP AINR level on downlink and uplink.
@@ -424,6 +424,8 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Journal<br>
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**<br>
+  - Firmware development - C
+    - Using TMS320C6748 DSP demoboard to control NLMS Algorithm.<br>
   Keywords: NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode.
 </div>
 </div>
@@ -473,7 +475,9 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 **Industry-Academic Cooperation Project**<br>**<font color="#1c0459">TXper鼎高科技</font>**<br>
 <a href="https://www.telexper.com/ai-atm.html">Access control image integration and abnormal object detection technology development project,
   門禁影像整合與異常物體偵測技術開發計畫</a> <br>
-  **Jia-Meng Lai**, Jia-Yu Jhang<br>
+  **Jia-Meng Lai**(old name), Jia-Yu Jhang<br>
+  - Software development - C++
+    - Using OpenCV API.<br>
   Keywords: FaceDetection, OpenCV, Embedded.
 </div>
 </div>
@@ -504,6 +508,8 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
    Baby Face Intelligent Face Following Self-Driving Vehicle System
   <a href="https://www.youtube.com/watch?v=NdO4KCDFiwY"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="19%"></a><br>
   **Jia-Meng Lai** (old name), Wei-Jia Huang,  Wei-Xiang Cai<br>
+  - Software development - VB.net
+    - Control PTZ cameras, self-propelled vehicles, ultrasound, Bluetooth transmission.<br>
   Keywords: PTZ Camera, Self-propelled Car.
 </div>
 </div>
