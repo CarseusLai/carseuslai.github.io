@@ -31,7 +31,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 - **Programming Languages**
 <a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="19%"></a><!--<a href="https://leetcode.com/u/Carseus/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sym" width="17%"></a> -->
 
-  - Assmbly 8051
+  - 8051 Assmbly 
   - C
   - Python
   - MATLAB
@@ -173,7 +173,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Dj Mixer(USB/COAX/XLR/MIDI)</font>**<br>
 **Participated in**<br>
 - Collaborated with PM/EE
-- Firmware development - Assmbly
+- Firmware development - 8051 Assmbly
 - Acoustic analysis
   - Using Audio precision to verify DSP algorithm in playback.
 </div>
@@ -241,7 +241,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Spectrum Analyser - 31 bands</font>**<br>
 **Participated in**<br>
 - Collaborated with PM/EE
-- Firmware development - Assmbly
+- Firmware development - 8051 Assmbly
 - Acoustic analysis
   - Using Audio precision to verify DSP algorithm in playback.
 </div>
@@ -257,7 +257,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Power Conditioner</font>**<br>
 **Participated in**<br>
 - Collaborated with EE
-- Firmware development - Assmbly
+- Firmware development - 8051 Assmbly
 </div>
 </div>
 
@@ -284,7 +284,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Power Conditioner</font>**<br>
 **Participated in**<br>
 - Collaborated with EE
-- Firmware development - Assmbly
+- Firmware development - 8051 Assmbly
 </div>
 </div>
 
@@ -298,7 +298,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 **<font color="green">Power Conditioner</font>**<br>
 **Participated in**<br>
 - Collaborated with EE
-- Firmware development - Assmbly
+- Firmware development - 8051 Assmbly
 </div>
 </div>
 <font color="orange">*[Previous Field, Before 2018]</font>
@@ -423,7 +423,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Journal<br>
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**<br>
-  - Firmware development - C
+  - Firmware development - C, MATLAB
     - Using TMS320C6748 DSP demoboard to control NLMS Algorithm.<br>
   
   Keywords: NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode.
@@ -509,7 +509,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
    Baby Face Intelligent Face Following Self-Driving Vehicle System
   <a href="https://www.youtube.com/watch?v=NdO4KCDFiwY"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="19%"></a><br>
   **Jia-Meng Lai** (old name), Wei-Jia Huang,  Wei-Xiang Cai<br>
-  - Software development - VB.net
+  - Software development - VB.net, C#
     - Control PTZ cameras, self-propelled vehicles, ultrasound, Bluetooth transmission.<br>
   
   Keywords: PTZ Camera, Self-propelled Car.
