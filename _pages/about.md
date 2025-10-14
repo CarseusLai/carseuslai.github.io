@@ -57,7 +57,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 # 💼 Work Experience
 **<span style="color:#007a87; font-size:20px;"> 
-<img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_200_200/company-logo_200_200/0/1630654780861/luxshare_ict_logo?e=1758758400&v=beta&t=PmH9A3Qg93CJPvFebL1Vkw353xvKuit94EmCUPlw01E" 
+<img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
@@ -129,7 +129,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
 
 
 **<span style="color:#007a87; font-size:20px;">
-<img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_200_200/company-logo_200_200/0/1630631911515?e=1758758400&v=beta&t=6xMX9dnUOs22x7nIn-ZqJyylSl6_PNpYKU_g3rknE_k" 
+<img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_100_100/company-logo_100_100/0/1630631911515?e=1763596800&v=beta&t=cpHKtjGiPJoTpvv_X2r2Xx_28w9VAjH5T3KYqxRZa2o" 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
@@ -303,7 +303,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 </div>
 <font color="orange">*[Previous Field, Before 2018]</font>
 **<span style="color:#007a87; font-size:20px;">
-<img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_200_200/company-logo_200_200/0/1640702287175?e=1758758400&v=beta&t=PslV68D8apC289sMDk8wAzoCjteqOkwT0IcMhSRGS2c" 
+<img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_100_100/company-logo_100_100/0/1640702287175?e=1763596800&v=beta&t=e0xLQvDOp0Uu_bQ1FJSc-HLO4ZqfOyka-9_bJFocJ4A" 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
@@ -318,7 +318,7 @@ Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; tex
 
 
 **<span style="color:#007a87; font-size:20px;">
-<img src="https://media.licdn.com/dms/image/v2/C560BAQGOa1KKM7EIfQ/company-logo_200_200/company-logo_200_200/0/1630639615112?e=1758758400&v=beta&t=7Kq9ZT2o4zE4dG2q4JFVfcL9KOnslxTWHRYhpC_S_ys" 
+<img src="https://media.licdn.com/dms/image/v2/C560BAQGOa1KKM7EIfQ/company-logo_100_100/company-logo_100_100/0/1630639615112?e=1763596800&v=beta&t=XgXzsN8LOH6JGQoRmu9i56kr-9FmGRB81JUsdmc8rU4" 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
@@ -334,7 +334,7 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
 
 
 **<span style="color:#007a87; font-size:20px;">
-<img src="https://media.licdn.com/dms/image/v2/C560BAQF5Nwucr2wehw/company-logo_200_200/company-logo_200_200/0/1630670973313?e=1758758400&v=beta&t=dV4Pm7XAIQxRMW46ixFALbttThEMQs2bPprJEpHhZME" 
+<img src="https://media.licdn.com/dms/image/v2/C560BAQF5Nwucr2wehw/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630670973337?e=1763596800&v=beta&t=pKBSsVU0u-jtHv2SJfTwoPNQ76bbDPsSToipTT9-lQE" 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
@@ -350,7 +350,7 @@ Substitute Military Service</span>** <span style="display: inline-block; width: 
   <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
 
 **<span style="color:#007a87; font-size:20px;">
-<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_200_200/company-logo_200_200/0/1631318290475?e=1758758400&v=beta&t=y48TMaajgRqIt-3xiSxmn2FRoghAn_5Vi8gQytN1fh4" 
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_100_100/company-logo_100_100/0/1631318290475?e=1763596800&v=beta&t=VjFlumaF7zg_sKGeYgWkql8QE33FLhqTAi2yH2rdiJQ" 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
