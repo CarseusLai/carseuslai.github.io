@@ -398,7 +398,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
  <br>
 # 🎓 Education
 **<span style="color:black; font-size:15px;">
-<img src="https://media.licdn.com/dms/image/v2/C560BAQG-MYV0cB-KeQ/company-logo_200_200/company-logo_200_200/0/1631312309160?e=1758758400&v=beta&t=dPi2Y-Dk4OewjHSNgcbJooQrRkL7NDXnJGJtb3E5xLQ" 
+<img src="https://media.licdn.com/dms/image/v2/C560BAQG-MYV0cB-KeQ/company-logo_100_100/company-logo_100_100/0/1631312309160?e=1763596800&v=beta&t=OVD6s3bV_fUdoxAUPVDJqmDDAGePvsccITvzgqvW8hU" 
   alt="logo" style="
   width: 50px; 
   height: 50px; 
