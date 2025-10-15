@@ -34,8 +34,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   - 8051 Assmbly 
   - C
   - Python
-  - MATLAB
-  - JAVA
+  - Matlab
+  - Java
   - VB.net
   - C#
 - **Hardware Debugging**
@@ -423,7 +423,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Journal<br>
   Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**<br>
-  - Firmware development - C, MATLAB
+  - Firmware development - C, Matlab
     - Using TMS320C6748 DSP demoboard to control NLMS Algorithm.<br>
   
   Keywords: NLMS, Adaptive Filter, TMS320C6748, Drain Pipe, COMSOL, Acoustic mode.
