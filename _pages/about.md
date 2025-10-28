@@ -68,15 +68,6 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 # 💼 Work Experience
 
-<div class="timeline">
-  <div class="timeline-item">
-    <div class="timeline-icon">1</div>
-    <div class="timeline-content">
-      Luxshare-ICT - Acoustics Product Design / Firmware Engineer<br>2022.08~Now
-   </div> 
-</div> 
-
-    
 **<span style="color:#007a87; font-size:20px;"> 
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
   alt="logo" style="
