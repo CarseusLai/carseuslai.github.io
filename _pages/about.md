@@ -66,7 +66,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">2022.8 - Now<br>
+Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taipei - Neihu, 2022.8 - Now<br>
 
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustics Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
@@ -138,7 +138,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei, 2018.7 - 2022.7</span><br>
+Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei - Xindian, 2018.7 - 2022.7</span><br>
 - **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Manager Assistant / Firmware Engineer</font>**<br>
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
@@ -312,7 +312,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Taiwan-Changhua, 2017.6 - 2018.4</span><br>
+Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Changhua, 2017.6 - 2018.4</span><br>
 - **<font color="black">Changhua Store - </font><font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
@@ -343,7 +343,7 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taiwan-Taoyuan, 2014.4.14 - 2015.4.10</span><br>
+Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taoyuan, 2014.4.14 - 2015.4.10</span><br>
 - **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Release</font>**<br>
   As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
   <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
