@@ -85,17 +85,17 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       Taiwan Star Telecom - Sales<br>2017.06~2018.04
    </div> 
     <div class="timeline-item">
-    <div class="timeline-icon">3</div>
+    <div class="timeline-icon">4</div>
     <div class="timeline-content">
       Working Holiday - Backpacker<br>2015.05.13~2017.02.24
    </div> 
    <div class="timeline-item">
-    <div class="timeline-icon">3</div>
+    <div class="timeline-icon">5</div>
     <div class="timeline-content">
      Substitute Military Service - Press Release<br>2014.04.14~2015.04.10
    </div>
      <div class="timeline-item">
-    <div class="timeline-icon">3</div>
+    <div class="timeline-icon">6</div>
     <div class="timeline-content">
      Wayi International Inc - Referee<br>2011~2013
    </div> 
