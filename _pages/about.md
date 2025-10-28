@@ -64,20 +64,44 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 <br>
 <br>
+<style>
+.timeline {
+  border-left: 2px solid #ccc;
+  padding-left: 40px;
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-icon {
+  position: absolute;
+  left: -24px;
+  top: 0;
+  background: #ccc;
+  color: #fff;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 24px;
+  font-weight: bold;
+}
+</style>
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-icon">1</div>
     <div class="timeline-content">
-      <!-- 工作內容 -->123
+      Foxconn Senior Firmware Engineer<br>2021.11~現在
     </div>
   </div>
   <div class="timeline-item">
     <div class="timeline-icon">2</div>
     <div class="timeline-content">
-      <!-- 工作內容 -->456
+      Leedarson Senior Firmware Engineer<br>2021.03~2021.11
     </div>
   </div>
 </div>
+
 <br>
 <br>
 # 💼 Work Experience
