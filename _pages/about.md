@@ -64,6 +64,22 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 <br>
 <br>
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-icon">1</div>
+    <div class="timeline-content">
+      <!-- 工作內容 -->123
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-icon">2</div>
+    <div class="timeline-content">
+      <!-- 工作內容 -->456
+    </div>
+  </div>
+</div>
+<br>
+<br>
 # 💼 Work Experience
 **<span style="color:#007a87; font-size:20px;"> 
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
