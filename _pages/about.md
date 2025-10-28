@@ -71,16 +71,10 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   <div class="timeline-item">
     <div class="timeline-icon">1</div>
     <div class="timeline-content">
-      Foxconn Senior Firmware Engineer<br>2021.11~現在
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-icon">2</div>
-    <div class="timeline-content">
-      Leedarson Senior Firmware Engineer<br>2021.03~2021.11
-    </div>
-  </div>
-</div>
+      Luxshare-ICT - Acoustics Product Design / Firmware Engineer<br>2022.08~Now
+
+
+
 
 **<span style="color:#007a87; font-size:20px;"> 
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
@@ -153,6 +147,8 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   </div>
   </div>
 
+    </div>
+  </div>
 
 **<span style="color:#007a87; font-size:20px;">
 <img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_100_100/company-logo_100_100/0/1630631911515?e=1763596800&v=beta&t=cpHKtjGiPJoTpvv_X2r2Xx_28w9VAjH5T3KYqxRZa2o" 
