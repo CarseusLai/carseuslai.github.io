@@ -79,26 +79,31 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-content">
       Mansion Industry - Audio Product Manager Assistant / Firmware Engineer<br>2018.07~2022.07
    </div> 
+       </div>
     <div class="timeline-item">
     <div class="timeline-icon">3</div>
     <div class="timeline-content">
       Taiwan Star Telecom - Sales<br>2017.06~2018.04
    </div> 
+       </div>
     <div class="timeline-item">
     <div class="timeline-icon">4</div>
     <div class="timeline-content">
       Working Holiday - Backpacker<br>2015.05.13~2017.02.24
    </div> 
+       </div>
    <div class="timeline-item">
     <div class="timeline-icon">5</div>
     <div class="timeline-content">
      Substitute Military Service - Press Release<br>2014.04.14~2015.04.10
    </div>
-     <div class="timeline-item">
+      </div>
+    <div class="timeline-item">
     <div class="timeline-icon">6</div>
     <div class="timeline-content">
      Wayi International Inc - Referee<br>2011~2013
    </div> 
+       </div>
 </div> 
 
 **<span style="color:#007a87; font-size:20px;"> 
