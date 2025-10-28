@@ -107,3 +107,29 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+<style>
+.timeline {
+  border-left: 2px solid #ccc;
+  padding-left: 40px;
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-icon {
+  position: absolute;
+  left: -24px;
+  top: 0;
+  background: #ccc;
+  color: #fff;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 24px;
+  font-weight: bold;
+}
+
+
