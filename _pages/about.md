@@ -51,9 +51,6 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 <div id="hackerrank-level"></div>
 
-<br>
-<br>
-
 # 🎖 License
 - *2025.08.13*: HankerRank - Problem Solving(Basic)
 - *2020.12.31*: Udemy - 學習和理解Node.JS
@@ -65,7 +62,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214)
 - *2008*: Workforce Development Agency - Level B technician for computer hardware fabrication
 
-
+<br>
+<br>
 # 💼 Work Experience
 **<span style="color:#007a87; font-size:20px;"> 
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
