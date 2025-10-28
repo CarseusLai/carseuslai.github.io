@@ -17,6 +17,31 @@ redirect_from:
 
 <!--# 🔥 News
 - *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.-->
+# 🔥 Work Timeline
+<style>
+.timeline {
+  border-left: 2px solid #ccc;
+  padding-left: 40px;
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 20px;
+}
+.timeline-icon {
+  position: absolute;
+  left: -24px;
+  top: 0;
+  background: #ccc;
+  color: #fff;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 24px;
+  font-weight: bold;
+}
+
+
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍🚀 Biography
@@ -51,7 +76,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 <div id="hackerrank-level"></div>
 
-# 🎖 License
+## 🎖 License
 - *2025.08.13*: HankerRank - Problem Solving(Basic)
 - *2020.12.31*: Udemy - 學習和理解Node.JS
 - *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站
@@ -64,28 +89,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 <br>
 <br>
-<style>
-.timeline {
-  border-left: 2px solid #ccc;
-  padding-left: 40px;
-}
-.timeline-item {
-  position: relative;
-  margin-bottom: 20px;
-}
-.timeline-icon {
-  position: absolute;
-  left: -24px;
-  top: 0;
-  background: #ccc;
-  color: #fff;
-  width: 24px;
-  height: 24px;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 24px;
-  font-weight: bold;
-}
+
+# 💼 Work Experience
 </style>
 <div class="timeline">
   <div class="timeline-item">
@@ -102,9 +107,6 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   </div>
 </div>
 
-<br>
-<br>
-# 💼 Work Experience
 **<span style="color:#007a87; font-size:20px;"> 
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
   alt="logo" style="
