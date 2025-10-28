@@ -73,6 +73,31 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-icon">1</div>
     <div class="timeline-content">
       Luxshare-ICT - Acoustics Product Design / Firmware Engineer<br>2022.08~Now
+   </div>
+    <div class="timeline-item">
+    <div class="timeline-icon">2</div>
+    <div class="timeline-content">
+      Mansion Industry - Audio Product Manager Assistant / Firmware Engineer<br>2018.07~2022.07
+   </div> 
+    <div class="timeline-item">
+    <div class="timeline-icon">3</div>
+    <div class="timeline-content">
+      Taiwan Star Telecom - Sales<br>2017.06~2018.04
+   </div> 
+    <div class="timeline-item">
+    <div class="timeline-icon">3</div>
+    <div class="timeline-content">
+      Working Holiday - Backpacker<br>2015.05.13~2017.02.24
+   </div> 
+   <div class="timeline-item">
+    <div class="timeline-icon">3</div>
+    <div class="timeline-content">
+     Substitute Military Service - Press Release<br>2014.04.14~2015.04.10
+   </div>
+     <div class="timeline-item">
+    <div class="timeline-icon">3</div>
+    <div class="timeline-content">
+     Wayi International Inc - Referee<br>2011~2013
    </div> 
 </div> 
 
@@ -353,7 +378,7 @@ Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; tex
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Working Holiday Visa</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Australia, 2015.5.13 - 2017.2.24</span><br>
+Working Holiday</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Australia, 2015.5.13 - 2017.2.24</span><br>
 - **<font color="brown">Backpacker</font>**<br>
   Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
 Part-time jobs: CCTV installation, construction worker, furniture moving laborer.
@@ -385,7 +410,7 @@ Substitute Military Service</span>** <span style="display: inline-block; width: 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Wayi International Inc.</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Central Taiwan, 2011 - 2013</span><br>
+Wayi International</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Central Taiwan, 2011 - 2013</span><br>
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
   (Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
