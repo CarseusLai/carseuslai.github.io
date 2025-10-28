@@ -73,7 +73,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-icon">1</div>
     <div class="timeline-content">
       Luxshare-ICT - Acoustics Product Design / Firmware Engineer<br>2022.08~Now
-  </div>
+  
 
     
 **<span style="color:#007a87; font-size:20px;"> 
@@ -148,8 +148,8 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   </div>
 
 
-  
-</div> 
+ </div> 
+
 
 
 
@@ -419,6 +419,9 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
     
   </div>
   </div>
+
+</div> 
+
  
  <br>
  <br>
