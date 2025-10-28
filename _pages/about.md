@@ -102,7 +102,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-item">
     <div class="timeline-icon">6</div>
     <div class="timeline-content">
-     Wayi International Inc - Referee<br>2011~2013
+     Wayi International - Referee<br>2011~2013
    </div> 
        </div>
 </div> 
