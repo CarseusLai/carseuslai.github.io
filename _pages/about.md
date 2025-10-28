@@ -24,6 +24,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 <br>
 **✨ Personal Attributes:** Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
 <br>
+---
 ## 🛠 Skill
 - **MCU:** Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
 - **DSP:** TI - TMS320C6748(NLMS Algorithm)
@@ -50,7 +51,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 - **Others:** Car mechanic
 
 <div id="hackerrank-level"></div>
-
+---
 ## 🎖 License
 - *2025.08.13*: HankerRank - Problem Solving(Basic)
 - *2020.12.31*: Udemy - 學習和理解Node.JS
@@ -62,9 +63,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214)
 - *2008*: Workforce Development Agency - Level B technician for computer hardware fabrication
 
-<br>
-<br>
-
+---
 
 # 💼 Work Experience
 
@@ -420,8 +419,9 @@ Wayi International</span>** <span style="display: inline-block; width: 60%; text
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
   (Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
-<br>
-<br>
+---
+
+
 # <img src='gifs/universe.gif' alt="sym" width="3%"> Side Project
 
 **<span style="color:black; font-size:15px;">
@@ -452,8 +452,8 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   </div>
 
  
- <br>
- <br>
+---
+
 # 🎓 Education
 **<span style="color:black; font-size:15px;">
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG-MYV0cB-KeQ/company-logo_100_100/company-logo_100_100/0/1631312309160?e=1763596800&v=beta&t=OVD6s3bV_fUdoxAUPVDJqmDDAGePvsccITvzgqvW8hU" 
@@ -573,6 +573,10 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   Keywords: PTZ Camera, Self-propelled Car.
 </div>
 </div>
+
+
+---
+
  
 # 🚀 Other
 **Achievements**
