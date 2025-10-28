@@ -51,7 +51,9 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 - **Others:** Car mechanic
 
 <div id="hackerrank-level"></div>
+
 ---
+
 ## 🎖 License
 - *2025.08.13*: HankerRank - Problem Solving(Basic)
 - *2020.12.31*: Udemy - 學習和理解Node.JS
