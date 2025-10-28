@@ -17,31 +17,6 @@ redirect_from:
 
 <!--# 🔥 News
 - *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.-->
-# 🔥 Work Timeline
-<style>
-.timeline {
-  border-left: 2px solid #ccc;
-  padding-left: 40px;
-}
-.timeline-item {
-  position: relative;
-  margin-bottom: 20px;
-}
-.timeline-icon {
-  position: absolute;
-  left: -24px;
-  top: 0;
-  background: #ccc;
-  color: #fff;
-  width: 24px;
-  height: 24px;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 24px;
-  font-weight: bold;
-}
-
-
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍🚀 Biography
