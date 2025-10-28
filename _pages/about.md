@@ -66,7 +66,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 <br>
 
 # 💼 Work Experience
-</style>
+
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-icon">1</div>
