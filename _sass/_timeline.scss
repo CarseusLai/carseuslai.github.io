@@ -1,6 +1,6 @@
 .timeline {
   position: relative;
-  padding-left: 10px;
+  padding-left: 80px;
   border-left: 2px solid #ccc;
 }
 .timeline-item {
@@ -42,10 +42,10 @@
   color: #fff;
   font-weight: bold;
   text-align: center;
-  margin-right: 12px;             /* 與內容區保留間距 */
+  margin-right: 16px;             /* 與內容區保留間距 */
   position: static;               /* 重點！讓icon不再脫離流動 */
   display: flex;                  /* 內容置中 */
-  align-items: center;
+  align-items: left;
   justify-content: center;
 }
 .timeline-content {
