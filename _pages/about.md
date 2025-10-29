@@ -148,7 +148,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       margin-right: 8px; 
       /*border: 1px solid black; /* 四周黑線 */
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-      border-radius: 10px; /* 可選，讓邊角稍圓 */
+      border-radius: 20px; /* 可選，讓邊角稍圓 */
     ">
      航空警察替代役 Substitute Military Service <br>
      航空警察二隊一分隊Aviation Police Second Platoon Team 1 <br>
