@@ -6,34 +6,28 @@
   align-items: flex-start;
   margin-bottom: 24px;
 }
-.timeline-left {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: relative;
-  margin-right: 14px;
-  min-width: 60px;
-}
+
 .timeline-line {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 50%;
   width: 2px;
   background: #ccc;
-  z-index: 0;
+  min-height: 32px;
+  margin-right: 0; /* 緊貼下一個block */
+  /* 你可以用固定高度或flex自動撐大 */
 }
 .timeline-icon {
-  position: relative;
-  z-index: 2;
-  background: #ccc;
-  color: white;
   border-radius: 8px;
+  min-width: 60px;
   padding: 4px 12px;
   font-size: 13px;
+  background-color: #ccc;
+  color: white;
   font-weight: bold;
+  margin-left: 0;    /* 最重要，緊貼左側線 */
+  margin-right: 12px;
   text-align: center;
-  margin-top: 0;    /* 去除多餘距離，緊貼線 */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .timeline-content {
   flex: 1;
