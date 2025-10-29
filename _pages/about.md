@@ -82,7 +82,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   margin-right: 8px; 
   /*border: 1px solid black;  四周黑線 */
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 20px; /* 可選，讓邊角稍圓 */
+  border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
       立訊精密 Luxshare-ICT, Taipei - Neihu<br>
       音頻演算法開發部門 Audio Algorithm Development Department <br>
@@ -92,31 +92,39 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-item">
     <div class="timeline-icon">2</div>
     <div class="timeline-content">
-      Mansion Industry - Audio Product Manager Assistant / Firmware Engineer<br>2018.07~2022.07
+      美訊實業 Mansion Industry(McLELLAND), China - ShenZhen / New Taipei - Xindian<br>
+      韌體開發部門 Firmware Development Department <br>
+      音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer<br>2018.07~2022.07
    </div> 
        </div>
     <div class="timeline-item">
     <div class="timeline-icon">3</div>
     <div class="timeline-content">
-      Taiwan Star Telecom - Sales<br>2017.06~2018.04
+      台灣之星 Taiwan Star Telecom, Changhua <br>
+      業務Sales<br>2017.06~2018.04
    </div> 
        </div>
     <div class="timeline-item">
     <div class="timeline-icon">4</div>
     <div class="timeline-content">
-      Working Holiday - Backpacker<br>2015.05.13~2017.02.24
+      澳洲打工度假 Australia Working Holiday <br>
+      背包客 Backpacker<br>2015.05.13~2017.02.24
    </div> 
        </div>
    <div class="timeline-item">
     <div class="timeline-icon">5</div>
     <div class="timeline-content">
-     Substitute Military Service - Press Release<br>2014.04.14~2015.04.10
+     航空警察替代役 Substitute Military Service, Taoyuan International Airport Terminal 2 <br>
+     航空警察二隊一分隊Aviation Police Second Platoon Team 1 <br>
+     機場記者Press Release<br>2014.04.14~2015.04.10
    </div>
       </div>
     <div class="timeline-item">
     <div class="timeline-icon">6</div>
     <div class="timeline-content">
-     Wayi International - Referee<br>2011~2013
+     華藝國際Wayi International, Central Taiwan <br>
+     SF Online電子競技射擊遊戲SF Online e-Sports Referee Team <br>
+     裁判Referee<br>2011~2013
    </div> 
        </div>
 </div> 
