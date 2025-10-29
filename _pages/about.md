@@ -91,7 +91,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
    </div>
     </div>
     <div class="timeline-item">
-    <div class="timeline-icon">2</div>
+    <div class="timeline-icon">2018.07</div>
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_100_100/company-logo_100_100/0/1630631911515?e=1763596800&v=beta&t=cpHKtjGiPJoTpvv_X2r2Xx_28w9VAjH5T3KYqxRZa2o" 
   alt="logo" style="
@@ -109,12 +109,12 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
    </div> 
        </div>
 
------------------------------------------------------------------------------------------<br>
+--------------------------------------------------<br>
  <font color="orange">*[Previous Field, Before 2018]</font> 
 
  
   <div class="timeline-item">
-  <div class="timeline-icon">3</div>
+  <div class="timeline-icon">2017.06</div>
   <div class="timeline-content">
     <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_100_100/company-logo_100_100/0/1640702287175?e=1763596800&v=beta&t=e0xLQvDOp0Uu_bQ1FJSc-HLO4ZqfOyka-9_bJFocJ4A" 
       alt="logo" style="
@@ -131,7 +131,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
    </div> 
        </div>
     <div class="timeline-item">
-    <div class="timeline-icon">4</div>
+    <div class="timeline-icon">2015.05</div>
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C560BAQGOa1KKM7EIfQ/company-logo_100_100/company-logo_100_100/0/1630639615112?e=1763596800&v=beta&t=XgXzsN8LOH6JGQoRmu9i56kr-9FmGRB81JUsdmc8rU4" 
       alt="logo" style="
@@ -148,7 +148,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
    </div> 
        </div>
    <div class="timeline-item">
-    <div class="timeline-icon">5</div>
+    <div class="timeline-icon">2014.04</div>
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C560BAQF5Nwucr2wehw/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630670973337?e=1763596800&v=beta&t=pKBSsVU0u-jtHv2SJfTwoPNQ76bbDPsSToipTT9-lQE" 
       alt="logo" style="
@@ -166,7 +166,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
    </div>
       </div>
     <div class="timeline-item">
-    <div class="timeline-icon">6</div>
+    <div class="timeline-icon">2011</div>
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_100_100/company-logo_100_100/0/1631318290475?e=1763596800&v=beta&t=VjFlumaF7zg_sKGeYgWkql8QE33FLhqTAi2yH2rdiJQ" 
         alt="logo" style="
