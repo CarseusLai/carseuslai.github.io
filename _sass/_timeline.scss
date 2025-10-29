@@ -8,18 +8,31 @@
   margin-bottom: 20px;
 }
 .timeline-icon {
-  position: absolute;
-  left: -24px;
-  top: 0;
-  background-color: #ccc;
-  color: white;
-  width: 24px;
-  height: 24px;
+  // position: absolute;
+  // left: -24px;
+  // top: 0;
+  // background-color: #ccc;
+  // color: white;
+  // width: 24px;
+  // height: 24px;
+  // border-radius: 50%;
+  // text-align: center;
+  // line-height: 24px;
+  // font-weight: bold;
+  // font-size: 14px;
+
+  width: 40px; /* 原本24px，可以放大 */
+  height: 40px;
+  line-height: 40px;
+  font-size: 12px; /* 可調整文字大小 */
   border-radius: 50%;
   text-align: center;
-  line-height: 24px;
+  background-color: #ccc;
+  color: white;
   font-weight: bold;
-  font-size: 14px;
+  position: absolute;
+  left: -50px; /* 圓圈往左調整對齊 */
+  top: 0;
 }
 .timeline-content {
   padding: 5px 10px;
