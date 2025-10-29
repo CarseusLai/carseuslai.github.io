@@ -84,7 +84,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 20px; /* 可選，讓邊角稍圓 */
 ">
-      立訊精密 Luxshare-ICT <br>
+      立訊精密 Luxshare-ICT, Taipei - Neihu<br>
       音頻演算法開發部門 Audio Algorithm Development Department <br>
       產品設計/韌體工程師 Acoustics Product Design / Firmware Engineer<br>2022.08~Now
    </div>
