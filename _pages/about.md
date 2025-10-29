@@ -504,7 +504,7 @@ Substitute Military Service</span>** <span style="display: inline-block; width: 
 ">
 Wayi International</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
-- **<span style="color:black; font-size:20px;">Job Descriptions:</span>**  
+- **<span style="color:black; font-size:15px;">Job Descriptions:</span>**  
 
   (Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
