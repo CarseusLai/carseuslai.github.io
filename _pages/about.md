@@ -198,11 +198,11 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 ">
 Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
-- **<span style="color:black; font-size:20px;">Job Descriptions:</span>**  
+- **<span style="color:black; font-size:15px;">Job Descriptions:</span>**  
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
   Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management. 
 
-- **<span style="color:black; font-size:20px;">Completed Projects:</span>**  
+- **<span style="color:black; font-size:15px;">Completed Projects:</span>**  
   
   <div class='paper-box'>
     <div class='paper-box-image'><div>
@@ -273,13 +273,13 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
 ">
 Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
-- **<span style="color:black; font-size:20px;">Job Descriptions:</span>** 
+- **<span style="color:black; font-size:15px;">Job Descriptions:</span>** 
 
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
 From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution development, and programming MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).
 
-**<span style="color:black; font-size:20px;">Completed Projects:</span>** 
+- **<span style="color:black; font-size:15px;">Completed Projects:</span>** 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
@@ -451,7 +451,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
 ">
 Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;"></span><br>
 
-- **<span style="color:black; font-size:10px;">Job Descriptions:</span>**  
+- **<span style="color:black; font-size:15px;">Job Descriptions:</span>**  
 
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
@@ -468,7 +468,7 @@ Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; tex
 ">
 Australia Working Holiday</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
-- **<span style="color:black; font-size:10px;">Job Descriptions:</span>**  
+- **<span style="color:black; font-size:15px;">Job Descriptions:</span>**  
 
   Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
 Part-time jobs: CCTV installation, construction worker, furniture moving laborer.
@@ -486,7 +486,7 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
 ">
 Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
-- **<span style="color:black; font-size:20px;">Job Descriptions:</span>**  
+- **<span style="color:black; font-size:15px;">Job Descriptions:</span>**  
 
   As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
   <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
