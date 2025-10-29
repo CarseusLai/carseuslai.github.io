@@ -21,7 +21,9 @@
   font-weight: bold;
   z-index: 10;           /* 確保顯示在線的上層 */
 }
+
 .timeline-content {
-  //padding: 5px 10px;
-  flex: 1;                        /* 內容佔滿剩餘空間 */
+  flex: 1;
+  padding-left: 20px; /* 微調間距，讓內容在左邊留白空間 */
+  /* margin-left: 20px; 也可以試，但 padding 更常用 */
 }
