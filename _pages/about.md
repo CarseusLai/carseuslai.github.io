@@ -73,17 +73,13 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-left">
-      <div class="timeline-line"></div>
-      <div class="timeline-icon">2022.08</div>
-    </div>
+    <div class="timeline-line"></div>
+    <div class="timeline-icon">2022.08</div>
     <div class="timeline-content">
-      你的經歷內容...
+      內容...
     </div>
   </div>
-  <!-- 其他項目 -->
 </div>
-
 
 
 
