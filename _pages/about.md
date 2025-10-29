@@ -479,7 +479,7 @@ Substitute Military Service</span>** <span style="display: inline-block; width: 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Wayi International</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Central Taiwan, 2011 - 2013</span><br>
+Wayi International</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Central Taiwan</span><br>
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
   (Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
@@ -507,7 +507,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
     </div>
   <div class='paper-box-text' markdown="1">
   
-  **<font color="green">Pre Amp(WiFi/BT)</font>**<br>
+  **<font color="green">2024 Pre-Amplifier(WiFi/BT)</font>**<br>
   **Participated in**<br>
   - Firmware development
     - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
