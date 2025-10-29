@@ -92,6 +92,15 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-item">
     <div class="timeline-icon">2</div>
     <div class="timeline-content">
+      <img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_100_100/company-logo_100_100/0/1630631911515?e=1763596800&v=beta&t=cpHKtjGiPJoTpvv_X2r2Xx_28w9VAjH5T3KYqxRZa2o" 
+  alt="logo" style="
+  width: 40px; 
+  height: 40px; 
+  margin-right: 8px; 
+  /*border: 1px solid black; /* 四周黑線 */
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+  border-radius: 20px; /* 可選，讓邊角稍圓 */
+">
       美訊實業 Mansion Industry(McLELLAND), China - ShenZhen / New Taipei - Xindian<br>
       韌體開發部門 Firmware Development Department <br>
       音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer<br>2018.07~2022.07
@@ -217,7 +226,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei - Xindian, 2018.7 - 2022.7</span><br>
+Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei - Xindian</span><br>
 - **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Manager Assistant / Firmware Engineer</font>**<br>
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
