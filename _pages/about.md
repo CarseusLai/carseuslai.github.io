@@ -197,11 +197,12 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 ">
 Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
-- **<font color="black">Job Descriptions:</font><br>
+- **<font color="black">Job Descriptions:</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
   Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management. 
 
--- End Products
+**<span style="color:black; font-size:10px;">End Products:</span>**  
+  
   <div class='paper-box'>
     <div class='paper-box-image'><div>
       <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
