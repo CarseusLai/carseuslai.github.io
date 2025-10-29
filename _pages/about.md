@@ -103,8 +103,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   border-radius: 20px; /* 可選，讓邊角稍圓 */
 ">
       美訊實業 Mansion Industry(McLELLAND)<br>
-      韌體開發部門 Firmware Development Department <br>
-      音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer<br>
+      <font color="black">韌體開發部門 Firmware Development Department</font><br>
+      <font color="brown">♩ 音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer</font><br>
       中國 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07~2022.07
    </div> 
        </div>
@@ -126,7 +126,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       border-radius: 20px; /* 可選，讓邊角稍圓 */
     ">
     台灣之星 Taiwan Star Telecom<br>
-    業務Sales<br>
+    <font color="black">彰化市門市 Changhua Store</font><br>
+    <font color="brown">業務Sales</font><br>
     彰化市 Changhua, 2017.06~2018.04
    </div> 
        </div>
@@ -143,7 +144,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       border-radius: 20px; /* 可選，讓邊角稍圓 */
     ">
       澳洲打工度假 Australia Working Holiday <br>
-      背包客 Backpacker<br>
+      <font color="brown">背包客 Backpacker</font><br>
       澳洲 Australia, 2015.05.13~2017.02.24
    </div> 
        </div>
@@ -160,8 +161,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       border-radius: 20px; /* 可選，讓邊角稍圓 */
     ">
      航空警察替代役 Substitute Military Service <br>
-     航空警察二隊一分隊Aviation Police Second Platoon Team 1 <br>
-     機場記者Press Release<br>
+     <font color="black">航空警察二隊一分隊Aviation Police Second Platoon Team 1</font><br>
+     <font color="brown">記者Press Release</font><br>
      桃園市 - 大園區 Taoyuan - Dayuan, 2014.04.14~2015.04.10
    </div>
       </div>
@@ -178,9 +179,9 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
         border-radius: 20px; /* 可選，讓邊角稍圓 */
       ">
      華藝國際Wayi International <br>
-     SF Online電子競技射擊遊戲SF Online e-Sports Referee Team <br>
-     裁判Referee<br>
-     中部台灣 Central Taiwan, 2011~2013
+     <font color="black">SF Online電子競技射擊遊戲 SF Online e-Sports Referee Team</font><br>
+     <font color="brown">裁判Referee</font><br>
+     中區台灣 Central Taiwan, 2011~2013
    </div> 
        </div>
 </div> 
@@ -197,11 +198,11 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 ">
 Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
-- **<font color="black">Job Descriptions:</font>**<br>
+- **<span style="color:black; font-size:10px;">Job Descriptions:</span>**  
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
   Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management. 
 
-**<span style="color:black; font-size:20px;">Completed Projects:</span>**  
+- **<span style="color:black; font-size:10px;">Completed Projects:</span>**  
   
   <div class='paper-box'>
     <div class='paper-box-image'><div>
@@ -271,10 +272,14 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
 Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
-- **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Manager Assistant / Firmware Engineer</font>**<br>
+
+- **<span style="color:black; font-size:10px;">Job Descriptions:</span>** 
+
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
 From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution development, and programming MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).
+
+**<span style="color:black; font-size:10px;">Completed Projects:</span>** 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
