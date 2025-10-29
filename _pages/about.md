@@ -141,6 +141,15 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
    <div class="timeline-item">
     <div class="timeline-icon">5</div>
     <div class="timeline-content">
+      <img src="https://media.licdn.com/dms/image/v2/C560BAQF5Nwucr2wehw/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630670973337?e=1763596800&v=beta&t=pKBSsVU0u-jtHv2SJfTwoPNQ76bbDPsSToipTT9-lQE" 
+      alt="logo" style="
+      width: 40px; 
+      height: 40px; 
+      margin-right: 8px; 
+      /*border: 1px solid black; /* 四周黑線 */
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+      border-radius: 10px; /* 可選，讓邊角稍圓 */
+    ">
      航空警察替代役 Substitute Military Service <br>
      航空警察二隊一分隊Aviation Police Second Platoon Team 1 <br>
      機場記者Press Release<br>2014.04.14~2015.04.10
@@ -149,6 +158,15 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-item">
     <div class="timeline-icon">6</div>
     <div class="timeline-content">
+      <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_100_100/company-logo_100_100/0/1631318290475?e=1763596800&v=beta&t=VjFlumaF7zg_sKGeYgWkql8QE33FLhqTAi2yH2rdiJQ" 
+        alt="logo" style="
+        width: 40px; 
+        height: 40px; 
+        margin-right: 8px; 
+        /* border: 1px solid black; /* 四周黑線 */
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+        border-radius: 20px; /* 可選，讓邊角稍圓 */
+      ">
      華藝國際Wayi International <br>
      SF Online電子競技射擊遊戲SF Online e-Sports Referee Team <br>
      裁判Referee<br>2011~2013
@@ -445,7 +463,7 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taoyuan, 2014.4.14 - 2015.4.10</span><br>
+Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taoyuan</span><br>
 - **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Release</font>**<br>
   As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
   <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
