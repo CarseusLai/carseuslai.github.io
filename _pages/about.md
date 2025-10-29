@@ -109,6 +109,15 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-item">
     <div class="timeline-icon">3</div>
     <div class="timeline-content">
+      <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_100_100/company-logo_100_100/0/1640702287175?e=1763596800&v=beta&t=e0xLQvDOp0Uu_bQ1FJSc-HLO4ZqfOyka-9_bJFocJ4A" 
+        alt="logo" style="
+        width: 40px; 
+        height: 40px; 
+        margin-right: 8px; 
+        /*border: 1px solid black; /* 四周黑線 */
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+        border-radius: 20px; /* 可選，讓邊角稍圓 */
+      ">
       台灣之星 Taiwan Star Telecom<br>
       業務Sales<br>2017.06~2018.04
    </div> 
@@ -116,6 +125,15 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <div class="timeline-item">
     <div class="timeline-icon">4</div>
     <div class="timeline-content">
+      <img src="https://media.licdn.com/dms/image/v2/C560BAQGOa1KKM7EIfQ/company-logo_100_100/company-logo_100_100/0/1630639615112?e=1763596800&v=beta&t=XgXzsN8LOH6JGQoRmu9i56kr-9FmGRB81JUsdmc8rU4" 
+      alt="logo" style="
+      width: 40px; 
+      height: 40px; 
+      margin-right: 8px; 
+      /*border: 1px solid black; /* 四周黑線 */
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+      border-radius: 20px; /* 可選，讓邊角稍圓 */
+    ">
       澳洲打工度假 Australia Working Holiday <br>
       背包客 Backpacker<br>2015.05.13~2017.02.24
    </div> 
@@ -208,10 +226,6 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
     - Verify I2S data integrity.
   </div>
   </div>
-
-
-
-
 
 
 
@@ -400,7 +414,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Changhua, 2017.6 - 2018.4</span><br>
+Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Changhua</span><br>
 - **<font color="black">Changhua Store - </font><font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
@@ -415,7 +429,7 @@ Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; tex
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Working Holiday</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Australia, 2015.5.13 - 2017.2.24</span><br>
+Australia Working Holiday</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Australia</span><br>
 - **<font color="brown">Backpacker</font>**<br>
   Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
 Part-time jobs: CCTV installation, construction worker, furniture moving laborer.
