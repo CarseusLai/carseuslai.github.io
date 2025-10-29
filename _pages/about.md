@@ -139,7 +139,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taipei - Neihu, 2022.8 - Now<br>
+Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taipei - Neihu<br>
 
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustics Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
