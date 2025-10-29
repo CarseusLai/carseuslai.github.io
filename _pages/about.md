@@ -108,21 +108,24 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       大陸 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07~2022.07
    </div> 
        </div>
-    <div class="timeline-item">
-    <div class="timeline-icon">3</div>
-    <div class="timeline-content">
-      <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_100_100/company-logo_100_100/0/1640702287175?e=1763596800&v=beta&t=e0xLQvDOp0Uu_bQ1FJSc-HLO4ZqfOyka-9_bJFocJ4A" 
-        alt="logo" style="
-        width: 40px; 
-        height: 40px; 
-        margin-right: 8px; 
-        /*border: 1px solid black; /* 四周黑線 */
-        box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-        border-radius: 20px; /* 可選，讓邊角稍圓 */
-      ">
-      台灣之星 Taiwan Star Telecom<br>
-      業務Sales<br>
-      彰化市 Changhua, 2017.06~2018.04
+
+---
+  
+  <div class="timeline-item">
+  <div class="timeline-icon">3</div>
+  <div class="timeline-content">
+    <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_100_100/company-logo_100_100/0/1640702287175?e=1763596800&v=beta&t=e0xLQvDOp0Uu_bQ1FJSc-HLO4ZqfOyka-9_bJFocJ4A" 
+      alt="logo" style="
+      width: 40px; 
+      height: 40px; 
+      margin-right: 8px; 
+      /*border: 1px solid black; /* 四周黑線 */
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
+      border-radius: 20px; /* 可選，讓邊角稍圓 */
+    ">
+    台灣之星 Taiwan Star Telecom<br>
+    業務Sales<br>
+    彰化市 Changhua, 2017.06~2018.04
    </div> 
        </div>
     <div class="timeline-item">
