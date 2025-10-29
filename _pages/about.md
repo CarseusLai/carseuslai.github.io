@@ -110,7 +110,10 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
        </div>
 
 ---
-  
+
+ <font color="orange">*[Previous Field, Before 2018]</font> 
+
+ 
   <div class="timeline-item">
   <div class="timeline-icon">3</div>
   <div class="timeline-content">
