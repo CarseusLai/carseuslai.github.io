@@ -22,7 +22,6 @@
   z-index: 10;           /* 確保顯示在線的上層 */
 }
 .timeline-content {
-   margin-left: auto; /* 這行讓內容靠右 */
-  /* 你也可以加 text-align: right; 讓文字靠右 */
-  text-align: right;
+  //padding: 5px 10px;
+  flex: 1;                        /* 內容佔滿剩餘空間 */
 }
