@@ -84,10 +84,11 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   /*border: 1px solid black;  四周黑線 */
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
-">
+"> <br>
       
-      音頻演算法開發部門 Audio Algorithm Development Department <br>
-      產品設計/韌體工程師 Acoustics Product Design / Firmware Engineer<br>2022.08~Now
+    音頻演算法開發部門 Audio Algorithm Development Department <br>
+    產品設計/韌體工程師 Acoustics Product Design / Firmware Engineer<br>2022.08~Now
+    
    </div>
     </div>
     <div class="timeline-item">
