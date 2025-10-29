@@ -21,15 +21,16 @@
   // font-weight: bold;
   // font-size: 14px;
 
-  // width: 200px; /* 原本24px，可以放大 */
-  // height: 200px;
-  // line-height: 40px;
-  font-size: 12px; /* 可調整文字大小 */
-  border-radius: 10px;  /* 或 0，變方形或略圓角 */
-  min-width: 60px;      /* 寬度撐開，能放下時間字串 */
-  padding: 2px 8px;     /* 文字左右內邊距 */
-  white-space: nowrap;  /* 不換行 */
-  text-align: center;
+  border-radius: 8px;       /* 調整為較小的圓角，或設為0為方形 */
+  min-width: 60px;          /* 寬度至少60px */
+  padding: 4px 8px;         /* 內邊距讓字不擠 */
+  font-size: 13px;          /* 字體大小 */
+  white-space: nowrap;      /* 不換行 */
+  display: inline-block;    /* 改成block樣式方便調整 */
+  background-color: #ccc;   /* 背景色 */
+  text-align: center;       /* 文字置中 */
+  color: white;             /* 文字顏色 */
+  font-weight: bold;        /* 粗體 */
 }
 .timeline-content {
   padding: 5px 10px;
