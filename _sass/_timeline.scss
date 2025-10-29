@@ -25,19 +25,11 @@
   // height: 200px;
   // line-height: 40px;
   font-size: 12px; /* 可調整文字大小 */
+  border-radius: 10px;  /* 或 0，變方形或略圓角 */
   min-width: 60px;      /* 寬度撐開，能放下時間字串 */
   padding: 2px 8px;     /* 文字左右內邊距 */
   white-space: nowrap;  /* 不換行 */
-
-  
-  border-radius: 10%;
   text-align: center;
-  background-color: #ccc;
-  color: white;
-  font-weight: bold;
-  position: absolute;
-  left: -50px; /* 圓圈往左調整對齊 */
-  top: 0;
 }
 .timeline-content {
   padding: 5px 10px;
