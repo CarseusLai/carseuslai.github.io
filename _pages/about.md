@@ -453,7 +453,7 @@ Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; tex
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Australia Working Holiday</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Australia</span><br>
+Australia Working Holiday</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 - **<font color="brown">Backpacker</font>**<br>
   Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
 Part-time jobs: CCTV installation, construction worker, furniture moving laborer.
@@ -469,7 +469,7 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taoyuan</span><br>
+Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 - **<font color="black">Aviation Police Second Platoon Team 1 - </font><font color="brown">Press Release</font>**<br>
   As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
   <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
@@ -485,7 +485,7 @@ Substitute Military Service</span>** <span style="display: inline-block; width: 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Wayi International</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Central Taiwan</span><br>
+Wayi International</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 - **<font color="black">SF Online e-Sports Referee Team - </font><font color="brown">Referee</font>**<br>
   (Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
 
