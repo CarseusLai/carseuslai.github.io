@@ -1,54 +1,26 @@
 .timeline {
   position: relative;
-  padding-left: 80px;
+  padding-left: 40px;
   border-left: 2px solid #ccc;
 }
 .timeline-item {
-  // position: relative;
-  // margin-bottom: 20px;
-  display: flex;           /* 讓icon和內容水平排列 */
-  align-items: flex-start; /* 頂對齊 */
+  position: relative;
   margin-bottom: 20px;
 }
 .timeline-icon {
-   // position: absolute;
-  // left: -24px;
-  // top: 0;
-  // background-color: #ccc;
-  // color: white;
-  // width: 24px;
-  // height: 24px;
-  // border-radius: 50%;
-  // text-align: center;
-  // line-height: 24px;
-  // font-weight: bold;
-  // font-size: 14px;
-
-  // border-radius: 8px;       /* 調整為較小的圓角，或設為0為方形 */
-  // min-width: 10px;          /* 寬度至少60px */
-  // padding: 4px 8px;         /* 內邊距讓字不擠 */
-  // font-size: 13px;          /* 字體大小 */
-  // white-space: nowrap;      /* 不換行 */
-  // display: inline-block;    /* 改成block樣式方便調整 */
-  // background-color: #ccc;   /* 背景色 */
-  // text-align: center;       /* 文字置中 */
-  // color: white;             /* 文字顏色 */
-  // font-weight: bold;        /* 粗體 */
-  border-radius: 8px;             /* 改圓角外觀 */
-  min-width: 60px;
-  padding: 4px 12px;
-  font-size: 13px;
+  position: absolute;
+  left: -24px;
+  top: 0;
   background-color: #ccc;
-  color: #fff;
-  font-weight: bold;
+  color: white;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
   text-align: center;
-  margin-right: 16px;             /* 與內容區保留間距 */
-  position: static;               /* 重點！讓icon不再脫離流動 */
-  display: flex;                  /* 內容置中 */
-  align-items: left;
-  justify-content: center;
+  line-height: 24px;
+  font-weight: bold;
+  font-size: 14px;
 }
 .timeline-content {
-  //padding: 5px 10px;
-  flex: 1;                        /* 內容佔滿剩餘空間 */
+  padding: 5px 10px;
 }
