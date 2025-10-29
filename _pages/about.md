@@ -111,6 +111,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 ---
 
+<br>
  <font color="orange">*[Previous Field, Before 2018]</font> 
 
  
