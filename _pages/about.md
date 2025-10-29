@@ -70,19 +70,6 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 ---
 
 # 💼 Work Experience
-
-<div class="timeline">
-  <div class="timeline-item">
-    <div class="timeline-line"></div>
-    <div class="timeline-icon">2022.08</div>
-    <div class="timeline-content">
-      內容...
-    </div>
-  </div>
-</div>
-
-
-
 <div class="timeline">
   <div class="timeline-item">
   <div class="timeline-icon">2022.08</div>
