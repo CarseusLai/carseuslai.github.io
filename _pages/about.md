@@ -75,18 +75,18 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   <div class="timeline-item">
     <div class="timeline-icon">1</div>
     <div class="timeline-content">
-      立訊精密 Luxshare-ICT <br>
-      音頻演算法開發部門 Audio Algorithm Development Department <br>
-      產品設計/韌體工程師 Acoustics Product Design / Firmware Engineer<br>2022.08~Now
       <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
   alt="logo" style="
-  width: 30px; 
-  height: 30px; 
+  width: 40px; 
+  height: 40px; 
   margin-right: 8px; 
   /*border: 1px solid black;  四周黑線 */
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 10px; /* 可選，讓邊角稍圓 */
+  border-radius: 20px; /* 可選，讓邊角稍圓 */
 ">
+      立訊精密 Luxshare-ICT <br>
+      音頻演算法開發部門 Audio Algorithm Development Department <br>
+      產品設計/韌體工程師 Acoustics Product Design / Firmware Engineer<br>2022.08~Now
    </div>
     </div>
     <div class="timeline-item">
