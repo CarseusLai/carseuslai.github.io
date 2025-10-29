@@ -109,7 +109,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
    </div> 
        </div>
 
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------<br>
  <font color="orange">*[Previous Field, Before 2018]</font> 
 
  
