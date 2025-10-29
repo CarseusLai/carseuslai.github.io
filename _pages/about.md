@@ -200,8 +200,9 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
 
 - **<span style="color:black; font-size:15px;">Job Descriptions:</span>**  
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
-  Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management. 
+  Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
 
+<br>
 - **<span style="color:black; font-size:15px;">Completed Projects:</span>**  
   
   <div class='paper-box'>
@@ -279,6 +280,7 @@ Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width:
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
 From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution development, and programming MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).
 
+<br>
 - **<span style="color:black; font-size:15px;">Completed Projects:</span>** 
 
 <div class='paper-box'>
