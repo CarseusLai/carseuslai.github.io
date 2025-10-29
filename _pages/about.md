@@ -85,6 +85,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   ">
     立訊精密 Luxshare-ICT <br>  
     音頻演算法開發部門 Audio Algorithm Development Department <br>
+    - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustics Product Design / Firmware Engineer</font>**<br>
     產品設計/韌體工程師 Acoustics Product Design / Firmware Engineer<br>
     台北市 - 內湖區 Taipei - Neihu, 2022.08~Now
    </div>
@@ -101,10 +102,10 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 20px; /* 可選，讓邊角稍圓 */
 ">
-      美訊實業 Mansion Industry(McLELLAND), China - ShenZhen / New Taipei - Xindian<br>
+      美訊實業 Mansion Industry(McLELLAND)<br>
       韌體開發部門 Firmware Development Department <br>
       音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer<br>
-      大陸 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07~2022.07
+      中國 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07~2022.07
    </div> 
        </div>
 
