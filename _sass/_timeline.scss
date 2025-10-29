@@ -1,26 +1,23 @@
 .timeline {
   position: relative;
-  padding-left: 40px;
-  border-left: 2px solid #ccc;
+  padding-left: 40px;  /* 預留給線和標籤 */
+  border-left: 2px solid #ccc;  /* 當作時間線 */
 }
+
 .timeline-item {
   position: relative;
   margin-bottom: 20px;
+  padding-left: 20px; /* 控制標籤和內容間距 */
 }
+
 .timeline-icon {
-  position: absolute;
-  left: -24px;
+  position: absolute;    /* 讓標籤絕對定位 */
+  left: -40px;           /* 調整水平位置讓它蓋在線上 */
   top: 0;
   background-color: #ccc;
   color: white;
-  width: 24px;
-  height: 24px;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 24px;
+  padding: 4px 10px;
+  border-radius: 8px;
   font-weight: bold;
-  font-size: 14px;
-}
-.timeline-content {
-  padding: 5px 10px;
+  z-index: 10;           /* 確保顯示在線的上層 */
 }
