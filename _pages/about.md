@@ -86,7 +86,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   ">
     立訊精密 Luxshare-ICT <br>  
     音頻演算法開發部門 Audio Algorithm Development Department <br>
-    產品設計/韌體工程師 Acoustics Product Design / Firmware Engineer<br>2022.08~Now
+    產品設計/韌體工程師 Acoustics Product Design / Firmware Engineer<br>
+    台北市 - 內湖區 Taipei - Neihu, 2022.08~Now
    </div>
     </div>
     <div class="timeline-item">
@@ -103,7 +104,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 ">
       美訊實業 Mansion Industry(McLELLAND), China - ShenZhen / New Taipei - Xindian<br>
       韌體開發部門 Firmware Development Department <br>
-      音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer<br>2018.07~2022.07
+      音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer<br>
+      大陸 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07~2022.07
    </div> 
        </div>
     <div class="timeline-item">
@@ -119,7 +121,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
         border-radius: 20px; /* 可選，讓邊角稍圓 */
       ">
       台灣之星 Taiwan Star Telecom<br>
-      業務Sales<br>2017.06~2018.04
+      業務Sales<br>
+      彰化市 Changhua, 2017.06~2018.04
    </div> 
        </div>
     <div class="timeline-item">
@@ -135,7 +138,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       border-radius: 20px; /* 可選，讓邊角稍圓 */
     ">
       澳洲打工度假 Australia Working Holiday <br>
-      背包客 Backpacker<br>2015.05.13~2017.02.24
+      背包客 Backpacker<br>
+      澳洲 Australia, 2015.05.13~2017.02.24
    </div> 
        </div>
    <div class="timeline-item">
@@ -152,7 +156,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     ">
      航空警察替代役 Substitute Military Service <br>
      航空警察二隊一分隊Aviation Police Second Platoon Team 1 <br>
-     機場記者Press Release<br>2014.04.14~2015.04.10
+     機場記者Press Release<br>
+     桃園市 - 大園區 Taoyuan - Dayuan, 2014.04.14~2015.04.10
    </div>
       </div>
     <div class="timeline-item">
@@ -169,7 +174,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       ">
      華藝國際Wayi International <br>
      SF Online電子競技射擊遊戲SF Online e-Sports Referee Team <br>
-     裁判Referee<br>2011~2013
+     裁判Referee<br>
+     中部台灣 Central Taiwan, 2011~2013
    </div> 
        </div>
 </div> 
@@ -184,7 +190,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">Taipei - Neihu<br>
+Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
 - **<font color="black">Audio Algorithm Development Department - </font><font color="brown">♪ Acoustics Product Design / Firmware Engineer</font>**<br>
   <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
@@ -258,7 +264,7 @@ Luxshare-ICT</span>** <span style="display: inline-block; width: 60%; text-align
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">ShenZhen/Taipei - Xindian</span><br>
+Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 - **<font color="black">Firmware Development Department - </font><font color="brown">♩ Audio Product Manager Assistant / Firmware Engineer</font>**<br>
    <span style="background-color: #FFF2CC;">Clients Collaborated With: OSD, Soundavo, Dynasty, Thomann, BLACK LION, KEF</span><br>
   Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
@@ -432,7 +438,7 @@ From 2018 to 2020, I participated in several Dante/AES67 conferences and online 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
-Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;">Changhua</span><br>
+Taiwan Star Telecom</span>** <span style="display: inline-block; width: 60%; text-align: right; font-size:15px;"></span><br>
 - **<font color="black">Changhua Store - </font><font color="brown">Sales</font>**<br>
   My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, this includes introducing and selling various telecommunications products (such as mobile phones, phone numbers, broadband, etc.), providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, handling customer complaints, and participating in marketing activities.
 
