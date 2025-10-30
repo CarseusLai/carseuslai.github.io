@@ -88,8 +88,18 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <font color="black">音頻演算法開發部門Audio Algorithm Development Department</font><br>
     <font color="brown">♪ 產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
     台北市 - 內湖區 Taipei - Neihu, 2022.08~Now
+
+  <details>
+    <summary>展開更多細節</summary>
+    <ul>
+      <li>細節A</li>
+      <li>細節B</li>
+      <li>細節C</li>
+    </ul>
+  </details>
+    
    </div>
-    </div>
+</div>
     <div class="timeline-item">
     <div class="timeline-icon">2018.07</div>
     <div class="timeline-content">
@@ -107,7 +117,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       <font color="brown">♩ 音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer</font><br>
       中國 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07~2022.07
    </div> 
-       </div>
+</div>
 
 --------------------------------------------------<br>
  <font color="orange">*[Previous Field, Before 2018]</font> 
