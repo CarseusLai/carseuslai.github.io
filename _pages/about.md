@@ -181,7 +181,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   <details>
     <summary>Job Descriptions</summary>
     <ul>
-      <li></li>
+      <li>Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
+          Part-time jobs: CCTV installation, construction worker, furniture moving laborer.</li>
     </ul>
   </details>
       
