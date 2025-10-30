@@ -99,8 +99,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   <details>
   <summary>Completed Projects:</summary>
     <ul>
-       <span style="background-color: #FFF2CC;">Clients Collaborated With: Dell, Microsoft</span><br>
-    </ul>
+       
+  </ul>
   </details>
     
    </div>
@@ -134,8 +134,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   <details>
   <summary>Completed Projects:</summary>
     <ul>
-      <li></li>
-    </ul>
+      
+  </ul>
   </details>
       
    </div> 
