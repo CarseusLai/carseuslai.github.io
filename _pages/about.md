@@ -89,14 +89,14 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <font color="brown">♪ 聲學產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
     台北市 - 內湖區 Taipei - Neihu, 2022.08~Now
 
-  <details>
+  <details open>
     <summary>Job Descriptions:</summary>
     <ul>
       <li>Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.</li>
     </ul>
   </details>
 
-  <details>
+  <details open>
   <summary>Completed Projects:</summary>
     <ul>
 
@@ -186,10 +186,166 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
           I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).</li>
     </ul>
   </details>
-  <details>
+  <details open>
   <summary>Completed Projects:</summary>
     <ul>
-      
+      <div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://www.mclellandmusic.com/twproducts">**McLELLAND MAP-1650E</a>
+    <img src='images/McLELLAND MAP-1650E.png' alt="sym" width="90%"></div>
+  </div>
+  
+<div class='paper-box-text' markdown="1">
+  
+**<font color="green">Multi-Channel Amp(WiFi/AUX/COAX/OPT)</font> - extendable to connect 3 units.**<br>
+**Led the design and implementation**<br>
+- Collaborated with PM/ME/ID/EE/FW
+- ID design
+- Firmware verification(outsourcing)
+- Acoustic analysis
+  - Using Audio precision to verify HW(LP, BP, HP) in playback.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    **DJ Mixer
+    <img src='images/DJ Mixer.png' alt="sym" width="90%"></div>
+  </div>
+  
+<div class='paper-box-text' markdown="1">
+  
+**<font color="green">Dj Mixer(USB/COAX/XLR/MIDI)</font>**<br>
+**Participated in**<br>
+- Collaborated with PM/EE
+- Firmware development - 8051 Assmbly
+- Acoustic analysis
+  - Using Audio precision to verify DSP algorithm in playback.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/wsa-5rp-wireless-surround-sound-rear-speakers-kit-with-2-x-50w-amplifier-built-in">Dynasty WSA-5RP </a>
+    <img src='images/Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers.png' alt="sym" width="90%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**<font color="green">5.2/5.8G Wireless Surround Sound Rear Speakers</font>**<br>
+**Led the design and implementation**<br>
+- Collaborated with PM/ME/ID/EE/FW
+- ID design
+- Acoustic analysis
+  - Using Audio precision to verify playback.
+  
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/dynasty-proaudio-wsa-5tr-wireless-speaker-starter-kit-wireless-subwoofer-powered-subwoofer-5-8ghz-wireless-technology-work-with-any-powered-subwoofer-active-speaker-45-channel-audio-transmitter-wsa-5tr">Dynasty WSA-5TR</a>
+    <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="80%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**<font color="green">5.2/5.8G Wireless Audio Transmitter-Receiver</font>**<br>
+**Led the design and implementation**<br>
+- Collaborated with PM/ME/ID/EE/FW
+- ID design
+- Acoustic analysis
+    - Using Audio precision to verify playback.
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://tw.kef.com/products/bts30">KEF BTS30</a><br>
+    <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="70%"></div>
+  </div>
+  
+<div class='paper-box-text' markdown="1">
+  
+**<font color="green">Compact Amplifier System with Bluetooth Keypad</font>**<br>
+**Led the design and implementation**<br>
+- Collaborated with PM/ME/ID/EE/FW
+- Firmware verification(outsourcing)
+- ID design
+- Acoustic analysis
+  - Using Audio precision to verify playback.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://www.thomann.co.uk/fun_generation_rta_31.htm">Thomann Fun Generation RTA-31</a>
+    <img src='images/Thomann Fun Generation RTA-31.png' alt="sym" width="90%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**<font color="green">Spectrum Analyser - 31 bands</font>**<br>
+**Participated in**<br>
+- Collaborated with PM/EE
+- Firmware development - 8051 Assmbly
+- Acoustic analysis
+  - Using Audio precision to verify DSP algorithm in playback.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://www.blacklionaudio.com/store/power-conditioners/pg-2-power-conditioner/">BLACK LION PG-2</a>
+    <img src='images/BLACK LION PG-2 Power Conditioner.png' alt="sym" width="90%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**<font color="green">Power Conditioner</font>**<br>
+**Participated in**<br>
+- Collaborated with EE
+- Firmware development - 8051 Assmbly
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://www.soundavo.com/products/sld-1-db-display-with-measuring-microphone">Soundavo SLD-1</a>
+    <img src='images/Soundavo SLD-1 DB Display with Measuring Microphone.png' alt="sym" width="80%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+**<font color="green">DB Display with Measuring Microphone</font>**<br>
+**Participated in**<br>
+- Firmware verification(outsourcing)
+- ID design
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300</a>
+    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="100%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+**<font color="green">Power Conditioner</font>**<br>
+**Participated in**<br>
+- Collaborated with EE
+- Firmware development - 8051 Assmbly
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div>
+    <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100</a>
+    <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
+  </div>
+<div class='paper-box-text' markdown="1">
+**<font color="green">Power Conditioner</font>**<br>
+**Participated in**<br>
+- Collaborated with EE
+- Firmware development - 8051 Assmbly
+</div>
+</div>
   </ul>
   </details>
       
@@ -217,7 +373,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <font color="brown">業務Sales</font><br>
     彰化市 Changhua, 2017.06~2018.04
 
-  <details open>
+  <details>
     <summary>Job Descriptions:</summary>
     <ul>
       <li>My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
@@ -245,7 +401,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       <font color="brown">背包客 Backpacker</font><br>
       澳洲 Australia, 2015.05.13~2017.02.24
 
-  <details open>
+  <details>
     <summary>Job Descriptions:</summary>
     <ul>
       <li>Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
@@ -271,7 +427,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
      <font color="black">航空警察二隊一分隊Aviation Police Second Platoon Team 1</font><br>
      <font color="brown">記者Press Release</font><br>
      桃園市 - 大園區 Taoyuan - Dayuan, 2014.04.14~2015.04.10
-    <details open>
+    <details>
     <summary>Job Descriptions:</summary>
     <ul>
       <li> As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
@@ -300,7 +456,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
      <font color="brown">裁判Referee</font><br>
      中區台灣 Central Taiwan, 2011~2013
 
-  <details open>
+  <details>
     <summary>Job Descriptions:</summary>
     <ul>
       <li>(Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.</li>
@@ -311,6 +467,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   </div>
 </div> 
 
+<!--
 **<span style="color:#007a87; font-size:20px;"> 
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
   alt="logo" style="
@@ -559,7 +716,6 @@ Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width:
 </div>
 
 
-<!--
 
 <font color="orange">*[Previous Field, Before 2018]</font>
 **<span style="color:#007a87; font-size:20px;">
