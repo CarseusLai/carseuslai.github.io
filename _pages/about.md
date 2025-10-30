@@ -490,6 +490,10 @@ Mansion Industry (McLELLAND)</span>** <span style="display: inline-block; width:
 - Firmware development - 8051 Assmbly
 </div>
 </div>
+
+
+<!--
+
 <font color="orange">*[Previous Field, Before 2018]</font>
 **<span style="color:#007a87; font-size:20px;">
 <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_100_100/company-logo_100_100/0/1640702287175?e=1763596800&v=beta&t=e0xLQvDOp0Uu_bQ1FJSc-HLO4ZqfOyka-9_bJFocJ4A" 
@@ -536,11 +540,6 @@ Part-time jobs: CCTV installation, construction worker, furniture moving laborer
 ">
 Substitute Military Service</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
 
-- **<span style="color:black; font-size:15px;">Job Descriptions:</span>**  
-
-  As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
-  <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
-  <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
 
 **<span style="color:#007a87; font-size:20px;">
 <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_100_100/company-logo_100_100/0/1631318290475?e=1763596800&v=beta&t=VjFlumaF7zg_sKGeYgWkql8QE33FLhqTAi2yH2rdiJQ" 
@@ -553,10 +552,7 @@ Substitute Military Service</span>** <span style="display: inline-block; width: 
   border-radius: 10px; /* 可選，讓邊角稍圓 */
 ">
 Wayi International</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;"></span><br>
-
-- **<span style="color:black; font-size:15px;">Job Descriptions:</span>**  
-
-  (Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
+-->
 
 ---
 
