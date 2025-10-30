@@ -92,14 +92,33 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <li>Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the       firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.</li>
+      <li>Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.</li>
     </ul>
   </details>
 
   <details>
   <summary>Completed Projects:</summary>
     <ul>
-       
+
+      
+   <div class='paper-box'>
+    <div class='paper-box-image'><div>
+      <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
+      <img src='images/Dell Pro Plus SL525.png' alt="sym" width="90%"></div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        
+  **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
+  **Participated in** <br>
+  - Collaborated with AE/PM/EE/FW
+  - Firmware development
+    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp, integrated DSP algorithm and audio path. <br>
+  - Acoustic analysis
+    - Using Audio precision to verify DSP algorithm in Playback.
+  </div>
+  </div>
+
+  
   </ul>
   </details>
     
