@@ -90,9 +90,15 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     台北市 - 內湖區 Taipei - Neihu, 2022.08~Now
 
   <details>
-    <summary>Job Descriptions</summary>
+    <summary>Job Descriptions:</summary>
     <ul>
       <li>Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the       firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.</li>
+    </ul>
+  </details>
+
+  <summary>Completed Projects:</summary>
+    <ul>
+      <li></li>
     </ul>
   </details>
     
@@ -116,12 +122,18 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       中國 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07~2022.07
 
   <details>
-    <summary>Job Descriptions</summary>
+    <summary>Job Descriptions:</summary>
     <ul>
       <li>Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
           From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution development, 
           and programming     MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, 
           I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).</li>
+    </ul>
+  </details>
+
+  <summary>Completed Projects:</summary>
+    <ul>
+      <li></li>
     </ul>
   </details>
       
@@ -150,7 +162,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     彰化市 Changhua, 2017.06~2018.04
 
   <details>
-    <summary>Job Descriptions</summary>
+    <summary>Job Descriptions:</summary>
     <ul>
       <li>My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
           this includes introducing and selling various telecommunications products (such as mobile   phones, phone numbers, broadband, etc.), 
@@ -179,7 +191,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       澳洲 Australia, 2015.05.13~2017.02.24
 
   <details>
-    <summary>Job Descriptions</summary>
+    <summary>Job Descriptions:</summary>
     <ul>
       <li>Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
           Part-time jobs: CCTV installation, construction worker, furniture moving laborer.</li>
@@ -205,7 +217,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
      <font color="brown">記者Press Release</font><br>
      桃園市 - 大園區 Taoyuan - Dayuan, 2014.04.14~2015.04.10
     <details>
-    <summary>Job Descriptions</summary>
+    <summary>Job Descriptions:</summary>
     <ul>
       <li> As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
           <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
@@ -234,7 +246,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
      中區台灣 Central Taiwan, 2011~2013
 
   <details>
-    <summary>Job Descriptions</summary>
+    <summary>Job Descriptions:</summary>
     <ul>
       <li>(Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.</li>
     </ul>
