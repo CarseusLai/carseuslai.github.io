@@ -96,6 +96,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     </ul>
   </details>
 
+  <details>
   <summary>Completed Projects:</summary>
     <ul>
       <li></li>
@@ -130,7 +131,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
           I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).</li>
     </ul>
   </details>
-
+  <details>
   <summary>Completed Projects:</summary>
     <ul>
       <li></li>
