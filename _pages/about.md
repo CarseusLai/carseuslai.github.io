@@ -172,6 +172,12 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
           handling customer complaints, and participating in marketing activities.</li>
     </ul>
   </details>
+  - Job Descriptions:<br>
+          My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
+          this includes introducing and selling various telecommunications products (such as mobile   phones, phone numbers, broadband, etc.), 
+          providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, 
+          as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, 
+          handling customer complaints, and participating in marketing activities.</li>
     
    </div> 
   </div>
