@@ -90,11 +90,9 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     台北市 - 內湖區 Taipei - Neihu, 2022.08~Now
 
   <details>
-    <summary>展開更多細節</summary>
+    <summary>Job Descriptions</summary>
     <ul>
-      <li>細節A</li>
-      <li>細節B</li>
-      <li>細節C</li>
+      <li>Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.</li>
     </ul>
   </details>
     
