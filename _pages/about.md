@@ -92,14 +92,14 @@ Personal Attributes:** Reliable, detail-oriented, and analytical, with strong le
     <font color="brown">♪ 聲學產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
     台北市 - 內湖區 Taipei - Neihu, 2022.08~Now
 
-  <details open>
+  <details>
     <summary>Job Descriptions:</summary>
     <ul>
       <li>Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.</li>
     </ul>
   </details>
 
-  <details open>
+  <details>
   <summary>Completed Projects:</summary>
     <ul>
 
@@ -189,7 +189,7 @@ Personal Attributes:** Reliable, detail-oriented, and analytical, with strong le
           I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).</li>
     </ul>
   </details>
-  <details open>
+  <details>
   <summary>Completed Projects:</summary>
     <ul>
       <div class='paper-box'>
