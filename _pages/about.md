@@ -117,6 +117,42 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     - Using Audio precision to verify DSP algorithm in Playback.
   </div>
   </div>
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+       In-house development
+      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Two-way AINR dongle(USB/AUX)</font>**<br>
+  **Led the design and implementation** <br>
+  - Collaborated with AE/PM/EE/FW
+  - Firmware development
+    - Control DSP AINR level on downlink and uplink.
+  - Acoustic analysis
+    - Using Audio precision to verify DSP algorithm in playback and phone.
+    - Define specific sample rate and data format for downlink and uplink.
+    - Verify UAC protocol, I2S data and measure clock jitter.
+  </div>
+  </div>
+  
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+       In-house development
+      <img src='images/Dual Speaker.png' alt="sym" width="90%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Dual Speaker(USB/BT/DONGLE)</font> - daisy-chaining 2 units**<br>
+  **Participated in** <br>
+  - Collaborated with AE/FW
+  - Firmware development
+    - Integrated DSP algorithm and audio path.
+  - Acoustic analysis
+    - Using Audio precision to verify DSP algorithm in playback and phone.
+    - Verify I2S data integrity.
+  </div>
+  </div>
 
   
   </ul>
@@ -181,7 +217,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <font color="brown">業務Sales</font><br>
     彰化市 Changhua, 2017.06~2018.04
 
-  <details>
+  <details open>
     <summary>Job Descriptions:</summary>
     <ul>
       <li>My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
@@ -209,7 +245,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       <font color="brown">背包客 Backpacker</font><br>
       澳洲 Australia, 2015.05.13~2017.02.24
 
-  <details>
+  <details open>
     <summary>Job Descriptions:</summary>
     <ul>
       <li>Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
@@ -235,7 +271,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
      <font color="black">航空警察二隊一分隊Aviation Police Second Platoon Team 1</font><br>
      <font color="brown">記者Press Release</font><br>
      桃園市 - 大園區 Taoyuan - Dayuan, 2014.04.14~2015.04.10
-    <details>
+    <details open>
     <summary>Job Descriptions:</summary>
     <ul>
       <li> As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
@@ -264,7 +300,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
      <font color="brown">裁判Referee</font><br>
      中區台灣 Central Taiwan, 2011~2013
 
-  <details>
+  <details open>
     <summary>Job Descriptions:</summary>
     <ul>
       <li>(Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.</li>
