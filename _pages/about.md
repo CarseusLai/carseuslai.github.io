@@ -20,7 +20,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍🚀 Biography
-我特別專長於音頻與韌體方面，且具備系統分析與除錯的專業能力。
+我特別擅長於音頻與韌體方面，且具備系統分析與除錯的專業能力。
 擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，重點在模擬排水管噪音並運用自適應濾波器來有效降低水管中的噪音。<br>
 I specialize in audio and firmware, with expertise in system analysis and debugging. I hold a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm” focused on simulating drain pipe noise and effectively reducing it using adaptive filtering techniques.<br>
 <br>
@@ -100,7 +100,7 @@ Personal Attributes:** Reliable, detail-oriented, and analytical, with strong le
   </details>
 
   <details>
-  <summary>Completed Projects:</summary>
+  <summary> <font color="Orange">Completed Projects:</font></summary>
     <ul>
 
       
