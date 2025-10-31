@@ -56,7 +56,7 @@ TI - TMS320C6748(NLMS Algorithm)
 -  <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
   Hardware Debugging
 </span>
--  <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
   - Audio Precision
