@@ -31,21 +31,21 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 ---
 
 ## 🛠 Skill
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   MCU
 </span>
 Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
--<span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   DSP
-</span> TI - TMS320C6748(NLMS Algorithm)
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+</span> 
+TI - TMS320C6748(NLMS Algorithm)
+- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Git
 </span> TortoiseGit
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Programming Languages
 </span>
 <a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="19%"></a><!--<a href="https://leetcode.com/u/Carseus/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sym" width="17%"></a> -->
-
   - 8051 Assmbly 
   - C
   - Python
@@ -53,21 +53,25 @@ Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino
   - Java
   - VB.net
   - C#
-- **Hardware Debugging**
-- **Measuring Tool**
+-  <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+  Hardware Debugging
+</span>
+-  <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+  Measuring Tool
+</span>
   - Audio Precision
   - Oscilloscope
   - Logic Analyzer
   - USB Analyzer
   - Multimeter
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   System Analysis
 </span>
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Adobe
 </span>
 Audition, Premiere Pro, Photoshop, Illustrator
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Others
 </span>
 Car mechanic
