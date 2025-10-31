@@ -80,8 +80,8 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
     <br>
     <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
     alt="logo" style="
-    width: 40px; 
-    height: 40px; 
+    width: 50px; 
+    height: 50px; 
     margin-right: 8px; 
     /*border: 1px solid black;  四周黑線 */
     box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
