@@ -96,7 +96,7 @@ Car mechanic
     margin-right: 8px; 
     /*border: 1px solid black;  四周黑線 */
     box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-    border-radius: 20px; /* 可選，讓邊角稍圓 */
+    border-radius: 30px; /* 可選，讓邊角稍圓 */
   ">
     立訊精密 Luxshare-ICT <br>  
     <font color="black">音頻演算法開發部門Audio Algorithm Development Department</font><br>
