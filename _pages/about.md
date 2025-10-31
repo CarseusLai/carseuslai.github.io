@@ -427,7 +427,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
       border-radius: 20px; /* 可選，讓邊角稍圓 */
     ">
      航空警察替代役 Substitute Military Service <br>
-     <font color="black">航空警察二隊一分隊Aviation Police Second Platoon Team 1</font><br>
+     <font color="black">航空警局察二隊一分隊Aviation Police Second Platoon Team 1</font><br>
      <font color="brown">記者Press Release</font><br>
      桃園市 - 大園區 Taoyuan - Dayuan, 2014.04.14~2015.04.10
     <details>
@@ -455,7 +455,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
         border-radius: 20px; /* 可選，讓邊角稍圓 */
       ">
      華藝國際Wayi International <br>
-     <font color="black">SF Online電子競技射擊遊戲 SF Online e-Sports Referee Team</font><br>
+     <font color="black">SF Online電子競技射擊遊戲裁判隊(第二屆) SF Online e-Sports Referee Team</font><br>
      <font color="brown">裁判Referee</font><br>
      中區台灣 Central Taiwan, 2011~2013
 
