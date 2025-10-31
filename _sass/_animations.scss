@@ -19,3 +19,13 @@
     opacity: 1;
   }
 }
+
+
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.logo {
+  animation: flicker 1s infinite;
+}
