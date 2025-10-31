@@ -43,7 +43,7 @@ TI - TMS320C6748(NLMS Algorithm)
   Git
 </span> TortoiseGit
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
-  Programming Languages
+  PL
 </span>
 <a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="19%"></a>
   8051 Assmbly, C, Python, Matlab, Java, VB.net, C#
