@@ -31,7 +31,9 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 ---
 
 ## 🛠 Skill
-- **MCU:** Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
+- **<span style="background-color:#666666; color:#ffffff; border-radius: 12px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
+  MCU:
+</span>** Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
 - **DSP:** TI - TMS320C6748(NLMS Algorithm)
 - **Git:** TortoiseGit
 - **Programming Languages**
