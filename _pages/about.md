@@ -53,11 +53,7 @@ TI - TMS320C6748(NLMS Algorithm)
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
-  - Audio Precision
-  - Oscilloscope
-  - Logic Analyzer
-  - USB Analyzer
-  - Multimeter
+  - Audio Precision, Oscilloscope, Logic Analyzer, USB Analyzer, Multimeter
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   System Analysis
 </span>
