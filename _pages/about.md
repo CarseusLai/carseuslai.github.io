@@ -46,14 +46,14 @@ TI - TMS320C6748(NLMS Algorithm)
   Programming Languages
 </span>
 <a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="19%"></a>
-  - 8051 Assmbly, C, Python, Matlab, Java, VB.net, C#
+  8051 Assmbly, C, Python, Matlab, Java, VB.net, C#
 -  <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
   Hardware Debugging
 </span>
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: bold; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
-  - Audio Precision, Oscilloscope, Logic Analyzer, USB Analyzer, Multimeter
+  Audio Precision, Oscilloscope, Logic Analyzer, USB Analyzer, Multimeter
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   System Analysis
 </span>
