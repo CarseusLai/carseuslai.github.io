@@ -790,6 +790,7 @@ Wayi International</span>** <span style="display: inline-block; width: 60%; text
 # <img src='gifs/universe.gif' alt="sym" width="3%"> Side Project
 
 **<span style="color:black; font-size:15px;">
+<!--
 <img src="https://shop.textalk.se/shop/ws57/81557/files/Loggor/Keces%20Audio%20-%20Logo.png" 
   alt="logo" style="
   width: 50px; 
@@ -798,7 +799,7 @@ Wayi International</span>** <span style="display: inline-block; width: 60%; text
   /*border: 1px solid black; /* 四周黑線 */
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
-">
+">-->
 Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">
   
   <div class='paper-box' style='background-color: #d3d3d3;'>
