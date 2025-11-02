@@ -110,7 +110,7 @@ Car mechanic
       
    <div class='paper-box'>
     <div class='paper-box-image'><div>
-      <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
+      <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Pro Plus SL525</a>
       <img src='images/Dell Pro Plus SL525.png' alt="sym" width="90%"></div>
     </div>
     <div class='paper-box-text' markdown="1">
@@ -198,7 +198,7 @@ Car mechanic
     <ul>
       <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.mclellandmusic.com/twproducts">**McLELLAND MAP-1650E</a>
+    <a href="https://www.mclellandmusic.com/twproducts">**MAP-1650E</a>
     <img src='images/McLELLAND MAP-1650E.png' alt="sym" width="90%"></div>
   </div>
   
@@ -804,7 +804,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   
   <div class='paper-box' style='background-color: #d3d3d3;'>
     <div class='paper-box-image'><div>
-      <a href="https://www.kecesaudio.com/ch/Ebravo.html">KECES Ebravo Streamer Transport</a>
+      <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
       <img src='images/EB-SD.png' alt="sym" width="100%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
