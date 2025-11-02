@@ -805,7 +805,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   <div class='paper-box' style='background-color: #d3d3d3;'>
     <div class='paper-box-image'><div>
       <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
-      <img src='images/EB-SD.png' alt="sym" width="100%"></div>
+      <img src='images/EB-SD.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
   
