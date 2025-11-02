@@ -267,7 +267,7 @@ Car mechanic
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://tw.kef.com/products/bts30">KEF BTS30</a><br>
+    <a href="https://tw.kef.com/products/bts30">BTS30</a><br>
     <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="70%"></div>
   </div>
   
@@ -285,7 +285,7 @@ Car mechanic
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.thomann.co.uk/fun_generation_rta_31.htm">Thomann Fun Generation RTA-31</a>
+    <a href="https://www.thomann.co.uk/fun_generation_rta_31.htm">Fun Generation RTA-31</a>
     <img src='images/Thomann Fun Generation RTA-31.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -301,7 +301,7 @@ Car mechanic
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.blacklionaudio.com/store/power-conditioners/pg-2-power-conditioner/">BLACK LION PG-2</a>
+    <a href="https://www.blacklionaudio.com/store/power-conditioners/pg-2-power-conditioner/">PG-2</a>
     <img src='images/BLACK LION PG-2 Power Conditioner.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -316,7 +316,7 @@ Car mechanic
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.soundavo.com/products/sld-1-db-display-with-measuring-microphone">Soundavo SLD-1</a>
+    <a href="https://www.soundavo.com/products/sld-1-db-display-with-measuring-microphone">SLD-1</a>
     <img src='images/Soundavo SLD-1 DB Display with Measuring Microphone.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -329,7 +329,7 @@ Car mechanic
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">Soundavo PMX-3300</a>
+    <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">PMX-3300</a>
     <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -343,7 +343,7 @@ Car mechanic
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-    <a href="https://www.soundavo.com/products/outlet-pmx-1100">Soundavo PMX-1100</a>
+    <a href="https://www.soundavo.com/products/outlet-pmx-1100">PMX-1100</a>
     <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
