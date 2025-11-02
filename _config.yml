@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Carseus Lai"
   avatar           : "images/sinyinlai.png"
-  bio              : "國立台北科技大學National Taipei University of Technology (NTUT) M.S."
+  bio              : "National Taipei University of Technology (NTUT) M.S."
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=koBVaaUAAAAJ"
-  email            : "Carseus.lai@gmail.com"
+  email            : "Carseus.Lai@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
