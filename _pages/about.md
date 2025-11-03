@@ -22,7 +22,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🧑‍🚀 Biography
-我特別擅於音頻與韌體方面，且具備系統分析與除錯的專業能力。
+我擅於音頻與韌體方面，且具備系統分析與除錯的專業能力。
 擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，其重點在運用DSP導入自適應濾波器來有效地降低水管中的噪音。<br>
 I specialize in audio and firmware, with expertise in system analysis and debugging. I hold a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm” focused on simulating drain pipe noise and effectively reducing it using adaptive filtering techniques.<br>
 <br>
@@ -81,7 +81,7 @@ Car mechanic
 - *2019.02.27*: Audinate - Dnate Certification Level 1
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214)
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214)
-- *2008*: Workforce Development Agency - Level B technician for computer hardware fabrication
+- *2008*: Workforce Development Agency - Level B technician for computer hardware decoration
 
 ---
 
