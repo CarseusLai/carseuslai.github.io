@@ -120,7 +120,7 @@ Car mechanic
   **Participated in** <br>
   - Collaborated with AE
   - Firmware development
-    - Porting special audio of Luxshare algorithm. <br>
+    - Porting special audio of Luxshare algorithm.
   </div>
   </div>
   
@@ -142,8 +142,8 @@ Car mechanic
   **Participated in** <br>
   - Collaborated with AE/PM/EE/FW
   - Firmware development
-    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.<br>
-    - Porting luxshare algorithm and arrangement audio path. <br>
+    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
+    - Porting luxshare algorithm and arrangement audio path.
   - Acoustic analysis
     - Using Audio precision to verify DSP algorithm in Playback.
   </div>
@@ -178,7 +178,7 @@ Car mechanic
   **Participated in** <br>
   - Collaborated with AE/FW
   - Firmware development
-    - Porting luxshare algorithm. <br>
+    - Porting luxshare algorithm.
   - Acoustic analysis
     - Using Audio precision to verify DSP algorithm in playback and phone.
     - Verify I2S data integrity.
