@@ -108,6 +108,32 @@ Car mechanic
   <details>
   <summary> <font color="Blue">Completed Projects:</font></summary>
     <ul>
+
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+       In-house development
+      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+
+  **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
+  **Participated in** <br>
+  - Collaborated with AE/PM/EE/FW
+  - Firmware development
+    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
+    - Porting luxshare algorithm and arrangement audio path.
+  - Acoustic analysis
+    - Using Audio precision to verify DSP algorithm in Playback.
+  </div>
+  </div>
+
+  
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+       In-house development
+      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
         
   **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
   **Participated in** <br>
@@ -119,6 +145,8 @@ Car mechanic
     - Using Audio precision to verify DSP algorithm in Playback.
   </div>
   </div>
+
+  
   <div class='paper-box'>
     <div class='paper-box-image'><div>
        In-house development
@@ -137,6 +165,7 @@ Car mechanic
     - Verify UAC protocol, I2S data and measure clock jitter.
   </div>
   </div>
+
   
   <div class='paper-box'>
     <div class='paper-box-image'><div>
