@@ -180,10 +180,10 @@ Car mechanic
   </ul>
   </details>
 
-  <details opne>
+  <details open>
     <summary>Skills:</summary>
     <ul>
-      <li></li>
+      <li>C, Python, Git, Audio Precision, Oscilloscope, SoundCheck, USB Analyzer, Audition, Multimeter</li>
     </ul>
   </details>
     
@@ -378,10 +378,10 @@ Car mechanic
   </ul>
   </details>
 
-  <details opne>
+  <details open>
     <summary>Skills:</summary>
     <ul>
-      <li></li>
+      <li>C, Python, Java, Audio Precision, Oscilloscope, Logic Analyzer, Multimeter</li>
     </ul>
   </details>
 
