@@ -420,15 +420,15 @@ Car mechanic
       border-radius: 20px; /* 可選，讓邊角稍圓 */
     ">
       澳洲打工度假 Australia Working Holiday <br>
-      <font color="black">Strawberry Packer/Picker, Bluebrry Picker, Cherry Packer, CCTV Installer, Removalist...</font><br>
+      <font color="black">Farm Packer/Picker</font><br>
       <font color="brown">Backpacker</font><br>
       澳洲東部諸州(布里斯本, 雪梨, 坎培拉, 墨爾本, 塔斯...)Eastern States of Australia, 2015.05.13~2017.02.24
 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <li>Farm fruit: strawberry picker and packer, blueberry picker, cherry packer, tomato picker, raspberry picker, blackberry picker.<br>
-          Part-time jobs: CCTV installation, construction worker, furniture moving laborer.</li>
+      <li>Farm fruit: Strawberry picker and packer, Blueberry picker, Cherry packer, Tomato picker, Raspberry picker, Blackberry picker.<br>
+          Part-time: CCTV installation, Construction worker, Furniture removalist.</li>
     </ul>
   </details>
       
