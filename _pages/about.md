@@ -182,7 +182,9 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
 
   <details open>
     <summary>Skills:</summary>
+    <ul>
       C, Python, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter
+    </ul>
   </details>
     
    </div>
