@@ -179,6 +179,13 @@ Car mechanic
   
   </ul>
   </details>
+
+  <details opne>
+    <summary>Skills:</summary>
+    <ul>
+      <li></li>
+    </ul>
+  </details>
     
    </div>
   </div>
@@ -370,6 +377,15 @@ Car mechanic
 </div>
   </ul>
   </details>
+
+  <details opne>
+    <summary>Skills:</summary>
+    <ul>
+      <li></li>
+    </ul>
+  </details>
+
+
       
    </div> 
   </div>
@@ -431,7 +447,12 @@ Car mechanic
           Part-time: CCTV installation, Construction worker, Furniture removalist.</li>
     </ul>
   </details>
-      
+  <details open>
+    <summary>Skills:</summary>
+    <ul>
+      <li></li>
+    </ul>
+  </details>    
    </div> 
 </div>
    <div class="timeline-item">
@@ -458,7 +479,13 @@ Car mechanic
           <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a></li>
     </ul>
   </details>
-      
+
+  <details open>
+    <summary>Skills:</summary>
+    <ul>
+      <li></li>
+    </ul>
+  </details>
       
    </div>
   </div>
@@ -485,7 +512,14 @@ Car mechanic
       <li>(Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.</li>
     </ul>
   </details>
-      
+  
+  <details open>
+    <summary>Skills:</summary>
+    <ul>
+      <li></li>
+    </ul>
+  </details>
+  
    </div> 
   </div>
 </div> 
