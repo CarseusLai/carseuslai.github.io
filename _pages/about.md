@@ -38,13 +38,13 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
   PL
 </span>
 <a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="16%"></a><!--<a href="https://leetcode.com/u/Carseus/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sym" width="17%"></a> -->
-  8051 Assmbly, C, Python, Matlab, Java, VB.net, C#
+  8051, C, Python, Matlab, Java, VB.net, C#
 
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Firmware
 </span>
   - MUC - Airoha(Jira), Microchip, Atmel, NXP, ST, STM, AT, Arduino
-  - DSP - TI-TMS320C6748(NLMS Algorithm)
+  - DSP - TI-TMS320C6748(Thesis:NLMS Algorithm)
   - Hardware Debugging
   - Git - TortoiseGit
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
