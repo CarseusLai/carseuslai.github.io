@@ -61,7 +61,7 @@ Audition, Premiere Pro, Photoshop, Illustrator
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Others
 </span>
-Professional FPS Gamer, Write a Press Release, Video Clip, Pack/Pick of Fruit, Car Mechanic
+Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, Car Mechanic, Sales Pitch
 
 <div id="hackerrank-level"></div>
 
@@ -182,9 +182,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pack/Pick of Fruit, C
 
   <details open>
     <summary>Skills:</summary>
-    <ul>
-      <li>C, Python, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter</li>
-    </ul>
+      C, Python, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter
   </details>
     
    </div>
@@ -381,7 +379,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pack/Pick of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li>C, Python, Java, Audio precision, Oscilloscope, Logic analyzer, Multimeter</li>
+      Project management, C, Python, Java, Audio precision, Oscilloscope, Logic analyzer, Multimeter
     </ul>
   </details>
 
@@ -425,7 +423,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pack/Pick of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li>Sales pitch, SmartPhone knowledge, Telecom signal knowledge</li>
+      Sales pitch, SmartPhone knowledge, Telecom signal knowledge
     </ul>
   </details>
 
@@ -453,13 +451,13 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pack/Pick of Fruit, C
     <summary>Job Descriptions:</summary>
     <ul>
       <li>Farm fruit: Strawberry picker and packer, Blueberry picker, Cherry packer, Tomato picker, Raspberry picker, Blackberry picker.<br>
-          Part-time: CCTV installation, Construction worker, Furniture removalist.</li>
+          Part-time: CCTV installer, Construction worker, Furniture removalist.</li>
     </ul>
   </details>
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li>Picking and Packing of Fruit</li>
+      CCTV install, Removalist knowledge, Pick/Pack of fruit
     </ul>
   </details>    
    </div> 
@@ -492,7 +490,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pack/Pick of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li>Write a press release, Video clip</li>
+      Write a press release, Video clip
     </ul>
   </details>
       
@@ -525,7 +523,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pack/Pick of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li>Professional FPS gamer</li>
+      Professional FPS gamer
     </ul>
   </details>
   
