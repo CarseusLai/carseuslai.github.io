@@ -61,7 +61,7 @@ Audition, Premiere Pro, Photoshop, Illustrator
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Others
 </span>
-Car mechanic
+Professional FPS Gamer, Write a Press Release, Video Clip, Pack/Pick of Fruit, Car Mechanic
 
 <div id="hackerrank-level"></div>
 
@@ -183,7 +183,7 @@ Car mechanic
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li>C, Python, Git, Audio Precision, Oscilloscope, SoundCheck, USB Analyzer, Audition, Multimeter</li>
+      <li>C, Python, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter</li>
     </ul>
   </details>
     
@@ -381,7 +381,7 @@ Car mechanic
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li>C, Python, Java, Audio Precision, Oscilloscope, Logic Analyzer, Multimeter</li>
+      <li>C, Python, Java, Audio precision, Oscilloscope, Logic analyzer, Multimeter</li>
     </ul>
   </details>
 
@@ -420,7 +420,16 @@ Car mechanic
           as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, 
           handling customer complaints, and participating in marketing activities.</li>
     </ul>
-  </details>    
+  </details>   
+
+  <details open>
+    <summary>Skills:</summary>
+    <ul>
+      <li>Sales pitch, SmartPhone knowledge, Telecom signal knowledge</li>
+    </ul>
+  </details>
+
+  
    </div> 
   </div>
     <div class="timeline-item">
@@ -450,7 +459,7 @@ Car mechanic
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li></li>
+      <li>Picking and Packing of Fruit</li>
     </ul>
   </details>    
    </div> 
@@ -483,7 +492,7 @@ Car mechanic
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li></li>
+      <li>Write a press release, Video clip</li>
     </ul>
   </details>
       
@@ -501,7 +510,7 @@ Car mechanic
         box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
         border-radius: 20px; /* 可選，讓邊角稍圓 */
       ">
-     華藝國際Wayi International <br>
+     華藝國際Wayi International (Student Days)<br>
      <font color="black">SF Online電子競技射擊遊戲裁判隊(第二屆) SF Online e-Sports Referee Team</font><br>
      <font color="brown">裁判Referee</font><br>
      台灣中部 Central of Taiwan, 2011~2013
@@ -509,14 +518,14 @@ Car mechanic
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <li>(Student Days)I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.</li>
+      <li>I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.</li>
     </ul>
   </details>
   
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li></li>
+      <li>Professional FPS gamer</li>
     </ul>
   </details>
   
