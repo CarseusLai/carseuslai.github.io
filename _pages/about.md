@@ -127,7 +127,7 @@ Car mechanic
   
   <div class='paper-box'>
     <div class='paper-box-image'><div>
-      <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
+      <a href="https://www.dell.com/en-us/shop/dell-pro-plus-wireless-speakerphone-sl525/apd/520-bbmv/audio">Pro Plus SL525</a>
       <img src='images/Dell Pro Plus SL525.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
