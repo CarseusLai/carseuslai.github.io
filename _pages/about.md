@@ -420,8 +420,9 @@ Car mechanic
       border-radius: 20px; /* 可選，讓邊角稍圓 */
     ">
       澳洲打工度假 Australia Working Holiday <br>
-      <font color="brown">背包客 Backpacker</font><br>
-      澳洲 Australia, 2015.05.13~2017.02.24
+      <font color="black">Strawberry Packer/Picker, Bluebrry Picker, Cherry Packer</font><br>
+      <font color="brown">Backpacker</font><br>
+      澳洲東部諸州(布里斯本, 雪梨, 坎培拉, 墨爾本, 塔斯...)Eastern states of Australia, 2015.05.13~2017.02.24
 
   <details>
     <summary>Job Descriptions:</summary>
@@ -476,7 +477,7 @@ Car mechanic
      華藝國際Wayi International <br>
      <font color="black">SF Online電子競技射擊遊戲裁判隊(第二屆) SF Online e-Sports Referee Team</font><br>
      <font color="brown">裁判Referee</font><br>
-     中區台灣 Central Taiwan, 2011~2013
+     台灣中部 Central of Taiwan, 2011~2013
 
   <details>
     <summary>Job Descriptions:</summary>
