@@ -18,9 +18,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <!--# 🔥 News
-- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.-->
+- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
+<span class='anchor' id='about-me'></span>-->
 
-<span class='anchor' id='about-me'></span>
 # 🧑‍🚀 Biography
 我擅於音頻與韌體方面，且具備系統分析與除錯的專業能力。
 擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，其重點在運用DSP導入自適應濾波器來有效地降低水管中的噪音。<br>
