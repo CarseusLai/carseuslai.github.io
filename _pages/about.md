@@ -111,27 +111,24 @@ Car mechanic
 
   <div class='paper-box'>
     <div class='paper-box-image'><div>
-       In-house development
-      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
+      <a href="https://www.dell.com/en-us/shop/dell-pro-premium-conferencing-soundbar-sb725/apd/520-bblx/home-theater">Pro Premium SB725</a>
+      <img src='images/Dell Pro Premium SB725.png.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
 
-  **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
+  **<font color="green">Conference Speaker Phone(USB)</font>**<br>
   **Participated in** <br>
-  - Collaborated with AE/PM/EE/FW
+  - Collaborated with AE
   - Firmware development
-    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
-    - Porting luxshare algorithm and arrangement audio path.
-  - Acoustic analysis
-    - Using Audio precision to verify DSP algorithm in Playback.
+    - Porting special audio of luxshare algorithm.
   </div>
   </div>
 
   
   <div class='paper-box'>
     <div class='paper-box-image'><div>
-       In-house development
-      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
+      <a href="https://www.dell.com/zh-tw/shop/cty/apd/520-BBMK">Dell Pro Plus SL525</a>
+      <img src='images/Dell Pro Plus SL525.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
         
