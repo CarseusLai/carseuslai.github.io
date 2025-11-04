@@ -134,7 +134,7 @@ Car mechanic
     - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
     - Porting luxshare algorithm and arrangement audio path.
   - Acoustic analysis
-    - Using Audio precision to verify DSP algorithm in Playback.
+    - Using Audio precision to verify luxshare algorithm in Playback.
   </div>
   </div>
 
@@ -152,7 +152,7 @@ Car mechanic
   - Firmware development
     - Control DSP AINR level on downlink and uplink.
   - Acoustic analysis
-    - Using Audio precision to verify DSP algorithm in playback and phone.
+    - Using Audio precision to verify ANC algorithm in playback and phone.
     - Define specific sample rate and data format for downlink and uplink.
     - Verify UAC protocol, I2S data and measure clock jitter.
   </div>
@@ -172,8 +172,7 @@ Car mechanic
   - Firmware development
     - Porting luxshare algorithm.
   - Acoustic analysis
-    - Using Audio precision to verify DSP algorithm in playback and phone.
-    - Verify I2S data integrity.
+    - Using Audio precision to verify luxshare algorithm in playback and I2S data.
   </div>
   </div>
 
