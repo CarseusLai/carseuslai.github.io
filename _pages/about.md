@@ -112,7 +112,7 @@ Car mechanic
   <div class='paper-box'>
     <div class='paper-box-image'><div>
       <a href="https://www.dell.com/en-us/shop/dell-pro-premium-conferencing-soundbar-sb725/apd/520-bblx/home-theater">Pro Premium SB725</a>
-      <img src='images/Dell Pro Premium SB725.png.png' alt="sym" width="70%"></div>
+      <img src='images/Dell Pro Premium SB725.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
 
