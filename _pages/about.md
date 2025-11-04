@@ -152,9 +152,9 @@ Car mechanic
   - Firmware development
     - Control DSP AINR level on downlink and uplink.
   - Acoustic analysis
-    - Using Audio precision to verify ANC algorithm in playback and phone.
+    - Using Audio precision to verify ANC algorithm in playback, phone and I2S data.
     - Define specific sample rate and data format for downlink and uplink.
-    - Verify UAC protocol, I2S data and measure clock jitter.
+    - Verify UAC protocol and measure clock jitter.
   </div>
   </div>
 
