@@ -50,7 +50,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
-  Audio Precision, Oscilloscope, Logic Analyzer, USB Analyzer, Multimeter
+  Audio Precision, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   System Analysis
 </span>
@@ -61,7 +61,7 @@ Audition, Premiere Pro, Photoshop, Illustrator
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Others
 </span>
-Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, Car Mechanic, Sales Pitch
+Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, Car mechanic, Sales pitch
 
 <div id="hackerrank-level"></div>
 
@@ -459,7 +459,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <font color="gray">CCTV install, Removalist knowledge, Pick/Pack of fruit</font>
+      <font color="gray">CCTV installation, Removalist knowledge, Pick/Pack of fruit</font>
     </ul>
   </details>    
    </div> 
