@@ -108,35 +108,6 @@ Car mechanic
   <details>
   <summary> <font color="Blue">Completed Projects:</font></summary>
     <ul>
-      
-  <div class='paper-box'>
-    <div class='paper-box-image'><div>
-      <a href="https://www.dell.com/en-us/shop/dell-pro-premium-conferencing-soundbar-sb725/apd/520-bblx/home-theater">Pro Premium SB725</a>
-      <img src='images/Dell Pro Premium SB725.png' alt="sym" width="90%"></div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-        
-  **<font color="green">Conference Speaker Phone(USB)</font>**<br>
-  **Participated in** <br>
-  - Collaborated with AE
-  - Firmware development
-    - Porting special audio of Luxshare algorithm.
-  </div>
-  </div>
-  
-  <div class='paper-box'>
-    <div class='paper-box-image'><div>
-       In-house development
-      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-      
-   <div class='paper-box'>
-    <div class='paper-box-image'><div>
-      <a href="https://www.dell.com/en-us/shop/dell-pro-plus-wireless-speakerphone-sl525/apd/520-bbmv/audio">Pro Plus SL525</a>
-      <img src='images/Dell Pro Plus SL525.png' alt="sym" width="90%"></div>
-    </div>
-    <div class='paper-box-text' markdown="1">
         
   **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
   **Participated in** <br>
