@@ -381,7 +381,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      Project management, C, Python, Java, Audio precision, Oscilloscope, Logic analyzer, Multimeter
+      <font color="gray">Project management, C, Python, Java, Audio precision, Oscilloscope, Logic analyzer, Multimeter</font>
     </ul>
   </details>
 
@@ -425,7 +425,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      Sales pitch, SmartPhone knowledge, Telecom signal knowledge
+      <font color="gray">Sales pitch, SmartPhone knowledge, Telecom signal knowledge</font>
     </ul>
   </details>
 
@@ -459,7 +459,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      CCTV install, Removalist knowledge, Pick/Pack of fruit
+      <font color="gray">CCTV install, Removalist knowledge, Pick/Pack of fruit</font>
     </ul>
   </details>    
    </div> 
@@ -492,7 +492,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      Write a press release, Video clip
+      <font color="gray">Write a press release, Video clip</font>
     </ul>
   </details>
       
@@ -525,7 +525,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details open>
     <summary>Skills:</summary>
     <ul>
-      Professional FPS gamer
+      <font color="dark-yellow">Professional FPS gamer</font>
     </ul>
   </details>
   
