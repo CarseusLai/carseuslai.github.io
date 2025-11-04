@@ -95,7 +95,8 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
 
   <details>
     <summary>Job Descriptions:</summary>
-      <li>Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
+    <ul>
+      Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
     </ul>
   </details>
 
@@ -208,10 +209,10 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <li>Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
+      Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
           From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution development, 
           and programming     MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, 
-          I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).</li>
+          I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).
     </ul>
   </details>
   <details>
@@ -413,11 +414,11 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <li>My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
+      My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
           this includes introducing and selling various telecommunications products (such as mobile   phones, phone numbers, broadband, etc.), 
           providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, 
           as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, 
-          handling customer complaints, and participating in marketing activities.</li>
+          handling customer complaints, and participating in marketing activities.
     </ul>
   </details>   
 
@@ -451,8 +452,8 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <li>Farm fruit: Strawberry picker and packer, Blueberry picker, Cherry packer, Tomato picker, Raspberry picker, Blackberry picker.<br>
-          Part-time: CCTV installer, Construction worker, Furniture removalist.</li>
+      Farm fruit: Strawberry picker and packer, Blueberry picker, Cherry packer, Tomato picker, Raspberry picker, Blackberry picker.<br>
+          Part-time: CCTV installer, Construction worker, Furniture removalist.
     </ul>
   </details>
   <details open>
@@ -482,9 +483,9 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
     <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <li> As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
+      As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
           <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
-          <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a></li>
+          <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
     </ul>
   </details>
 
@@ -517,7 +518,7 @@ Professional FPS Gamer, Write a Press Release, Video Clip, Pick/Pack of Fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <li>I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.</li>
+      I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
     </ul>
   </details>
   
