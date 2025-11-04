@@ -34,13 +34,10 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 
 ## 🛠 Skill
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
-  MCU
+  Firmware
 </span>
-Airoha(Jira), Microchip, NXP, Atmel, ST, STM, Arduino 
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
-  DSP
-</span> 
-TI - TMS320C6748(NLMS Algorithm)
+  - MUC - Airoha(Jira), Microchip, Atmel, NXP, ST, STM, AT, Arduino
+  - DSP - TI-TMS320C6748(NLMS Algorithm)
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Git
 </span> TortoiseGit
