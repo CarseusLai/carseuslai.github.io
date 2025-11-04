@@ -38,9 +38,7 @@ I specialize in audio and firmware, with expertise in system analysis and debugg
 </span>
   - MUC - Airoha(Jira), Microchip, Atmel, NXP, ST, STM, AT, Arduino
   - DSP - TI-TMS320C6748(NLMS Algorithm)
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
-  Git
-</span> TortoiseGit
+  - Git - TortoiseGit
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   PL
 </span>
