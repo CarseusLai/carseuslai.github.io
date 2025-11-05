@@ -116,7 +116,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   **Participated in** <br>
   - Collaborated with AE
   - Firmware development
-    - Porting special audio of luxshare algorithm.
+    - Porting Spatial audio of luxshare algorithm.
   </div>
   </div>
 
