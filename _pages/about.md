@@ -96,8 +96,8 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      立訊精密專注於聲學產品開發，例如音箱、耳機和揚聲器（USB/BLE-BT/Dongle），且擁有Teams和Zoom認證。而我的職責包括移植基於DSP演算法並配合音頻路徑，同時為韌體團隊在MCU(RTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
-      Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
+      立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BLE-BT/Dongle)與Teams, Zoom認證，且擁有全台頂尖的聲學實驗室。而我的職責包括移植基DSP演算法並配合音頻路徑，同時為韌體團隊在MCU(RTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
+      Luxshare’s specializes in acoustic products such as Conference sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams, Zoom certification license and has the top acoustic laboratory in Taiwan.﻿ My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
     </ul>
   </details>
 
@@ -211,7 +211,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
     <summary>Job Descriptions:</summary>
     <ul>
       美訊主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。<br>
-2018 年至 2020 年間，我參與許多Dante會議及線上研討會，累積了豐富的 Dante Domain Manager (DDM) 配置和操作實務經驗。我的工作涉及產品改進並提供解決方案以及對 MCU(8051、C)進行編程，以控制 I2C、SPI、UART、GPIO、ADC 和 IR 等等介面進行資料傳輸。與硬體工程師緊密合作，設計流程圖。此外，我還提供銷售支持，並代表公司參加了 2018 年至 2020 年在深圳、廣州、香港、澳門和成都等地舉辦的亞洲年度音頻展覽會。<br>
+2018 年至 2020 年間，我參與許多Dante會議及線上研討會，累積了豐富的 Dante Domain Manager (DDM) 配置和操作實務經驗。我的工作涉及產品改進並提供解決方案以及對 MCU(8051、C)進行編程，以控制 I2C、SPI、UART、GPIO、ADC 和 IR 等等介面進行資料傳輸。與硬體工程師緊密合作，設計流程圖。此外，我還提供業務的銷售支持，並代表公司參加了 2018 年至 2020 年在深圳、廣州、香港、澳門和成都等地舉辦的亞洲年度音頻展覽會。<br>
       Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
           From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution development, 
           and programming     MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, 
@@ -417,12 +417,12 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      我的工作職責主要包括產品銷售與服務、客戶關係維護、門市營運以及相關行政工作。具體而言，包括介紹和銷售各種電信產品（例如手機、電話號碼、寬頻等）、提供客戶諮詢和協助、處理客戶的新申辦、續約、移轉等其他交易，以及維護門市環境和管理庫存。此外，還需要執行公司分配的任務、處理客戶投訴並參與行銷活動。<br>
+      我的工作職責主要包括產品銷售與服務、客戶關係維護、門市營運以及相關行政工作。具體而言，包括介紹和銷售各種電信產品（例如手機、電話號碼、寬頻等）、提供客戶諮詢和協助、處理客戶的新申辦、續約、移轉等其他交易，以及維護門市環境和管理庫存。此外，還需要執行公司分配的新任務及處理客訴問題並參與季度的行銷活動。<br>
       My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
           this includes introducing and selling various telecommunications products (such as mobile   phones, phone numbers, broadband, etc.), 
           providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, 
           as well as maintaining the store environment and managing inventory. Additionally, it requires executing company-assigned tasks, 
-          handling customer complaints, and participating in marketing activities.
+          handling customer complaints, and participating in marketing activities of season.
     </ul>
   </details>   
 
