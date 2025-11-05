@@ -258,11 +258,11 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
-   MAP-1200
-    <img src='' alt="sym" width="100%"></div>
+   McLELLAND Amplifier 1200[Serial]
+    <img src='images/Control4_Server.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
-**<font color="green">Control 4</font>**<br>
+**<font color="green">Control 4 Smart Home Automation & Control Systems Driver</font>**<br>
 **Participated in**<br>
 - Software development - Lua
 </div>
