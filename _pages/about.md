@@ -88,7 +88,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
     <br>
     <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
     class="logo" style="width:60px; height:60px; margin-right:8px; box-shadow:2px 2px 5px rgba(0,0,0,0.5); border-radius:30px;">
-    立訊精密 Luxshare-ICT <br>  
+    立訊精密 Luxshare-ICT(SPPC) <br>  
     <font color="black">音頻演算法開發部門Audio Algorithm Development Department</font><br>
     <font color="brown">♪ 聲學產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
     台北市 - 內湖區 Taipei - Neihu, 2022.08~Now
@@ -96,7 +96,8 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path             with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
+      立訊精密專注於聲學產品開發，例如音箱、耳機和揚聲器（USB/BLE-BT/Dongle），且擁有Teams和Zoom認證。而我的職責包括移植基於DSP演算法並配合音頻路徑，同時為韌體團隊在MCU(RTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版本控制和程式碼管理。<br>
+      Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
     </ul>
   </details>
 
@@ -209,6 +210,8 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
+      Mansion 的主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。<br>
+2018 年至 2020 年間，我參與許多Dante會議及線上研討會，累積了豐富的 Dante Domain Manager (DDM) 配置和操作實務經驗。我的工作涉及產品改進並提供解決方案以及對 MCU(8051、C)進行編程，以控制 I2C、SPI、UART、GPIO、ADC 和 IR 等等介面進行資料傳輸。與硬體工程師緊密合作，設計流程圖。此外，我還提供銷售支持，並代表公司參加了 2018 年至 2020 年在深圳、廣州、香港、澳門和成都等地舉辦的亞洲年度音頻展覽會。<br>
       Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
           From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution development, 
           and programming     MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, 
@@ -414,6 +417,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
+      我的工作職責主要包括產品銷售與服務、客戶關係維護、門市營運以及相關行政工作。具體而言，包括介紹和銷售各種電信產品（例如手機、電話號碼、寬頻等）、提供客戶諮詢和協助、處理客戶的新申辦、續約、移轉等其他交易，以及維護門市環境和管理庫存。此外，還需要執行公司分配的任務、處理客戶投訴並參與行銷活動。<br>
       My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
           this includes introducing and selling various telecommunications products (such as mobile   phones, phone numbers, broadband, etc.), 
           providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, 
@@ -452,6 +456,8 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
+      農場水果：草莓採摘包裝工、藍莓採摘工、櫻桃包裝工、番茄採摘工、覆盆子採摘工、黑莓採摘工。<br>
+      兼職：監視器安裝工、建築工人、家具搬運工。<br>
       Farm fruit: Strawberry picker and packer, Blueberry picker, Cherry packer, Tomato picker, Raspberry picker, Blackberry picker.<br>
           Part-time: CCTV installer, Construction worker, Furniture removalist.
     </ul>
@@ -483,6 +489,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
     <details>
     <summary>Job Descriptions:</summary>
     <ul>
+      身為代役軍人，我負責在桃園機場第二航廈撰寫新聞稿，並與中天、東森、三立電視台等新傳媒駐場記者合作。<br>
       As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
           <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
           <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
@@ -513,12 +520,14 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
      華藝國際Wayi International (Student Days)<br>
      <font color="black">SF Online電子競技射擊遊戲裁判隊(第二屆) SF Online e-Sports Referee Team</font><br>
      <font color="brown">裁判Referee</font><br>
-     台灣中部 Central of Taiwan, 2011~2013
+     台灣中區 Central of Taiwan, 2011~2013
 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
+      曾經接受過線上電競選手的訓練1年的時間，並且持續了8年SF online遊戲經驗​，擔任電競遊戲裁判(第二屆台灣中區)​兩年的時間。<br>
       I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
+      Served as a e-Sports referee(the 2nd Central Region of Taiwan) organized by Huayi International for 2 years.
     </ul>
   </details>
   
