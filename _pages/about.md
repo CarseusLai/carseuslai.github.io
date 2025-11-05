@@ -527,7 +527,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
     <ul>
       曾經接受過線上FPS電競選手的訓練1年的時間，且擁有8年FPS遊戲經驗​，擔任SF online電競遊戲裁判(華藝國際 - 第二屆台灣中區)​兩年的時間。<br>
       I was trained by an FPS e-Sports player for 1 year and has 8 years of experience in FPS games.
-      Served as a SF online e-Sports referee(Huayi International - the 2nd Central Region of Taiwan)for 2 years.
+      Served as a SF online e-Sports referee(Huayi International - the 2nd Central Region of Taiwan) for 2 years.
     </ul>
   </details>
   
