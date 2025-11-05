@@ -47,21 +47,21 @@ I specialize in product of audio and firmware development, with expertise in sys
   - DSP - TI-TMS320C6748(Thesis:NLMS Algorithm)
   - Hardware Debugging
   - Git - TortoiseGit
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
   Audio Precision, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   System Analysis
 </span>
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Adobe
 </span>
 Audition, Premiere Pro, Photoshop, Illustrator
-- <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+- <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Others
 </span>
-Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, Car mechanic, Sales pitch
+Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS gamer, Pick/Pack of fruit
 
 <div id="hackerrank-level"></div>
 
