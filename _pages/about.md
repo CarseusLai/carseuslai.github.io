@@ -96,7 +96,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      立訊精密專注於聲學產品開發，例如音箱、耳機和揚聲器（USB/BLE-BT/Dongle），且擁有Teams和Zoom認證。而我的職責包括移植基於DSP演算法並配合音頻路徑，同時為韌體團隊在MCU(RTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版本控制和程式碼管理。<br>
+      立訊精密專注於聲學產品開發，例如音箱、耳機和揚聲器（USB/BLE-BT/Dongle），且擁有Teams和Zoom認證。而我的職責包括移植基於DSP演算法並配合音頻路徑，同時為韌體團隊在MCU(RTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
       Luxshare’s specializes in acoustic products such as sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams and Zoom certification license. My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
     </ul>
   </details>
@@ -210,7 +210,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      Mansion 的主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。<br>
+      美訊主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。<br>
 2018 年至 2020 年間，我參與許多Dante會議及線上研討會，累積了豐富的 Dante Domain Manager (DDM) 配置和操作實務經驗。我的工作涉及產品改進並提供解決方案以及對 MCU(8051、C)進行編程，以控制 I2C、SPI、UART、GPIO、ADC 和 IR 等等介面進行資料傳輸。與硬體工程師緊密合作，設計流程圖。此外，我還提供銷售支持，並代表公司參加了 2018 年至 2020 年在深圳、廣州、香港、澳門和成都等地舉辦的亞洲年度音頻展覽會。<br>
       Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
           From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM). My role involved product improvement, solution development, 
@@ -489,7 +489,7 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
     <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      身為代役軍人，我負責在桃園機場第二航廈撰寫新聞稿，並與中天、東森、三立電視台等新傳媒駐場記者合作。<br>
+      時任警察替代役，負責在桃園機場第二航廈撰寫新聞稿，並與中天、東森、三立電視台等新傳媒駐場記者合作。<br>
       As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
           <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
           <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
@@ -525,9 +525,9 @@ Professional FPS gamer, Write a press release, Video clip, Pick/Pack of fruit, C
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      曾經接受過線上電競選手的訓練1年的時間，並且持續了8年SF online遊戲經驗​，擔任電競遊戲裁判(第二屆台灣中區)​兩年的時間。<br>
-      I was trained by an e-Sports player for 1 year and was a professional SF online (FPS) shooter for 8 years.
-      Served as a e-Sports referee(the 2nd Central Region of Taiwan) organized by Huayi International for 2 years.
+      曾經接受過線上FPS電競選手的訓練1年的時間，且擁有8年FPS遊戲經驗​，擔任SF online電競遊戲裁判(華藝國際 - 第二屆台灣中區)​兩年的時間。<br>
+      I was trained by an FPS e-Sports player for 1 year and has 8 years of experience in FPS games.
+      Served as a SF online e-Sports referee(Huayi International - the 2nd Central Region of Taiwan)for 2 years.
     </ul>
   </details>
   
