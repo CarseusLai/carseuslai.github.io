@@ -211,7 +211,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <summary>Job Descriptions:</summary>
     <ul>
       美訊主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。<br>
-2018 年至 2020 年間，我參與許多Dante會議及線上研討會，累積了豐富的 Dante Domain Manager (DDM) 配置和操作實務經驗和編寫智能家居Control4 驅動程式。我的工作涉及產品改進並提供解決方案以及對 MCU(8051、C)進行編程，以控制 I2C、SPI、UART、GPIO、ADC 和 IR 等等介面進行資料傳輸。與硬體工程師緊密合作，設計流程圖。此外，我還提供業務的銷售支持，並代表公司參加了 2018 年至 2020 年在深圳、廣州、香港、澳門和成都等地舉辦的亞洲年度音頻展覽會。<br>
+2018 年至 2020 年間，我參與許多Dante會議及線上研討會，累積了豐富的 Dante Domain Manager (DDM) 配置和操作實務經驗與編寫擴大機的智能家居Control4驅動程式。我的工作涉及產品改進並提供解決方案以及對 MCU(8051、C)進行編程，以控制 I2C、SPI、UART、GPIO、ADC 和 IR 等等介面進行資料傳輸。與硬體工程師緊密合作，設計流程圖。此外，我還提供業務的銷售支持，並代表公司參加了 2018 年至 2020 年在深圳、廣州、香港、澳門和成都等地舉辦的亞洲年度音頻展覽會。<br>
       Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
           From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM)and develop the Control4 smart home driver for the amplifier. My role involved product improvement, solution development, and programming MCUs(8051, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).
     </ul>
