@@ -18,8 +18,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <!--# 🔥 News
-- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.
-<span class='anchor' id='about-me'></span>-->
+- *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.-->
+<span class='anchor' id='about-me'></span>
 
 # 🧑🏻‍🚀 Biography
 我擅於音頻產品與韌體的開發，並具備分析系統問題與除錯的能力。
