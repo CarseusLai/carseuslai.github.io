@@ -168,7 +168,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class='paper-box'>
     <div class='paper-box-image'><div>
        In-house development
-      <img src='images/Dual Speaker.png' alt="sym" width="90%"></div>
+      <img src='images/Dual Speaker.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
   
