@@ -403,7 +403,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <font color="gray">Project management, DSP, C, Python, Java, Lua, Audio precision, Oscilloscope, Logic analyzer, Multimeter</font>
+      <font color="gray">Project management, ASM, C, Python, Java, Lua, Audio precision, Oscilloscope, Logic analyzer, Multimeter</font>
     </ul>
   </details>
 
