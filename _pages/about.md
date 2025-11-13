@@ -43,11 +43,11 @@ I specialize in product of audio and firmware development, with expertise in sys
 - <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Firmware
 </span>
-  - MUC - Airoha-AB15, PIC18, Atmel-AT89, NXP-LPC55, STC12/15, STM32, AT32, Arduino
+  - MCU - Airoha-AB15, PIC18, Atmel-AT89, NXP-LPC55, STC12/15, STM32, AT32, Arduino
   - DSP - TI-TMS320C6748(Thesis:NLMS Algorithm)
   - Hardware Debugging
   - Git - TortoiseGit
-  - JIRA
+  - Jira
 - <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
@@ -190,7 +190,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <font color="gray">DSP, Algotithm, C, Python, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter</font>
+      <font color="gray">DSP, Algotithm, Jira, C, Python, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter</font>
     </ul>
   </details>
     
