@@ -190,7 +190,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <font color="gray">DSP, ANC, Algotithm, Matlab, Jira, C, Python, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter</font>
+      <font color="gray">DSP, ANC, Algotithm, BT(LEAudio), Matlab, Jira, C, Python, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter</font>
     </ul>
   </details>
     
@@ -403,7 +403,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <font color="gray">Project management, ASM, C, Python, Java, Lua, Audio precision, Oscilloscope, Logic analyzer, Multimeter</font>
+      <font color="gray">Project management, Dante, AES67, ASM, C, Python, Java, Lua, Audio precision, Oscilloscope, Logic analyzer, Multimeter</font>
     </ul>
   </details>
 
