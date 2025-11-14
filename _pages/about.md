@@ -610,8 +610,8 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 **<span style="color:black; font-size:15px;">
 <img src="https://media.licdn.com/dms/image/v2/C560BAQG-MYV0cB-KeQ/company-logo_100_100/company-logo_100_100/0/1631312309160?e=1763596800&v=beta&t=OVD6s3bV_fUdoxAUPVDJqmDDAGePvsccITvzgqvW8hU" 
   alt="logo" style="
-  width: 50px; 
-  height: 50px; 
+  width: 60px; 
+  height: 60px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
@@ -661,8 +661,8 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 **<span style="color:light-gray; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
-  width: 50px; 
-  height: 50px; 
+  width: 60px; 
+  height: 60px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
@@ -696,8 +696,8 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 **<span style="color:black; font-size:15px;">
 <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
   alt="logo" style="
-  width: 50px; 
-  height: 50px; 
+  width: 60px; 
+  height: 60px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
