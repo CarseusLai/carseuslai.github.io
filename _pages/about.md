@@ -102,8 +102,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BLE-BT/Dongle)與Teams, Zoom認證，且擁有全台頂尖的聲學實驗室。而我的職責包括移植基DSP演算法並配合音頻路徑，同時為韌體團隊在MCU(RTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
-      Luxshare’s specializes in acoustic products such as Conference sound bars, headsets, and speaker phones (USB/BLE-BT/wireless) with Teams, Zoom certification license and has the top acoustic laboratory in Taiwan.﻿ My responsibilities include porting the audio path with DSP algorithms and supporting the firmware team with projects on MCU(RTOS), drivers, APIs, and debugging issues. Additionally, I am proficient in using Git for version control and code management.
+      立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BT-LEA/Dongle)與Teams, Zoom認證，且擁有全台名列頂尖的聲學實驗室。而我的職責包括移植基DSP演算法並配合音頻路徑及使用儀器測試聲學頻響失真，同時為韌體團隊在MCU(FreeRTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
+      Luxshare Precision specializes in the development of acoustic products, such as conference sound bars, headsets, and speakers (USB/BT-LEA/Dongle) with Teams and Zoom certification, and operates one of the top acoustic laboratories in Taiwan. My responsibilities include porting core DSP algorithms and integrating them with the audio path, as well as using instruments to test acoustic frequency response and distortion. I also support the firmware team on MCU (FreeRTOS), driver, API, and debugging issues. In addition, I am proficient in using Git for version control and source code management.
     </ul>
   </details>
 
@@ -191,9 +191,9 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <summary>Skills:</summary>
     <ul>
       <font color="gray">
-        Audio: DSP, ANC, Algotithm, BT(LE Audio), Teams, Zoom<br>
+        <font color="Green">Audio: DSP, ANC, Algotithm, Audition, SoundCheck, BT(LE Audio), Teams, Zoom</font><br>
         PL: C, Python, Matlab<br>
-        Tool: Jira, Git, Audio precision, Oscilloscope, SoundCheck, USB analyzer, Audition, Multimeter</font>
+        Tool: Jira, Git, Audio precision, Oscilloscope, USB analyzer, Multimeter</font>
     </ul>
   </details>
     
