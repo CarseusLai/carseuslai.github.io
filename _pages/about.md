@@ -437,7 +437,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
       border-radius: 30px; /* 可選，讓邊角稍圓 */
     ">
-    台灣之星 Taiwan Star Telecom<br><br>
+    台灣之星 Taiwan Star Telecom<br>
     <font color="black">彰化市門市 Changhua Store</font><br>
     <font color="brown">業務Sales</font><br>
     彰化市 Changhua, 2017.06~2018.04
@@ -476,7 +476,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
       border-radius: 30px; /* 可選，讓邊角稍圓 */
     ">
-      澳洲打工度假 Australia Working Holiday <br><br>
+      澳洲打工度假 Australia Working Holiday <br>
       <font color="black">農場包裝/採果工Farm Packer/Picker</font><br>
       <font color="brown">背包客Backpacker</font><br>
       澳洲東部諸州(布里斯本, 雪梨, 坎培拉, 墨爾本, 塔斯...)Eastern States of Australia, 2015.05.13~2017.02.24
@@ -510,7 +510,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
       border-radius: 30px; /* 可選，讓邊角稍圓 */
     ">
-     航空警察替代役 Substitute Military Service <br><br>
+     航空警察替代役 Substitute Military Service <br>
      <font color="black">航空警局察二隊一分隊Aviation Police Second Platoon Team 1</font><br>
      <font color="brown">記者Press Release</font><br>
      桃園市 - 大園區 Taoyuan - Dayuan, 2014.04.14~2015.04.10
@@ -545,7 +545,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
         box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
         border-radius: 30px; /* 可選，讓邊角稍圓 */
       ">
-     華藝國際Wayi International (Student Days)<br><br>
+     華藝國際Wayi International (Student Days)<br>
      <font color="black">SF Online電子競技射擊遊戲裁判隊(第二屆) SF Online e-Sports Referee Team</font><br>
      <font color="brown">裁判Referee</font><br>
      台灣中區 Central of Taiwan, 2011~2013
