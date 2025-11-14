@@ -102,7 +102,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BT-LEA/Dongle)與Teams, Zoom認證，且擁有全台名列頂尖的聲學實驗室。而我的職責包括移植基DSP演算法並配合音頻路徑及使用儀器測試聲學頻響失真，同時為韌體團隊在MCU(FreeRTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
+      <span style="white-space: pre;">　　</span>立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BT-LEA/Dongle)與Teams, Zoom認證，且擁有全台名列頂尖的聲學實驗室。而我的職責包括移植基DSP演算法並配合音頻路徑及使用儀器測試聲學頻響失真，同時為韌體團隊在MCU(FreeRTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
       Luxshare Precision specializes in the development of acoustic products, such as conference sound bars, headsets, and speakers (USB/BT-LEA/Dongle) with Teams and Zoom certification, and operates one of the top acoustic laboratories in Taiwan. My responsibilities include porting core DSP algorithms and integrating them with the audio path, as well as using instruments to test acoustic frequency response and distortion. I also support the firmware team on MCU (FreeRTOS), driver, API, and debugging issues. In addition, I am proficient in using Git for version control and source code management.
     </ul>
   </details>
@@ -219,7 +219,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      美訊主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。<br>
+      <span style="white-space: pre;">　　</span>美訊主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。<br>
 2018 年至 2020 年間，我參與許多Dante會議及線上研討會，累積了豐富的 Dante Domain Manager (DDM) 配置和操作實務經驗與編寫擴大機的智能家居Control4驅動程式。我的工作涉及產品改進並提供解決方案以及對 MCU(ASM、C)進行編程，以控制 I2C、SPI、UART、GPIO、ADC 和 IR 等等介面進行資料傳輸。與硬體工程師緊密合作，設計流程圖。此外，我還提供業務的銷售支持，並代表公司參加了 2018 年至 2020 年在深圳、廣州、香港、澳門和成都等地舉辦的亞洲年度音頻展覽會。<br>
       Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
           From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM)and develop the Control4 smart home driver for the amplifier. My role involved product improvement, solution development, and programming MCUs(ASM, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).
@@ -442,7 +442,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      我的工作職責主要包括產品銷售與服務、客戶關係維護、門市營運以及相關行政工作。具體而言，包括介紹和銷售各種電信產品（例如手機、電話號碼、寬頻等）、提供客戶諮詢和協助、處理客戶的新申辦、續約、移轉等其他交易，以及維護門市環境和管理庫存。此外，還需要執行公司分配的新任務及處理客訴問題並參與季度的行銷活動。<br>
+      <span style="white-space: pre;">　　</span>我的工作職責主要包括產品銷售與服務、客戶關係維護、門市營運以及相關行政工作。具體而言，包括介紹和銷售各種電信產品（例如手機、電話號碼、寬頻等）、提供客戶諮詢和協助、處理客戶的新申辦、續約、移轉等其他交易，以及維護門市環境和管理庫存。此外，還需要執行公司分配的新任務及處理客訴問題並參與季度的行銷活動。<br>
       My job responsibilities mainly cover product sales and services, customer relationship maintenance, store operations, and related administrative duties. Specifically, 
           this includes introducing and selling various telecommunications products (such as mobile   phones, phone numbers, broadband, etc.), 
           providing customer consultation and assistance, handling customer applications, renewals, transfers, and other transactions, 
@@ -514,7 +514,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      時任警察替代役，負責在桃園機場第二航廈撰寫新聞稿，並與中天、東森、三立電視台等新傳媒駐場記者合作。<br>
+      <span style="white-space: pre;">　　</span>時任警察替代役，負責在桃園機場第二航廈撰寫新聞稿，並與中天、東森、三立電視台等新傳媒駐場記者合作。<br>
       As a substitute military serviceman responsible for writing press releases at Taoyuan Airport Terminal 2, collaborating with stationed airport reporters from media outlets such as CTI, EBC, SENT News, and others.
           <a href="https://www.youtube.com/watch?v=UvGSzAlZ3YM"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
           <a href="https://www.youtube.com/watch?v=m0o363c4kAk"><img src=' https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt="sym" width="15%"></a>
@@ -550,7 +550,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      曾經接受過線上FPS電競選手的訓練1年的時間，且擁有8年FPS遊戲經驗​，擔任SF online電競遊戲裁判(華藝國際 - 第二屆台灣中區)​兩年的時間。<br>
+      <span style="white-space: pre;">　　</span>曾經接受過線上FPS電競選手的訓練1年的時間，且擁有8年FPS遊戲經驗​，擔任SF online電競遊戲裁判(華藝國際 - 第二屆台灣中區)​兩年的時間。<br>
       I was trained by an FPS e-Sports player for 1 year and has 8 years of experience in FPS games.
       Served as a SF online e-Sports referee(Huayi International - the 2nd Central Region of Taiwan) for 2 years.
     </ul>
