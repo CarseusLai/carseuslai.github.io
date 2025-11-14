@@ -48,6 +48,7 @@ I specialize in product of audio and firmware development, with expertise in sys
   - Hardware Debugging
   - Git - TortoiseGit
   - Jira
+  
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
