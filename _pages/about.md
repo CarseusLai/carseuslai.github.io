@@ -144,7 +144,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     </div>
   <div class='paper-box-text' markdown="1">
 
-  <font color="Red">2025全球首款支援LE Audio且具備"多通話與多連線功能"，並取得Teams與Zoom認證的會議式喇叭</font>
+  <font color="Red">2025全球首款支援LE Audio且具備"多通話與多連線功能"，並取得Teams與Zoom認證的會議式喇叭</font><br>
   <font color="Red">2025 The world's first conference speakerphone supporting LE Audio with "multi-call and multi-link" functionality, featuring Teams and Zoom certification.</font><br>
   **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
   **Participated in** <br>
