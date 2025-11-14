@@ -94,7 +94,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       margin-right:8px; 
       box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
       border-radius:30px;">
-    立訊精密 Luxshare-ICT(SPPC) <br>  
+    立訊精密 Luxshare-ICT(SPPC) <br><br>
     <font color="black">音頻演算法開發部門Audio Algorithm Development Department</font><br>
     <font color="brown">♪ 聲學產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
     台北市 - 內湖區 Taipei - Neihu, 2022.08.01~Now
@@ -192,10 +192,10 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-        <li><font color="Black">Product Design</font></li>
-        <li><font color="#228B22">Audio:</font> <font color="#A9A9A9">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
-        <li><font color="#1E90FF">PL:</font> <font color="#A9A9A9">C, Python, Matlab</font></li>
-        <li>Tool: <font color="#A9A9A9">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font></li>
+        <font color="Black">Product Design</font><br>
+        <font color="#228B22">Audio:</font> <font color="#A9A9A9">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font><br>
+        <font color="#1E90FF">PL:</font> <font color="#A9A9A9">C, Python, Matlab</font><br>
+        Tool: <font color="#A9A9A9">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font>
     </ul>
   </details>
     
@@ -213,7 +213,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 20px; /* 可選，讓邊角稍圓 */
 ">
-      美訊實業 Mansion Industry(McLELLAND)<br>
+      美訊實業 Mansion Industry(McLELLAND)<br><br>
       <font color="black">韌體開發部門 Firmware Development Department</font><br>
       <font color="brown">♩ 音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer</font><br>
       中國 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07.15~2022.07.31
