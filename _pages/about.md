@@ -89,8 +89,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <br>
     <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
     class="logo" 
-      style="width:45px; 
-      height:45px; 
+      style="width:60px; 
+      height:60px; 
       margin-right:8px; 
       box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
       border-radius:30px;">
@@ -206,8 +206,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_100_100/company-logo_100_100/0/1630631911515?e=1763596800&v=beta&t=cpHKtjGiPJoTpvv_X2r2Xx_28w9VAjH5T3KYqxRZa2o" 
   alt="logo" style="
-  width: 45px; 
-  height: 45px; 
+  width: 60px; 
+  height: 60px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
