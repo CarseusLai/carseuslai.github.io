@@ -192,7 +192,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-        <font color="Black">Product Design</font><br>
+        <li><font color="Black">Product Design</font></li><br>
         <font color="#228B22">Audio:</font> <font color="#A9A9A9">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font><br>
         <font color="#1E90FF">PL:</font> <font color="#A9A9A9">C, Python, Matlab</font><br>
         Tool: <font color="#A9A9A9">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font>
@@ -408,7 +408,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <font color="Black">Project Management</font><br>
+      <li><font color="Black">Project Management</font></li><br>
       <font color="#228B22">Audio:</font> <font color="#A9A9A9">Dante AV, AES67, CSP, AP</font><br>
       <font color="#1E90FF">PL:</font> <font color="#A9A9A9">ASM, C, Python, Matlab, Java, Lua</font><br>
       Tool: <font color="#A9A9A9">Oscilloscope, Logic analyzer, Multimeter</font>
