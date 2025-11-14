@@ -51,7 +51,7 @@ I specialize in product of audio and firmware development, with expertise in sys
 - <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
-  Audio Precision, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
+  Audio Precision, Soundcheck, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
 - <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   System Analysis
 </span>
@@ -405,7 +405,10 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <font color="gray">Project management, Dante, AES67, ASM, C, Python, Java, Lua, Audio precision, Oscilloscope, Logic analyzer, Multimeter</font>
+      <font color="Black">Project management</font>
+      <font color="#228B22">Audio:</font> <font color="#A9A9A9">Dante AV, AES67, CSP, AP</font><br>
+      <font color="#1E90FF">PL:</font> <font color="#A9A9A9">ASM, C, Python, Matlab, Java, Lua</font><br>
+      Tool: <font color="#A9A9A9">Oscilloscope, Logic analyzer, Multimeter</font>
     </ul>
   </details>
 
