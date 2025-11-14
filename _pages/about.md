@@ -214,7 +214,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 30px; /* 可選，讓邊角稍圓 */
 ">
-      美訊實業 Mansion Industry(McLELLAND)<br><br>
+      美訊實業 Mansion Industry(McLELLAND)<br>
       <font color="black">韌體開發部門 Firmware Development Department</font><br>
       <font color="brown">♩ 音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer</font><br>
       中國 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07.15~2022.07.31
