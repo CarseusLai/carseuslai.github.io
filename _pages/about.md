@@ -193,7 +193,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       <font color="gray">
         <font color="#228B22">Audio:</font> <font color="#A9A9A9">DSP, ANC, Algotithm, AP, SC, Audition, UAC, BT-LEA, Teams, Zoom</font><br>
         <font color="#1E90FF">PL:</font> <font color="#A9A9A9">C, Python, Matlab</font><br>
-        Tool: <font color="#A9A9A9">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font>
+        Tool: <font color="#A9A9A9">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font><br>
     </ul>
   </details>
     
