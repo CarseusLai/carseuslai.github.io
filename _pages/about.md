@@ -211,7 +211,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 20px; /* 可選，讓邊角稍圓 */
+  border-radius: 30px; /* 可選，讓邊角稍圓 */
 ">
       美訊實業 Mansion Industry(McLELLAND)<br><br>
       <font color="black">韌體開發部門 Firmware Development Department</font><br>
@@ -429,12 +429,12 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-content">
     <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_100_100/company-logo_100_100/0/1640702287175?e=1763596800&v=beta&t=e0xLQvDOp0Uu_bQ1FJSc-HLO4ZqfOyka-9_bJFocJ4A" 
       alt="logo" style="
-      width: 45px; 
-      height: 45px; 
+      width: 60px; 
+      height: 60px; 
       margin-right: 8px; 
       /*border: 1px solid black; /* 四周黑線 */
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-      border-radius: 20px; /* 可選，讓邊角稍圓 */
+      border-radius: 30px; /* 可選，讓邊角稍圓 */
     ">
     台灣之星 Taiwan Star Telecom<br><br>
     <font color="black">彰化市門市 Changhua Store</font><br>
@@ -468,12 +468,12 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C560BAQGOa1KKM7EIfQ/company-logo_100_100/company-logo_100_100/0/1630639615112?e=1763596800&v=beta&t=XgXzsN8LOH6JGQoRmu9i56kr-9FmGRB81JUsdmc8rU4" 
       alt="logo" style="
-      width: 45px; 
-      height: 45px; 
+      width: 60px; 
+      height: 60px; 
       margin-right: 8px; 
       /*border: 1px solid black; /* 四周黑線 */
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-      border-radius: 20px; /* 可選，讓邊角稍圓 */
+      border-radius: 30px; /* 可選，讓邊角稍圓 */
     ">
       澳洲打工度假 Australia Working Holiday <br><br>
       <font color="black">農場包裝/採果工Farm Packer/Picker</font><br>
@@ -502,12 +502,12 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C560BAQF5Nwucr2wehw/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630670973337?e=1763596800&v=beta&t=pKBSsVU0u-jtHv2SJfTwoPNQ76bbDPsSToipTT9-lQE" 
       alt="logo" style="
-      width: 45px; 
-      height: 45px; 
+      width: 60px; 
+      height: 60px; 
       margin-right: 8px; 
       /*border: 1px solid black; /* 四周黑線 */
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-      border-radius: 20px; /* 可選，讓邊角稍圓 */
+      border-radius: 30px; /* 可選，讓邊角稍圓 */
     ">
      航空警察替代役 Substitute Military Service <br><br>
      <font color="black">航空警局察二隊一分隊Aviation Police Second Platoon Team 1</font><br>
@@ -537,12 +537,12 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_100_100/company-logo_100_100/0/1631318290475?e=1763596800&v=beta&t=VjFlumaF7zg_sKGeYgWkql8QE33FLhqTAi2yH2rdiJQ" 
         alt="logo" style="
-        width: 45px; 
-        height: 45px; 
+        width: 60px; 
+        height: 60px; 
         margin-right: 8px; 
         /* border: 1px solid black; /* 四周黑線 */
         box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-        border-radius: 20px; /* 可選，讓邊角稍圓 */
+        border-radius: 30px; /* 可選，讓邊角稍圓 */
       ">
      華藝國際Wayi International (Student Days)<br><br>
      <font color="black">SF Online電子競技射擊遊戲裁判隊(第二屆) SF Online e-Sports Referee Team</font><br>
