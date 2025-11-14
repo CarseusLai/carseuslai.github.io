@@ -53,13 +53,16 @@ I specialize in product of audio and firmware development, with expertise in sys
   Measuring Tool
 </span>
   Audio Precision, Soundcheck, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
+  
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   System Analysis
 </span>
+
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Adobe
 </span>
 Audition, Premiere Pro, Photoshop, Illustrator
+
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Others
 </span>
