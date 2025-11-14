@@ -191,9 +191,9 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <summary>Skills:</summary>
     <ul>
       <font color="gray">
-        <font color="#228B22">Audio:</font> DSP, ANC, Algotithm, AP, SC, Audition, UAC, BT(LE Audio), Teams, Zoom<br>
-        <font color="#1E90FF">PL:</font> C, Python, Matlab<br>
-        <font color="#A9A9A9">Tool:</font> Jira, Git, Oscilloscope, USB analyzer, Multimeter</font>
+        <font color="#228B22">Audio:</font> <font color="#A9A9A9">DSP, ANC, Algotithm, AP, SC, Audition, UAC, BT-LEA, Teams, Zoom</font><br>
+        <font color="#1E90FF">PL:</font> <font color="#A9A9A9">C, Python, Matlab</font><br>
+        Tool: <font color="#A9A9A9">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font>
     </ul>
   </details>
     
