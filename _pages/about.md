@@ -22,7 +22,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑🏻‍🚀 Biography
-我擅於音頻產品與韌體的開發，並具備分析系統問題與除錯的能力。
+<span style="white-space: pre;">　　</span>我擅於音頻產品與韌體的開發，並具備分析系統問題與除錯的能力。
 擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，其重點在運用DSP EVK導入自適應濾波器來有效地降低水管中的噪音。<br>
 I specialize in product of audio and firmware development, with expertise in system analysis and debugging. I hold a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm” focused on simulating drain pipe noise and effectively reducing it using adaptive filtering techniques.<br>
 <br>
@@ -102,8 +102,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <span style="white-space: pre;">　　</span>立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BT-LEA/Dongle)與Teams, Zoom認證，且擁有全台名列頂尖的聲學實驗室。而我的職責包括移植基DSP演算法並配合音頻路徑及使用儀器測試聲學頻響失真，同時為韌體團隊在MCU(FreeRTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
-      Luxshare Precision specializes in the development of acoustic products, such as conference sound bars, headsets, and speakers (USB/BT-LEA/Dongle) with Teams and Zoom certification, and operates one of the top acoustic laboratories in Taiwan. My responsibilities include porting core DSP algorithms and integrating them with the audio path, as well as using instruments to test acoustic frequency response and distortion. I also support the firmware team on MCU (FreeRTOS), driver, API, and debugging issues. In addition, I am proficient in using Git for version control and source code management.
+      <span style="white-space: pre;">　　</span>立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BT/BLE/Dongle)與Teams, Zoom認證，且擁有全台名列頂尖的聲學實驗室。而我的職責包括移植基DSP演算法並配合音頻路徑及使用儀器測試聲學頻響失真，同時為韌體團隊在MCU(FreeRTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
+      Luxshare Precision specializes in the development of acoustic products, such as conference sound bars, headsets, and speakers (USB/BT/BLE/Dongle) with Teams and Zoom certification, and operates one of the top acoustic laboratories in Taiwan. My responsibilities include porting core DSP algorithms and integrating them with the audio path, as well as using instruments to test acoustic frequency response and distortion. I also support the firmware team on MCU (FreeRTOS), driver, API, and debugging issues. In addition, I am proficient in using Git for version control and source code management.
     </ul>
   </details>
 
@@ -133,7 +133,9 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       <img src='images/Dell Pro Plus SL525.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
-        
+
+  <font color="Red">2025年，全球首款支援 LE Audio 且具備多通話與多線功能，並取得Teams與Zoom認證的會議用揚聲電話機</font><br>
+  <font color="Red">2025 The world's first conference speakerphone supporting LE Audio with multi-call and multi-link functionality, featuring Teams and Zoom certification.</font>
   **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
   **Participated in** <br>
   - Collaborated with AE/PM/EE/FW
@@ -191,7 +193,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <summary>Skills:</summary>
     <ul>
         <font color="Black">Product Design</font><br>
-        <font color="#228B22">Audio:</font> <font color="#A9A9A9">DSP, ANC, Algotithm, AP, SC, Audition, UAC, BT-LEA, Teams, Zoom</font><br>
+        <font color="#228B22">Audio:</font> <font color="#A9A9A9">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font><br>
         <font color="#1E90FF">PL:</font> <font color="#A9A9A9">C, Python, Matlab</font><br>
         Tool: <font color="#A9A9A9">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font>
     </ul>
