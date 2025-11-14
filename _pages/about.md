@@ -87,11 +87,11 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-icon">2022.08</div>
   <div class="timeline-content">
     <br>
-    <span style="color:black; font-size:15px;">
+    <span style="color:black; font-size:18px;">
     <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
     class="logo" 
-      style="width:55px; 
-      height:55px; 
+      style="width:58px; 
+      height:58px; 
       margin-right:8px; 
       box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
       border-radius:30px;">
@@ -205,16 +205,17 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-item">
     <div class="timeline-icon">2018.07</div>
     <div class="timeline-content">
+     <span style="color:black; font-size:18px;">
       <img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_100_100/company-logo_100_100/0/1630631911515?e=1763596800&v=beta&t=cpHKtjGiPJoTpvv_X2r2Xx_28w9VAjH5T3KYqxRZa2o" 
   alt="logo" style="
-  width: 60px; 
-  height: 60px; 
+  width: 58px; 
+  height: 58px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 30px; /* 可選，讓邊角稍圓 */
 ">
-      美訊實業 Mansion Industry(McLELLAND)<br><br>
+      美訊實業 Mansion Industry(McLELLAND)</span><br><br>
       <font color="black">韌體開發部門 Firmware Development Department</font><br>
       <font color="brown">♩ 音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer</font><br>
       中國 - 深圳 / 新北市 - 新店區 China - ShenZhen / New Taipei - Xindian, 2018.07.15~2022.07.31
