@@ -216,8 +216,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C510BAQFKlmJxPKQ2Aw/company-logo_100_100/company-logo_100_100/0/1630631911515?e=1763596800&v=beta&t=cpHKtjGiPJoTpvv_X2r2Xx_28w9VAjH5T3KYqxRZa2o" 
   alt="logo" style="
-  width: 58px; 
-  height: 58px; 
+  width: 55px; 
+  height: 55px; 
   margin-right: 8px; 
   /*border: 1px solid black; /* 四周黑線 */
   box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
@@ -439,8 +439,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-content">
     <img src="https://media.licdn.com/dms/image/v2/C560BAQHsEnvnu3SKPA/company-logo_100_100/company-logo_100_100/0/1640702287175?e=1763596800&v=beta&t=e0xLQvDOp0Uu_bQ1FJSc-HLO4ZqfOyka-9_bJFocJ4A" 
       alt="logo" style="
-      width: 58px; 
-      height: 58px; 
+      width: 55px; 
+      height: 55px; 
       margin-right: 8px; 
       /*border: 1px solid black; /* 四周黑線 */
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
@@ -478,8 +478,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C560BAQGOa1KKM7EIfQ/company-logo_100_100/company-logo_100_100/0/1630639615112?e=1763596800&v=beta&t=XgXzsN8LOH6JGQoRmu9i56kr-9FmGRB81JUsdmc8rU4" 
       alt="logo" style="
-      width: 58px; 
-      height: 58px; 
+      width: 55px; 
+      height: 55px; 
       margin-right: 8px; 
       /*border: 1px solid black; /* 四周黑線 */
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
@@ -512,8 +512,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C560BAQF5Nwucr2wehw/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630670973337?e=1763596800&v=beta&t=pKBSsVU0u-jtHv2SJfTwoPNQ76bbDPsSToipTT9-lQE" 
       alt="logo" style="
-      width: 58px; 
-      height: 58px; 
+      width: 55px; 
+      height: 55px; 
       margin-right: 8px; 
       /*border: 1px solid black; /* 四周黑線 */
       box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
@@ -547,8 +547,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-content">
       <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGywQW1uVRmIA/company-logo_100_100/company-logo_100_100/0/1631318290475?e=1763596800&v=beta&t=VjFlumaF7zg_sKGeYgWkql8QE33FLhqTAi2yH2rdiJQ" 
         alt="logo" style="
-        width: 58px; 
-        height: 58px; 
+        width: 55px; 
+        height: 55px; 
         margin-right: 8px; 
         /* border: 1px solid black; /* 四周黑線 */
         box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
