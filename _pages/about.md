@@ -419,11 +419,11 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <details open>
     <summary>Skills:</summary>
     <ul>
-      <li><font color="#0d8fcd">Project Management</font><font color="#111111"></font></li>
-      <li><font color="#15a083">Product Type:</font><font color="#222222">Amplifier, Wireless transceiver, Spectrum analyser, Power conditioner, DB measuring</font></li>
+      <li><font color="#0d8fcd">Project Management</font> <font color="#111111"></font></li>
+      <li><font color="#15a083">Product Type:</font> <font color="#222222">Amplifier, Wireless transceiver, Spectrum analyser, Power conditioner, DB measuring</font></li>
       <li><font color="#28b48b">Audio:</font> <font color="#4b5157">Dante AV, AES67, CSP, AP</font></li>
       <li><font color="#4584b6">PL:</font> <font color="#666666">ASM, C, Python, Matlab, Java, Lua</font></li>
-      <li><font color="#7da3c1">Tool: </font><font color="#9099a1">Oscilloscope, Logic analyzer, Multimeter</font></li>
+      <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Oscilloscope, Logic analyzer, Multimeter</font></li>
     </ul>
   </details>
 
