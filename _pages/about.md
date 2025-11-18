@@ -203,10 +203,10 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <summary>Skills:</summary>
     <ul>
         <li><font color="#0d8fcd">Product Design</font><font color="#111111"></font></li>
-        <li><font color="#15a083">Product Type:</font> <font color="#333333">Speaker phone, Headset, USB DAC</font></li>
-        <li><font color="#8febd5">Audio:</font> <font color="#e3e3e3">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
-        <li><font color="#65a3cb">PL:</font> <font color="#cccccc">C, Python, Matlab</font></li>
-        <li><font color="#a6c6ea">Tool:</font> <font color="#e3e3e3">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font></li>
+        <li><font color="#15a083">Product Type:</font> <font color="#222222">Speaker phone, Headset, USB DAC</font></li>
+        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
+        <li><font color="#4584b6">PL:</font> <font color="#666666">C, Python, Matlab</font></li>
+        <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font></li>
     </ul>
   </details>
     
@@ -420,6 +420,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <summary>Skills:</summary>
     <ul>
       <li><font color="Black">Project Management</font></li>
+      <li></li>
       <li><font color="#228B22">Audio:</font> <font color="#A9A9A9">Dante AV, AES67, CSP, AP</font></li>
       <li><font color="#1E90FF">PL:</font> <font color="#A9A9A9">ASM, C, Python, Matlab, Java, Lua</font></li>
       <li>Tool: <font color="#A9A9A9">Oscilloscope, Logic analyzer, Multimeter</font></li>
