@@ -54,7 +54,7 @@ I specialize in product of audio and firmware development, with expertise in sys
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Measuring Tool
 </span>
-  Audio Precision, Soundcheck, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
+  Audio Precision, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
   
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   System Analysis
