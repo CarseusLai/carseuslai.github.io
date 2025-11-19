@@ -206,7 +206,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
         <li><font color="#15a083">Product Type:</font> <font color="#222222">Speaker phone, Headset, USB DAC</font></li>
         <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
         <li><font color="#4584b6">PL:</font> <font color="#666666">C, Python, Matlab</font></li>
-        <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Jira, Git, Oscilloscope, USB analyzer, Multimeter</font></li>
+        <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Jira, Git, Oscilloscope, HCI log(WireShark), USB analyzer, Multimeter</font></li>
     </ul>
   </details>
     
