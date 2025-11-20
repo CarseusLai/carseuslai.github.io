@@ -97,7 +97,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-content">
     <br>
     <span style="color:black; font-size:18px;">
-    <img src="https://media.licdn.com/dms/image/v2/C560BAQG87860G_l7BQ/company-logo_100_100/company-logo_100_100/0/1630654780861/luxshare_ict_logo?e=1763596800&v=beta&t=7tt6NeQe12oRmb2gLRsw_sNVygmOJ1tmU4vzE2CBzGY" 
+    <img src="company mark/luxshare.png" 
     class="logo" 
       style="width:65px; 
       height:65px; 
