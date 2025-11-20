@@ -620,7 +620,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 
 # 🎓 Education
 **<span style="color:black; font-size:15px;">
-<img src= 'images/NTUT.png' 
+<img src= 'company mark/NTUT.png' 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
