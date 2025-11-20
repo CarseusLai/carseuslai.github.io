@@ -439,7 +439,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-item">
   <div class="timeline-icon">2017.06</div>
   <div class="timeline-content">
-    <img src="'company mark/Tstar.png'" 
+    <img src= 'company mark/Tstar.png' 
       alt="logo" style="
       width: 55px; 
       height: 55px; 
