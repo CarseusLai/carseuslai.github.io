@@ -99,15 +99,16 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <span style="color:black; font-size:18px;">
     <img src='company mark/luxshare.png'
     class="logo" 
-      style="width:65px; 
-      height:65px; 
+      style="width:55px; 
+      height:55px; 
       margin-right:8px; 
       box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
-      border-radius:40px;">
+      border-radius:40px;"
+      >
     立訊精密 Luxshare-ICT(SPPC)</span> <br>
     <font color="black">音頻演算法開發部門Audio Algorithm Development Department</font><br>
     <font color="brown">♪ 聲學產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
-    台北市 - 內湖區 Taipei - Neihu, 2022.08.01~Now
+    台北市 - 內湖區 Taipei - Neihu, 2022.08.01~2025.11.28
 
   <details>
     <summary>Job Descriptions:</summary>
