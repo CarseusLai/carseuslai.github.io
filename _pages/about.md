@@ -97,7 +97,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-content">
     <br>
     <span style="color:black; font-size:18px;">
-    <img src='company mark/luxshare.png'
+    <img src='company logo/luxshare.png'
     class="logo" 
       style="width:55px; 
       height:55px; 
@@ -216,7 +216,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-item">
     <div class="timeline-icon">2018.07</div>
     <div class="timeline-content">
-      <img src= 'company mark/mansion.png'
+      <img src= 'company logo/mansion.png'
   alt="logo" style="
   width: 55px; 
   height: 55px; 
@@ -440,7 +440,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-item">
   <div class="timeline-icon">2017.06</div>
   <div class="timeline-content">
-    <img src= 'company mark/Tstar.png' 
+    <img src= 'company logo/Tstar.png' 
       alt="logo" style="
       width: 55px; 
       height: 55px; 
@@ -479,7 +479,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-item">
     <div class="timeline-icon">2015.05</div>
     <div class="timeline-content">
-      <img src= 'company mark/WHV_AU.png' 
+      <img src= 'company logo/WHV_AU.png' 
       alt="logo" style="
       width: 55px; 
       height: 55px; 
@@ -513,7 +513,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
    <div class="timeline-item">
     <div class="timeline-icon">2014.04</div>
     <div class="timeline-content">
-      <img src= 'company mark/Taoyuan International Airport.png' 
+      <img src= 'company logo/Taoyuan International Airport.png' 
       alt="logo" style="
       width: 55px; 
       height: 55px; 
@@ -548,7 +548,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-item">
     <div class="timeline-icon">2011</div>
     <div class="timeline-content">
-      <img src= 'company mark/wayi.png'
+      <img src= 'company logo/wayi.png'
         alt="logo" style="
         width: 55px; 
         height: 55px; 
@@ -621,7 +621,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 
 # 🎓 Education
 **<span style="color:black; font-size:15px;">
-<img src= 'company mark/NTUT.png' 
+<img src= 'company logo/NTUT.png' 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
