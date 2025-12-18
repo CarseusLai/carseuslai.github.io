@@ -73,6 +73,12 @@ Audition, Premiere Pro, Photoshop, Illustrator
 Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS gamer, Pick/Pack of fruit
  <br>
 
+<span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+  AI-Assisted
+</span>
+Gemini
+ <br>
+
 <div id="hackerrank-level"></div>
 
 ---
