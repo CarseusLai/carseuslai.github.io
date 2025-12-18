@@ -35,7 +35,7 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 ## 🛠 Skill
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
-  AI-Assisted
+  AI Productivity
 </span>
 Gemini
  <br>
