@@ -37,7 +37,7 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   AI Productivity
 </span>
-Gemini
+Cursor Coding, Gemini
  <br>
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
