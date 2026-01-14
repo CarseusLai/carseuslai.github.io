@@ -43,7 +43,7 @@ Jira
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   AI Productivity
 </span>
-Cursor(Opus 4.5, Sonnet 4.5, Gemini Pro), Gemini Pro
+Cursor<->Antigravity<->Claude Code(Opus 4.5, Sonnet 4.5, Gemini Pro), Gemini Pro
  <br>
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
