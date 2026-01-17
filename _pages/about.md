@@ -43,7 +43,7 @@ Jira
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   AI Productivity
 </span>
-Antigravity(Opus 4.5, Sonnet 4.5, Gemini Pro), Gemini Pro
+Antigravity(Opus 4.5, Sonnet 4.5, Gemini Pro)
  <br>
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
@@ -59,7 +59,7 @@ ASM, C, Python, Matlab, Java, VB.net, C#
   - MCU - Airoha-AB15, PIC18, Atmel-AT89, NXP-LPC55, STC12/15, STM32, AT32, Arduino
   - DSP - TI-TMS320C6748(Thesis:NLMS Algorithm)
   - Hardware Debugging
-  - Git - TortoiseGit
+  - Git Tool - TortoiseGit
   - Jira
   <br>
   
