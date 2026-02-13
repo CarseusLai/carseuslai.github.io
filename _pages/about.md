@@ -44,7 +44,7 @@ Jira
   AI-Augmented Development & Automation
 </span>
  - Custom AI Agent Development: Leveraging LLMs (Claude/Gemini) to automate routine coding tasks
- - Tools: VS Code (Cline/Claude Dev), Antigravity (Gemini Pro CLI integration)
+ - Tools: VS Code (Claude Code), Antigravity (Gemini Pro)
  <br>
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
