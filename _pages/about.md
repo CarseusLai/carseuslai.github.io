@@ -41,9 +41,10 @@ Jira
  <br>
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
-  AI Productivity(own agent skill)
+  AI-Augmented Development & Automation
 </span>
-VS Code(claude code), Antigravity(Gemini Pro)
+ - Custom AI Agent Development: Leveraging LLMs (Claude/Gemini) to automate routine coding tasks
+ - Tools: VS Code (Cline/Claude Dev), Antigravity (Gemini Pro CLI integration)
  <br>
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
