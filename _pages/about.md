@@ -57,7 +57,7 @@ ASM, C, Python, Matlab, Java, VB.net, C#
 <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Firmware
 </span>
-  - Embedded Linux - Raspberry Pi 4B, RedPitaya STEMlab 125-14
+  - Embedded Linux - Raspberry Pi-4B, RedPitaya STEMlab-125-14
   - MCU - Nuvoton-M480, Airoha-AB15, PIC18F, Atmel-AT89, NXP-LPC55, STC12/15, STM32, AT32
   - DSP - TI-TMS320C6748(Thesis:NLMS Algorithm)
   - Hardware Debugging
