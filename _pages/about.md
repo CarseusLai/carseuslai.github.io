@@ -238,7 +238,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-icon">2022.08</div>
   <div class="timeline-content">
   <img src='company logo/luxshare.png'
-  class="logo" 
+  alt="logo" 
     style="width:55px; 
     height:55px; 
     margin-right:8px; 
