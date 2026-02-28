@@ -238,19 +238,18 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-icon">2022.08</div>
   <div class="timeline-content">
     <br>
-    <span style="color:black; font-size:18px;">
-    <img src='company logo/luxshare.png'
-    class="logo" 
-      style="width:55px; 
-      height:55px; 
-      margin-right:8px; 
-      box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
-      border-radius:30px;"
-      >
-    立訊精密 Luxshare-ICT(SPPC)</span> <br>
-    <font color="black">音頻演算法開發部門Audio Algorithm Development Department</font><br>
-    <font color="brown">♪ 聲學產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
-    台北市 - 內湖區 Taipei - Neihu, 2022.08.01~2025.11.28
+  <img src='company logo/luxshare.png'
+  class="logo" 
+    style="width:55px; 
+    height:55px; 
+    margin-right:8px; 
+    box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
+    border-radius:30px;"
+    >
+  立訊精密 Luxshare-ICT(SPPC) <br>
+  <font color="black">音頻演算法開發部門Audio Algorithm Development Department</font><br>
+  <font color="brown">♪ 聲學產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
+  台北市 - 內湖區 Taipei - Neihu, 2022.08.01~2025.11.28
 
   <details>
     <summary>Job Descriptions:</summary>
