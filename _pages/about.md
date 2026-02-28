@@ -109,7 +109,6 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-item">
   <div class="timeline-icon">2025.12</div>
   <div class="timeline-content">
-    <br>
     <span style="color:black; font-size:18px;">
     <img src='company logo/Harbor.png'
     class="logo" 
