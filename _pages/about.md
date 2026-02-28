@@ -107,6 +107,134 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 # 💼 Work Experience
 <div class="timeline">
   <div class="timeline-item">
+  <div class="timeline-icon">2025.12</div>
+  <div class="timeline-content">
+    <br>
+    <span style="color:black; font-size:18px;">
+    <img src='company logo/HarborTech.png'
+    class="logo" 
+      style="width:55px; 
+      height:55px; 
+      margin-right:8px; 
+      box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
+      border-radius:40px;"
+      >
+    皓博科技 Harbor Techonlogy Solutions</span> <br>
+    <font color="black">軟體二部Sofware Development Department 2</font><br>
+    <font color="brown">♪ 韌體副理Firmware Assistant Manager</font><br>
+    台北市 - 信義區 Taipei - Xinyi, 2025.12.08~
+
+  <details>
+    <summary>Job Descriptions:</summary>
+    <ul>
+      <span style="white-space: pre;">　　</span>皓博科技。<br>
+      Harbor Techonlogy Solutions.
+    </ul>
+  </details>
+
+  <!--#<details>
+  <summary> <font color="Blue">Completed Projects:</font></summary>
+    <ul>
+
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+      <a href="https://www.dell.com/en-us/shop/dell-pro-premium-conferencing-soundbar-sb725/apd/520-bblx/home-theater">Pro Premium SB725</a>
+      <img src='images/Dell Pro Premium SB725.png' alt="sym" width="70%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+
+  **<font color="green">Conference Speaker Phone(USB)</font>**<br>
+  **Participated in** <br>
+  - Collaborated with AE
+  - Firmware development
+    - Porting spatial audio of luxshare algorithm.
+  </div>
+  </div>
+
+  
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+      <a href="https://www.dell.com/en-us/shop/dell-pro-plus-wireless-speakerphone-sl525/apd/520-bbmv/audio">Pro Plus SL525</a>
+      <img src='images/Dell Pro Plus SL525.png' alt="sym" width="80%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+
+  <font color="Red">2025全球首款支援LE Audio且具備 **多通話與多連線功能** ，並取得Teams與Zoom認證的會議式喇叭</font><br>
+  <font color="Red">2025 The world's first conference speakerphone supporting LE Audio with **multi-call and multi-link** functionality, featuring Teams and Zoom certification.</font><br>
+  **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
+  **Participated in** <br>
+  - Collaborated with AE/PM/EE/FW
+  - Firmware development
+    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
+    - Porting luxshare algorithm and arrangement audio path.
+  - Acoustic analysis
+    - Using Audio precision to verify luxshare algorithm in Playback.
+  </div>
+  </div>
+
+  
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+       In-house development
+      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Two-way AINR dongle(USB/AUX)</font>**<br>
+  **Led the design and implementation** <br>
+  - Collaborated with AE/PM/EE/FW
+  - Firmware development
+    - Control DSP AINR level on downlink and uplink.
+  - Acoustic analysis
+    - Using Audio precision to verify ANC algorithm in playback, phone and I2S data.
+    - Define specific sample rate and data format for downlink and uplink.
+    - Verify UAC protocol and measure clock jitter.
+  </div>
+  </div>
+
+  
+  <div class='paper-box'>
+    <div class='paper-box-image'><div>
+       In-house development
+      <img src='images/Dual Speaker.png' alt="sym" width="70%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">Dual Speaker(USB/BT/DONGLE)</font> - daisy-chaining 2 units**<br>
+  **Participated in** <br>
+  - Collaborated with AE/FW
+  - Firmware development
+    - Porting luxshare algorithm.
+  - Acoustic analysis
+    - Using Audio precision to verify luxshare algorithm in playback and I2S data.
+  </div>
+  </div>
+
+  
+  </ul>
+  </details>
+
+  <details open>
+    <summary>Skills:</summary>
+    <ul>
+        <li><font color="#0d8fcd">Product Design</font><font color="#111111"></font></li>
+        <li><font color="#15a083">Product Type:</font> <font color="#222222">Speaker phone, Headset, USB DAC</font></li>
+        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
+        <li><font color="#4584b6">PL:</font> <font color="#666666">C, Python, Matlab</font></li>
+        <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Jira, Git, HCI log(WireShark), USB analyzer, Oscilloscope, Multimeter</font></li>
+    </ul>
+  </details>
+  
+  -->
+  
+
+   </div>
+  </div>
+
+
+
+  
+  <div class="timeline-item">
   <div class="timeline-icon">2022.08</div>
   <div class="timeline-content">
     <br>
