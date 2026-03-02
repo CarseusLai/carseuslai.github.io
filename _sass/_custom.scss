@@ -1,0 +1,29 @@
+// Custom styles for carseuslai.github.io
+
+// Company logo in work experience timeline
+.company-logo {
+  width: 55px;
+  height: 55px;
+  margin-right: 8px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 30px;
+}
+
+// Skill category badge
+.skill-badge {
+  background-color: #666666;
+  color: #ffffff;
+  border-radius: 17px;
+  padding: 5px 12px;
+  font-weight: 300;
+  font-family: Arial, sans-serif;
+  display: inline-block;
+}
+
+// Education section logo (no shadow, square corners)
+.edu-logo {
+  width: 60px;
+  height: 60px;
+  margin-right: 8px;
+  border-radius: 0px;
+}

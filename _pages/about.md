@@ -34,27 +34,27 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 
 ## 🛠 Skill
 
-<span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+<span class="skill-badge">
   Project Management
 </span>
 Jira
  <br>
 
-<span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+<span class="skill-badge">
   AI-Augmented Development & Automation
 </span>
  Custom AI Agent : Leveraging Claude/Gemini to automate routine coding tasks
  - Tool -  VS Code (Claude Code), Antigravity (Gemini Pro)
  <br>
 
-<span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+<span class="skill-badge">
   PL
 </span>
 ASM, C, Python, Matlab, Java, VB.net, C#
 <a href="https://www.hackerrank.com/carseus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sym" width="16%"></a><!--<a href="https://leetcode.com/u/Carseus/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sym" width="17%"></a> -->
   
  
-<span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+<span class="skill-badge">
   Firmware
 </span>
   - Embedded Linux - Raspberry Pi-4B, RedPitaya STEMlab-125-14
@@ -65,23 +65,24 @@ ASM, C, Python, Matlab, Java, VB.net, C#
   - Jira
   <br>
   
-<span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+<span class="skill-badge">
   Measuring Tool
 </span>
   Audio Precision, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
   
-<span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+<span class="skill-badge">
   System Analysis
 </span>
+<!-- TODO: 補充 System Analysis 具體技能 -->
  <br>
  
-<span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+<span class="skill-badge">
   Adobe
 </span>
 Audition, Premiere Pro, Photoshop, Illustrator
  <br>
  
-<span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
+<span class="skill-badge">
   Others
 </span>
 Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS gamer, Pick/Pack of fruit
@@ -92,12 +93,12 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 ---
 
 ## 🎖 License
-- *2025.08.13*: HankerRank - Problem Solving(Basic)
+- *2025.08.13*: HackerRank - Problem Solving(Basic)
 - *2020.12.31*: Udemy - 學習和理解Node.JS
 - *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站
-- *2020.02.17*: Audinate - Dnate Certification Level 3
-- *2020.02.04*: Audinate - Dnate Certification Level 2
-- *2019.02.27*: Audinate - Dnate Certification Level 1
+- *2020.02.17*: Audinate - Dante Certification Level 3
+- *2020.02.04*: Audinate - Dante Certification Level 2
+- *2019.02.27*: Audinate - Dante Certification Level 1
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214)
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214)
 - *2008*: Workforce Development Agency - Level B technician for computer hardware decoration
@@ -110,121 +111,24 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-icon">2025.12</div>
   <div class="timeline-content">
     <span style="color:black; font-size:18px;">
-    <img src='company logo/Harbor.png'
-    class="logo" 
-      style="width:55px; 
-      height:55px; 
-      margin-right:8px; 
-      box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
-      border-radius:40px;"
-      >
-    皓博科技 Harbor Techonlogy Solutions</span> <br>
-    <font color="black">軟體二部Sofware Development Department 2</font><br>
+    <img src='images/company-logo/Harbor.png' class="company-logo">
+    皓博科技 Harbor Technology Solutions</span> <br>
+    <font color="black">軟體二部Software Development Department 2</font><br>
     <font color="brown">♪ 韌體副理Firmware Assistant Manager</font><br>
     台北市 - 信義區 Taipei - Xinyi, 2025.12.08~
 
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
+      <!-- TODO: 補充 Harbor 的職責描述（中英文） -->
       <span style="white-space: pre;">　　</span>皓博科技。<br>
-      Harbor Techonlogy Solutions.
+      Harbor Technology Solutions.
     </ul>
   </details>
 
-  <!--#<details>
-  <summary> <font color="Blue">Completed Projects:</font></summary>
-    <ul>
+  <!-- TODO: 補充 Harbor 的 Completed Projects -->
 
-  <div class='paper-box'>
-    <div class='paper-box-image'><div>
-      <a href="https://www.dell.com/en-us/shop/dell-pro-premium-conferencing-soundbar-sb725/apd/520-bblx/home-theater">Pro Premium SB725</a>
-      <img src='images/Dell Pro Premium SB725.png' alt="sym" width="70%"></div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-
-  **<font color="green">Conference Speaker Phone(USB)</font>**<br>
-  **Participated in** <br>
-  - Collaborated with AE
-  - Firmware development
-    - Porting spatial audio of luxshare algorithm.
-  </div>
-  </div>
-
-  
-  <div class='paper-box'>
-    <div class='paper-box-image'><div>
-      <a href="https://www.dell.com/en-us/shop/dell-pro-plus-wireless-speakerphone-sl525/apd/520-bbmv/audio">Pro Plus SL525</a>
-      <img src='images/Dell Pro Plus SL525.png' alt="sym" width="80%"></div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-
-  <font color="Red">2025全球首款支援LE Audio且具備 **多通話與多連線功能** ，並取得Teams與Zoom認證的會議式喇叭</font><br>
-  <font color="Red">2025 The world's first conference speakerphone supporting LE Audio with **multi-call and multi-link** functionality, featuring Teams and Zoom certification.</font><br>
-  **<font color="green">Conference Speaker Phone(USB/BT/BLE/DONGLE)</font>**<br>
-  **Participated in** <br>
-  - Collaborated with AE/PM/EE/FW
-  - Firmware development
-    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
-    - Porting luxshare algorithm and arrangement audio path.
-  - Acoustic analysis
-    - Using Audio precision to verify luxshare algorithm in Playback.
-  </div>
-  </div>
-
-  
-  <div class='paper-box'>
-    <div class='paper-box-image'><div>
-       In-house development
-      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **<font color="green">Two-way AINR dongle(USB/AUX)</font>**<br>
-  **Led the design and implementation** <br>
-  - Collaborated with AE/PM/EE/FW
-  - Firmware development
-    - Control DSP AINR level on downlink and uplink.
-  - Acoustic analysis
-    - Using Audio precision to verify ANC algorithm in playback, phone and I2S data.
-    - Define specific sample rate and data format for downlink and uplink.
-    - Verify UAC protocol and measure clock jitter.
-  </div>
-  </div>
-
-  
-  <div class='paper-box'>
-    <div class='paper-box-image'><div>
-       In-house development
-      <img src='images/Dual Speaker.png' alt="sym" width="70%"></div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **<font color="green">Dual Speaker(USB/BT/DONGLE)</font> - daisy-chaining 2 units**<br>
-  **Participated in** <br>
-  - Collaborated with AE/FW
-  - Firmware development
-    - Porting luxshare algorithm.
-  - Acoustic analysis
-    - Using Audio precision to verify luxshare algorithm in playback and I2S data.
-  </div>
-  </div>
-
-  
-  </ul>
-  </details>
-
-  <details open>
-    <summary>Skills:</summary>
-    <ul>
-        <li><font color="#0d8fcd">Product Design</font><font color="#111111"></font></li>
-        <li><font color="#15a083">Product Type:</font> <font color="#222222">Speaker phone, Headset, USB DAC</font></li>
-        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
-        <li><font color="#4584b6">PL:</font> <font color="#666666">C, Python, Matlab</font></li>
-        <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Jira, Git, HCI log(WireShark), USB analyzer, Oscilloscope, Multimeter</font></li>
-    </ul>
-  </details>
-  
-  -->
+  <!-- TODO: 補充 Harbor 的 Skills -->
   
 
    </div>
@@ -236,14 +140,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-item">
   <div class="timeline-icon">2022.08</div>
   <div class="timeline-content">
-  <img src='company logo/luxshare.png'
-  alt="logo" 
-    style="width:55px; 
-    height:55px; 
-    margin-right:8px; 
-    box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
-    border-radius:30px;"
-    >
+  <img src='images/company-logo/luxshare.png' alt="logo" class="company-logo">
   立訊精密 Luxshare-ICT(SPPC) <br>
   <font color="black">音頻演算法開發部門Audio Algorithm Development Department</font><br>
   <font color="brown">♪ 聲學產品設計/韌體工程師Acoustics Product Design / Firmware Engineer</font><br>
@@ -264,7 +161,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class='paper-box'>
     <div class='paper-box-image'><div>
       <a href="https://www.dell.com/en-us/shop/dell-pro-premium-conferencing-soundbar-sb725/apd/520-bblx/home-theater">Pro Premium SB725</a>
-      <img src='images/Dell Pro Premium SB725.png' alt="sym" width="70%"></div>
+      <img src='images/work/luxshare/Dell Pro Premium SB725.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
 
@@ -280,7 +177,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class='paper-box'>
     <div class='paper-box-image'><div>
       <a href="https://www.dell.com/en-us/shop/dell-pro-plus-wireless-speakerphone-sl525/apd/520-bbmv/audio">Pro Plus SL525</a>
-      <img src='images/Dell Pro Plus SL525.png' alt="sym" width="80%"></div>
+      <img src='images/work/luxshare/Dell Pro Plus SL525.png' alt="sym" width="80%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
 
@@ -290,7 +187,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   **Participated in** <br>
   - Collaborated with AE/PM/EE/FW
   - Firmware development
-    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
+    - Teams and Zoom action with UI/UX, charger, battery, io-expander, amp.
     - Porting luxshare algorithm and arrangement audio path.
   - Acoustic analysis
     - Using Audio precision to verify luxshare algorithm in Playback.
@@ -301,7 +198,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class='paper-box'>
     <div class='paper-box-image'><div>
        In-house development
-      <img src='images/two-way AINR dongle.png' alt="sym" width="70%"></div>
+      <img src='images/work/luxshare/two-way AINR dongle.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
   
@@ -321,7 +218,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class='paper-box'>
     <div class='paper-box-image'><div>
        In-house development
-      <img src='images/Dual Speaker.png' alt="sym" width="70%"></div>
+      <img src='images/work/luxshare/Dual Speaker.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
   
@@ -344,7 +241,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <ul>
         <li><font color="#0d8fcd">Product Design</font><font color="#111111"></font></li>
         <li><font color="#15a083">Product Type:</font> <font color="#222222">Speaker phone, Headset, USB DAC</font></li>
-        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
+        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algorithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
         <li><font color="#4584b6">PL:</font> <font color="#666666">C, Python, Matlab</font></li>
         <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Jira, Git, HCI log(WireShark), USB analyzer, Oscilloscope, Multimeter</font></li>
     </ul>
@@ -355,15 +252,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-item">
     <div class="timeline-icon">2018.07</div>
     <div class="timeline-content">
-      <img src= 'company logo/mansion.png'
-  alt="logo" style="
-  width: 55px; 
-  height: 55px; 
-  margin-right: 8px; 
-  /*border: 1px solid black; /* 四周黑線 */
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 30px; /* 可選，讓邊角稍圓 */
-">
+      <img src='images/company-logo/mansion.png' alt="logo" class="company-logo">
       美訊實業 Mansion Industry(McLELLAND)<br>
       <font color="black">韌體開發部門 Firmware Development Department</font><br>
       <font color="brown">♩ 音頻產品經理助理/韌體工程師 Audio Product Manager Assistant / Firmware Engineer</font><br>
@@ -384,7 +273,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.mclellandmusic.com/twproducts">**MAP-1650E</a>
-    <img src='images/McLELLAND MAP-1650E.png' alt="sym" width="90%"></div>
+    <img src='images/work/mansion/McLELLAND MAP-1650E.png' alt="sym" width="90%"></div>
   </div>
   
 <div class='paper-box-text' markdown="1">
@@ -402,7 +291,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     **DJ Mixer
-    <img src='images/DJ Mixer.png' alt="sym" width="90%"></div>
+    <img src='images/work/mansion/DJ Mixer.png' alt="sym" width="90%"></div>
   </div>
   
 <div class='paper-box-text' markdown="1">
@@ -419,7 +308,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
    McLELLAND Amplifier 1200[Serial]
-    <img src='images/Control4_Server.png' alt="sym" width="100%"></div>
+    <img src='images/work/mansion/Control4_Server.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 **<font color="green">Control 4 Smart Home Automation & Control Systems Driver</font>**<br>
@@ -433,7 +322,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/wsa-5rp-wireless-surround-sound-rear-speakers-kit-with-2-x-50w-amplifier-built-in">WSA-5RP </a>
-    <img src='images/Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers.png' alt="sym" width="90%"></div>
+    <img src='images/work/mansion/Dynasty ProAudio WSA-5RP Wireless Surround Sound Rear Speakers.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -450,7 +339,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://dynastyproaudio.com/collections/wireless-audio-solutions/products/dynasty-proaudio-wsa-5tr-wireless-speaker-starter-kit-wireless-subwoofer-powered-subwoofer-5-8ghz-wireless-technology-work-with-any-powered-subwoofer-active-speaker-45-channel-audio-transmitter-wsa-5tr">WSA-5TR</a>
-    <img src='images/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="80%"></div>
+    <img src='images/work/mansion/Dynasty ProAudio WSA-5TR Wireless Transmitter-Receiver.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -467,7 +356,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://tw.kef.com/products/bts30">BTS30</a><br>
-    <img src='images/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="70%"></div>
+    <img src='images/work/mansion/KEF BTS30 Bluetooth Keypad and Compact Amplifier System.png' alt="sym" width="70%"></div>
   </div>
   
 <div class='paper-box-text' markdown="1">
@@ -485,7 +374,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.thomann.co.uk/fun_generation_rta_31.htm">Fun Generation RTA-31</a>
-    <img src='images/Thomann Fun Generation RTA-31.png' alt="sym" width="90%"></div>
+    <img src='images/work/mansion/Thomann Fun Generation RTA-31.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -501,7 +390,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.blacklionaudio.com/store/power-conditioners/pg-2-power-conditioner/">PG-2</a>
-    <img src='images/BLACK LION PG-2 Power Conditioner.png' alt="sym" width="90%"></div>
+    <img src='images/work/mansion/BLACK LION PG-2 Power Conditioner.png' alt="sym" width="90%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -516,7 +405,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.soundavo.com/products/sld-1-db-display-with-measuring-microphone">SLD-1</a>
-    <img src='images/Soundavo SLD-1 DB Display with Measuring Microphone.png' alt="sym" width="80%"></div>
+    <img src='images/work/mansion/Soundavo SLD-1 DB Display with Measuring Microphone.png' alt="sym" width="80%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 **<font color="green">DB Display with Measuring Microphone</font>**<br>
@@ -529,7 +418,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.soundavo.com/collections/power-conditioner/products/pmx-3300">PMX-3300</a>
-    <img src='images/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="100%"></div>
+    <img src='images/work/mansion/Soundavo PMX-3300 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 **<font color="green">Power Conditioner</font>**<br>
@@ -543,7 +432,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <a href="https://www.soundavo.com/products/outlet-pmx-1100">PMX-1100</a>
-    <img src='images/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
+    <img src='images/work/mansion/Soundavo PMX-1100 Power Conditioner.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 **<font color="green">Power Conditioner</font>**<br>
@@ -579,15 +468,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   <div class="timeline-item">
   <div class="timeline-icon">2017.06</div>
   <div class="timeline-content">
-    <img src= 'company logo/Tstar.png' 
-      alt="logo" style="
-      width: 55px; 
-      height: 55px; 
-      margin-right: 8px; 
-      /*border: 1px solid black; /* 四周黑線 */
-      box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-      border-radius: 30px; /* 可選，讓邊角稍圓 */
-    ">
+    <img src='images/company-logo/Tstar.png' alt="logo" class="company-logo">
     台灣之星 Taiwan Star Telecom<br>
     <font color="black">彰化市門市 Changhua Store</font><br>
     <font color="brown">業務Sales</font><br>
@@ -618,15 +499,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-item">
     <div class="timeline-icon">2015.05</div>
     <div class="timeline-content">
-      <img src= 'company logo/WHV_AU.png' 
-      alt="logo" style="
-      width: 55px; 
-      height: 55px; 
-      margin-right: 8px; 
-      /*border: 1px solid black; /* 四周黑線 */
-      box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-      border-radius: 30px; /* 可選，讓邊角稍圓 */
-    ">
+      <img src='images/company-logo/WHV_AU.png' alt="logo" class="company-logo">
       澳洲打工度假 Australia Working Holiday <br>
       <font color="black">農場包裝/採果工Farm Packer/Picker</font><br>
       <font color="brown">背包客Backpacker</font><br>
@@ -652,15 +525,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
    <div class="timeline-item">
     <div class="timeline-icon">2014.04</div>
     <div class="timeline-content">
-      <img src= 'company logo/Taoyuan International Airport.png' 
-      alt="logo" style="
-      width: 55px; 
-      height: 55px; 
-      margin-right: 8px; 
-      /*border: 1px solid black; /* 四周黑線 */
-      box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-      border-radius: 30px; /* 可選，讓邊角稍圓 */
-    ">
+      <img src='images/company-logo/Taoyuan International Airport.png' alt="logo" class="company-logo">
      航空警察替代役 Substitute Military Service <br>
      <font color="black">航空警局察二隊一分隊Aviation Police Second Platoon Team 1</font><br>
      <font color="brown">記者Press Release</font><br>
@@ -687,15 +552,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <div class="timeline-item">
     <div class="timeline-icon">2011</div>
     <div class="timeline-content">
-      <img src= 'company logo/wayi.png'
-        alt="logo" style="
-        width: 55px; 
-        height: 55px; 
-        margin-right: 8px; 
-        /* border: 1px solid black; /* 四周黑線 */
-        box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-        border-radius: 30px; /* 可選，讓邊角稍圓 */
-      ">
+      <img src='images/company-logo/wayi.png' alt="logo" class="company-logo">
      華藝國際Wayi International (Student Days)<br>
      <font color="black">SF Online電子競技射擊遊戲裁判隊(第二屆) SF Online e-Sports Referee Team</font><br>
      <font color="brown">裁判Referee</font><br>
@@ -738,12 +595,12 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">-->
-Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align: right;font-size:15px;">
-  
+Outsourcing</span>**
+
   <div class='paper-box' style='background-color: #d3d3d3;'>
     <div class='paper-box-image'><div>
       <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
-      <img src='images/EB-SD.png' alt="sym" width="70%"></div>
+      <img src='images/side-project/EB-SD.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
   
@@ -760,27 +617,19 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 
 # 🎓 Education
 **<span style="color:black; font-size:15px;">
-<img src= 'company logo/NTUT.png' 
-  alt="logo" style="
-  width: 60px; 
-  height: 60px; 
-  margin-right: 8px; 
-  /*border: 1px solid black; /* 四周黑線 */
-  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 0px; /* 可選，讓邊角稍圓 */
-">
+<img src='images/company-logo/NTUT.png' alt="logo" class="edu-logo">
 2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**<br>
 **<span style="color:red; font-size:15px;">GPA: 3.88/4.0</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">NTUT2025</div>
-    <img src='images/Thesis.png' alt="sym" width="90%"></div>
+    <img src='images/education/Thesis.png' alt="sym" width="90%"></div>
   </div>
 
   <div class='paper-box-image'><div>
     <div class="badge">NTUT2025</div>
-    <img src='images/DSP.png' alt="sym" width="100%"></div>
+    <img src='images/education/DSP.png' alt="sym" width="100%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Journal<br>
@@ -795,12 +644,12 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CSSV2024</div>
-    <img src='images/Thesis Acoustic mode1.png' alt="sym" width="90%"></div>
+    <img src='images/education/Thesis Acoustic mode1.png' alt="sym" width="90%"></div>
   </div>
 
   <div class='paper-box-image'><div>
     <div class="badge">CSSV2024</div>
-    <img src='images/Thesis Acoustic mode2.png' alt="sym" width="130%"></div>
+    <img src='images/education/Thesis Acoustic mode2.png' alt="sym" width="130%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Conference<br>
@@ -811,26 +660,18 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 </div>
 
 **<span style="color:light-gray; font-size:15px;">
-<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
-  alt="logo" style="
-  width: 60px; 
-  height: 60px; 
-  margin-right: 8px; 
-  /*border: 1px solid black; /* 四周黑線 */
-  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 0px; /* 可選，讓邊角稍圓 */
-">
+<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" alt="logo" class="edu-logo">
 2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
 **<span style="color:gray; font-size:15px;">**left school without graduating</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">TXper2013</div>
-    <img src='images/Facedetection_txper.png' alt="sym" width="90%"></div>
+    <img src='images/education/Facedetection_txper.png' alt="sym" width="90%"></div>
   </div>
   <div class='paper-box-image'><div>
     <div class="badge">TXper2013</div>
-    <img src='images/Facedetection_txper_.png' alt="sym" width="120%"></div>
+    <img src='images/education/Facedetection_txper_.png' alt="sym" width="120%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 
@@ -846,25 +687,17 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 </div>
 
 **<span style="color:black; font-size:15px;">
-<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
-  alt="logo" style="
-  width: 60px; 
-  height: 60px; 
-  margin-right: 8px; 
-  /*border: 1px solid black; /* 四周黑線 */
-  /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
-  border-radius: 0px; /* 可選，讓邊角稍圓 */
-">
+<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" alt="logo" class="edu-logo">
 2009.09 - 2012.09, B.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
-    <img src='images/PTZ_and_CAR.png' alt="sym" width="90%"></div>
+    <img src='images/education/PTZ_and_CAR.png' alt="sym" width="90%"></div>
   </div>
   <div class='paper-box-image'><div>
     <div class="badge">CYUT2012</div>
-    <img src='images/PTZ_and_CAR_.png' alt="sym" width="110%"></div>
+    <img src='images/education/PTZ_and_CAR_.png' alt="sym" width="110%"></div>
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Monographs<br>
