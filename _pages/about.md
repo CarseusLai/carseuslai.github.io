@@ -63,7 +63,6 @@ ASM, C, Python, Matlab, Java, VB.net, C#
   - DSP - TI-TMS320C6748(Thesis:NLMS Algorithm)
   - Hardware Debugging
   - Git Tool - TortoiseGit
-  - Jira
   <br>
   
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
