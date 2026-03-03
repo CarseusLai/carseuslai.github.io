@@ -44,7 +44,7 @@ Jira
   AI-Augmented Development & Automation
 </span>
 <br>
- Custom AI Agent : Leveraging Claude/Gemini to automate routine coding tasks
+   <font color="Blue">Custom AI Agent : Leveraging Claude/Gemini to automate routine coding tasks</font>
  - Tool -  VS Code (Claude Code), Antigravity (Gemini Pro)
  <br>
 
