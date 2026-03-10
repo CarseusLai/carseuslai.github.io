@@ -38,7 +38,7 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 * **Custom AI Agent** — <span style="border-bottom: 2px solid #8E44AD;">Automating coding tasks via **Claude Max** & **Gemini Pro**</span>
 
 >  <span style="background-color: #000000; color: #00FF00; padding: 3px 10px; border-radius: 5px; font-family: monospace; font-weight: bold;">🚀 [ AI-DEVELOPER ]</span>
->  * <mark>**Custom AI Agent**</mark> —  <span style="border-bottom: 2px solid #8E44AD;">Automating coding tasks via **Claude Max (Core)** & **Gemini Pro (Assist)**</span>
+>  * **Custom AI Agent** —  <span style="border-bottom: 2px solid #8E44AD;">Automating coding tasks via **Claude Max (Core)** & **Gemini Pro (Assist)**</span>
 
 
 
