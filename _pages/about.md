@@ -44,7 +44,7 @@ Jira
   AI-Development
 </span>
 <br>
-  - <font color="#D4AF37"><b>Custom AI Agent</b> - Automating coding tasks via <b>Claude Max (Core)</b> & <b>Gemini Pro (Assist)</b></font>
+    - **<font color="#D4AF37">Custom AI Agent - Automating coding tasks via Claude Max (Core) & Gemini Pro (Assist)</font>**
 
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 20px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
