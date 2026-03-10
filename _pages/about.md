@@ -120,7 +120,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       >
     皓博科技 Harbor Techonlogy Solutions</span> <br>
     <font color="black">軟體二部Sofware Development Department 2</font><br>
-    <font color="brown">♫ 韌體副理Firmware Manager</font><br>
+    <font color="brown">♫ 韌體經理Firmware Manager</font><br>
     台北市 - 信義區 Taipei - Xinyi, 2025.12.08~
 
   <details>
