@@ -33,6 +33,16 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 ---
 
 ## 🛠 Skill
+<b style="font-size: 1.1em; color: #00A3C4;">[ AI-Development ]</b>
+* <mark style="background-color: #E0F7FA; padding: 0 4px;">**Custom AI Agent**</mark> — Automating coding tasks via **Claude Max (Core)** & **Gemini Pro (Assist)**
+
+
+<b style="font-size: 1.1em; color: #8E44AD;">🚀 AI-Development</b>
+* **Custom AI Agent** — <span style="border-bottom: 2px solid #8E44AD;">Automating coding tasks via **Claude Max** & **Gemini Pro**</span>
+
+<span style="background-color: #000000; color: #00FF00; padding: 3px 10px; border-radius: 5px; font-family: monospace; font-weight: bold;">[ AI-DEVELOPER ]</span>
+* **Architected a Dual-Model Agent System** (Claude + Gemini) to optimize firmware SDLC.
+
 > **AI-Development**
 > * **Custom AI Agent** — Automating coding tasks via **Claude Max** (Core) & **Gemini Pro** (Assist)
 
