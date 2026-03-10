@@ -33,7 +33,7 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 ---
 
 ## 🛠 Skill
- > <font color="#008080">**AI-Development**</font>
+> **AI-Development**
 > * **Custom AI Agent** — Automating coding tasks via **Claude Max** (Core) & **Gemini Pro** (Assist)
 
 
