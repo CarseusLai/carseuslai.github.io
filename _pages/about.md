@@ -21,7 +21,7 @@ redirect_from:
 - *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.-->
 <span class='anchor' id='about-me'></span>
 
-# 🧑🏻‍🚀 Biography
+# 🧑 Biography
 <span style="white-space: pre;">　　</span>擅於音頻(類比/數位)與韌體的開發，並具備分析系統問題與除錯的能力。
 擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，其重點在運用DSP EVK導入自適應濾波器來有效地降低水管中的噪音。<br>
 I specialize in audio(Analog/Digital) with firmware development, with expertise in system analysis and debugging. I hold a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm” focused on simulating drain pipe noise and effectively reducing it using adaptive filtering techniques.<br>
@@ -37,8 +37,8 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 <b style="font-size: 1.1em; color: #8E44AD;">🚀 AI-Development</b>
 * **Custom AI Agent** — <span style="border-bottom: 2px solid #8E44AD;">Automating coding tasks via **Claude Max** & **Gemini Pro**</span>
 
->  <span style="background-color: #000000; color: #00FF00; padding: 3px 10px; border-radius: 5px; font-family: monospace; font-weight: bold;">[ AI-DEVELOPER ]</span>
->  * **Custom AI Agent**</mark> — Automating coding tasks via **Claude Max (Core)** & **Gemini Pro (Assist)**
+>  <span style="background-color: #000000; color: #00FF00; padding: 3px 10px; border-radius: 5px; font-family: monospace; font-weight: bold;">🚀 [ AI-DEVELOPER ]</span>
+>  * <mark>**Custom AI Agent**</mark> —  <span style="border-bottom: 2px solid #8E44AD;">Automating coding tasks via **Claude Max (Core)** & **Gemini Pro (Assist)**</span>
 
 
 
