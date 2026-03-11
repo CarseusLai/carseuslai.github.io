@@ -118,8 +118,8 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
       box-shadow:2px 2px 5px rgba(0,0,0,0.5); 
       border-radius:40px;"
       >
-    皓博科技 Harbor Techonlogy Solutions</span> <br>
-    <font color="black">軟體二部Sofware Development Department 2</font><br>
+    皓博科技 Harbor Technology Solutions</span> <br>
+    <font color="black">軟體二部Software Development Department 2</font><br>
     <font color="brown">♫ 韌體經理Firmware Manager</font><br>
     台北市 - 信義區 Taipei - Xinyi, 2025.12.08~
 
@@ -127,7 +127,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <summary>Job Descriptions:</summary>
     <ul>
       <span style="white-space: pre;">　　</span>皓博科技。<br>
-      Harbor Techonlogy Solutions.
+      Harbor Technology Solutions.
     </ul>
   </details>
 
@@ -164,7 +164,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   **Participated in** <br>
   - Collaborated with AE/PM/EE/FW
   - Firmware development
-    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
+    - Teams and Zoom action with UI/UX, charger, battery, io-expander, amp.
     - Porting luxshare algorithm and arrangement audio path.
   - Acoustic analysis
     - Using Audio precision to verify luxshare algorithm in Playback.
@@ -218,7 +218,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <ul>
         <li><font color="#0d8fcd">Product Design</font><font color="#111111"></font></li>
         <li><font color="#15a083">Product Type:</font> <font color="#222222">Speaker phone, Headset, USB DAC</font></li>
-        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
+        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algorithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
         <li><font color="#4584b6">PL:</font> <font color="#666666">C, Python, Matlab</font></li>
         <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Jira, Git, HCI log(WireShark), USB analyzer, Oscilloscope, Multimeter</font></li>
     </ul>
@@ -290,7 +290,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
   **Participated in** <br>
   - Collaborated with AE/PM/EE/FW
   - Firmware development
-    - Teams and Zoom action with UI/UX, charger, bettery, io-expender, amp.
+    - Teams and Zoom action with UI/UX, charger, battery, io-expander, amp.
     - Porting luxshare algorithm and arrangement audio path.
   - Acoustic analysis
     - Using Audio precision to verify luxshare algorithm in Playback.
@@ -344,7 +344,7 @@ Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS 
     <ul>
         <li><font color="#0d8fcd">Product Design</font><font color="#111111"></font></li>
         <li><font color="#15a083">Product Type:</font> <font color="#222222">Speaker phone, Headset, USB DAC</font></li>
-        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algotithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
+        <li><font color="#28b48b">Audio:</font> <font color="#4b5157">DSP, ANC, Algorithm, AP, SC, Audition, UAC, LE Audio, Teams, Zoom</font></li>
         <li><font color="#4584b6">PL:</font> <font color="#666666">C, Python, Matlab</font></li>
         <li><font color="#7da3c1">Tool:</font> <font color="#9099a1">Jira, Git, HCI log(WireShark), USB analyzer, Oscilloscope, Multimeter</font></li>
     </ul>
