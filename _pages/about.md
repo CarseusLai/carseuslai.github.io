@@ -133,8 +133,8 @@ Car mechanic, Professional FPS gamer, Backpacker
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <span style="white-space: pre;">　　</span>皓博科技。<br>
-      Harbor Technology Solutions.
+      <span style="white-space: pre;">　　</span>皓博科技自 2015 年成立，專注於聲學音頻處理與 AI 技術，核心產品為 AIDPS (AI Diagnostic and Prognostic Solution)。公司以自行研發的 AI 感測器搭配 Edge AI 主機，應用於智慧振動診斷監測（Vibration Guard）及超早期局部放電診斷監測（Power Guard），服務橫跨半導體、製造、能源、建築及車輛等產業。而我的職責為帶領韌體團隊開發與維護 Edge AI 設備及 AIoT 感測器產品，負責 AI 診斷預測系統的韌體架構設計、嵌入式平台上的即時高速資料擷取與訊號處理，以及跨部門協作 AI 演算法、雲端平台與硬體團隊。<br>
+      Harbor Technology Solutions, founded in 2015, specializes in acoustic audio processing and AI technology. Its core product, AIDPS (AI Diagnostic and Prognostic Solution), integrates self-developed AI sensors with Edge AI hosts for smart vibration diagnostic monitoring (Vibration Guard) and ultra-early partial discharge diagnostic monitoring (Power Guard), serving industries including semiconductor, manufacturing, energy, construction, and automotive. My responsibilities include leading the firmware team to develop and maintain Edge AI devices and AIoT sensor products, designing firmware architecture for AI diagnostic and prognostic systems, real-time high-speed data acquisition and signal processing on embedded platforms, and cross-team collaboration with AI algorithm, cloud platform, and hardware teams.
     </ul>
   </details>
 
