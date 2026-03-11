@@ -84,23 +84,25 @@ Audition, Premiere Pro, Photoshop, Illustrator
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Others
 </span>
-Sales pitch, Car mechanic, Write a press release,  Video clip, Professional FPS gamer, Pick/Pack of fruit
+Car mechanic, Professional FPS gamer, Backpacker
  <br>
 
 <div id="hackerrank-level"></div>
 
 ---
 
-## 🎖 License
+## 🎖 License & Certification
 - *2025.08.13*: HackerRank - Problem Solving(Basic)
-- *2020.12.31*: Udemy - 學習和理解Node.JS
-- *2020.10.21*: Udemy - (Kent Cen出品)建往百科全書-使用HTML,CSS,JS,JQuery,php,mySQL建立網站
 - *2020.02.17*: Audinate - Dante Certification Level 3
 - *2020.02.04*: Audinate - Dante Certification Level 2
 - *2019.02.27*: Audinate - Dante Certification Level 1
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214)
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214)
 - *2008*: Workforce Development Agency - Level B technician for computer hardware decoration
+
+## 📚 Online Courses
+- *2020.12.31*: Udemy - 學習和理解Node.JS
+- *2020.10.21*: Udemy - 建往百科全書(HTML,CSS,JS,JQuery,php,mySQL)
 
 ---
 
