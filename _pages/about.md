@@ -21,6 +21,7 @@ redirect_from:
 - *2025/1*: &nbsp;🎉🎉 Graduated with a master’s degree from National Taipei University of Technology - Department of Automation Technology.-->
 <span class='anchor' id='about-me'></span>
 
+<!-- ===== BIOGRAPHY ===== -->
 # 🧑 Biography
 <span style="white-space: pre;">　　</span>擅於音頻(類比/數位)與韌體的開發，並具備分析系統問題與除錯的能力。
 擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，其重點在運用DSP EVK導入自適應濾波器來有效地降低水管中的噪音。<br>
@@ -32,6 +33,7 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 
 ---
 
+<!-- ===== SKILL ===== -->
 ## 🛠 Skill
 
   <span style="background-color: #6C3483; color: #FFFFFF; padding: 3px 10px; border-radius: 5px; font-family: monospace; font-weight: bold;">AI-DEVELOPER</span>
@@ -91,6 +93,7 @@ Car mechanic, Professional FPS gamer, Backpacker
 
 ---
 
+<!-- ===== LICENSE ===== -->
 ## 🎖 License & Certification
 - *2025.08.13*: HackerRank - Problem Solving(Basic)
 - *2020.02.17*: Audinate - Dante Certification Level 3
@@ -106,8 +109,10 @@ Car mechanic, Professional FPS gamer, Backpacker
 
 ---
 
+<!-- ===== WORK EXPERIENCE ===== -->
 # 💼 Work Experience
 <div class="timeline">
+  <!-- ===== HARBOR (2025.12~) ===== -->
   <div class="timeline-item">
   <div class="timeline-icon">2025.12</div>
   <div class="timeline-content">
@@ -235,6 +240,7 @@ Car mechanic, Professional FPS gamer, Backpacker
 
 
   
+  <!-- ===== LUXSHARE (2022.08~2025.11) ===== -->
   <div class="timeline-item">
   <div class="timeline-icon">2022.08</div>
   <div class="timeline-content">
@@ -354,6 +360,7 @@ Car mechanic, Professional FPS gamer, Backpacker
     
    </div>
   </div>
+    <!-- ===== MANSION (2018.07~2022.07) ===== -->
     <div class="timeline-item">
     <div class="timeline-icon">2018.07</div>
     <div class="timeline-content">
@@ -578,6 +585,7 @@ Car mechanic, Professional FPS gamer, Backpacker
  <font color="orange">*[Previous Field, Before 2018]</font> 
 
  
+  <!-- ===== TSTAR (2017.06~2018.04) ===== -->
   <div class="timeline-item">
   <div class="timeline-icon">2017.06</div>
   <div class="timeline-content">
@@ -617,6 +625,7 @@ Car mechanic, Professional FPS gamer, Backpacker
   
    </div> 
   </div>
+    <!-- ===== WHV AUSTRALIA (2015.05~2017.02) ===== -->
     <div class="timeline-item">
     <div class="timeline-icon">2015.05</div>
     <div class="timeline-content">
@@ -651,6 +660,7 @@ Car mechanic, Professional FPS gamer, Backpacker
   </details>    
    </div> 
 </div>
+   <!-- ===== MILITARY SERVICE (2014.04~2015.04) ===== -->
    <div class="timeline-item">
     <div class="timeline-icon">2014.04</div>
     <div class="timeline-content">
@@ -686,6 +696,7 @@ Car mechanic, Professional FPS gamer, Backpacker
       
    </div>
   </div>
+    <!-- ===== WAYI (2011~2013) ===== -->
     <div class="timeline-item">
     <div class="timeline-icon">2011</div>
     <div class="timeline-content">
@@ -727,6 +738,7 @@ Car mechanic, Professional FPS gamer, Backpacker
 ---
 
 
+<!-- ===== SIDE PROJECT ===== -->
 # <img src='gifs/universe.gif' alt="sym" width="3%"> Side Project
 
 **<span style="color:black; font-size:15px;">
@@ -760,6 +772,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
  
 ---
 
+<!-- ===== EDUCATION ===== -->
 # 🎓 Education
 **<span style="color:black; font-size:15px;">
 <img src= 'company logo/NTUT.png' 
@@ -881,6 +894,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 </div>
 
  
+<!-- ===== OTHER ===== -->
 # 🚀 Other
 **Achievements**
 - 2016.12 - 2017.2, (WHV)Blueberry Picker, Season top 1 of 500 people, Australia-Lindendale.
