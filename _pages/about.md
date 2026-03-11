@@ -38,7 +38,7 @@ I specialize in audio(Analog/Digital) with firmware development, with expertise 
 
   <span style="background-color: #6C3483; color: #FFFFFF; padding: 3px 10px; border-radius: 5px; font-family: monospace; font-weight: bold;">AI-DEVELOPER</span>
   
-  * **Custom AI Agent** —  <span style="border-bottom: 2px solid #8E44AD;">Automating coding tasks via **Claude Max (Core)** & **Gemini Pro (Assist)**</span>
+  * **Custom AI Agent** —  <span style="border-bottom: 2px solid #8E44AD;">Built custom AI agent framework integrating **Claude Max (Core)** & **Gemini Pro (Assist)** for FW development workflow automation</span>
 
 
 
@@ -72,10 +72,6 @@ ASM, C, Python, Matlab, Java, VB.net, C#
 </span>
   Audio Precision, Oscilloscope, Logic analyzer, USB analyzer, Multimeter
   
-<span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
-  System Analysis
-</span>
- <br>
  
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Adobe
