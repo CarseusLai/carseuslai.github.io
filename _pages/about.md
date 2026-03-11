@@ -23,9 +23,9 @@ redirect_from:
 
 <!-- ===== BIOGRAPHY ===== -->
 # 🧑 Biography
-<span style="white-space: pre;">　　</span>擅於音頻(類比/數位)與韌體的開發，並具備分析系統問題與除錯的能力。
-擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，其重點在運用DSP EVK導入自適應濾波器來有效地降低水管中的噪音。<br>
-I specialize in audio(Analog/Digital) with firmware development, with expertise in system analysis and debugging. I hold a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm” focused on simulating drain pipe noise and effectively reducing it using adaptive filtering techniques.<br>
+<span style="white-space: pre;">　　</span>擅於音頻(類比/數位)訊號處理與嵌入式系統開發，歷經擴大機、會議喇叭到 AI 邊緣運算設備等產品線，具備跨部門協作、系統分析與除錯的能力。
+現任韌體經理，擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，其重點在運用DSP EVK導入自適應濾波器來有效地降低水管中的噪音。<br>
+I specialize in audio (Analog/Digital) signal processing and embedded system development, with experience spanning amplifiers, conference speakers, and AI edge computing devices. I have strong cross-functional collaboration, system analysis, and debugging capabilities. Currently serving as a Firmware Manager, I hold a master’s degree from the Department of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,” focused on simulating drain pipe noise and effectively reducing it using adaptive filtering techniques.<br>
 <br>
 **✨ 個人特質：** 可靠、細心且具備優秀的分析能力，同時擁有高度的學習敏捷性與良好的溝通技巧。<br>
 **Personal Attributes:** Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
@@ -256,8 +256,8 @@ Car mechanic, Professional FPS gamer, Backpacker
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <span style="white-space: pre;">　　</span>立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BT/BLE/Dongle)與Teams, Zoom認證，且擁有全台名列頂尖的聲學實驗室。而我的職責包括移植基DSP演算法並配合音頻路徑及使用儀器測試聲學頻響失真，同時為韌體團隊在MCU(FreeRTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。<br>
-      Luxshare Precision specializes in the development of acoustic products, such as conference sound bars, headsets, and speakers (USB/BT/BLE/Dongle) with Teams and Zoom certification, and operates one of the top acoustic laboratories in Taiwan. My responsibilities include porting core DSP algorithms and integrating them with the audio path, as well as using instruments to test acoustic frequency response and distortion. I also support the firmware team on MCU (FreeRTOS), driver, API, and debugging issues. In addition, I am proficient in using Git for version control and source code management.
+      <span style="white-space: pre;">　　</span>立訊精密專注於聲學產品開發，如會議室音箱、耳機和揚聲器(USB/BT/BLE/Dongle)與Teams, Zoom認證，且擁有全台名列頂尖的聲學實驗室。而我的職責包括移植核心DSP演算法並配合音頻路徑及使用儀器測試聲學頻響失真，同時為韌體團隊在MCU(FreeRTOS)、驅動、API和偵錯問題的支援。此外，精通使用Git進行版控和程式碼管理。任職期間參與 4 項產品開發，含全球首款 LE Audio 認證會議喇叭。<br>
+      Luxshare Precision specializes in the development of acoustic products, such as conference sound bars, headsets, and speakers (USB/BT/BLE/Dongle) with Teams and Zoom certification, and operates one of the top acoustic laboratories in Taiwan. My responsibilities include porting core DSP algorithms and integrating them with the audio path, as well as using instruments to test acoustic frequency response and distortion. I also support the firmware team on MCU (FreeRTOS), driver, API, and debugging issues. In addition, I am proficient in using Git for version control and source code management. During my tenure, I participated in 4 product developments, including the world's first LE Audio certified conference speakerphone.
     </ul>
   </details>
 
@@ -377,10 +377,8 @@ Car mechanic, Professional FPS gamer, Backpacker
   <details>
     <summary>Job Descriptions:</summary>
     <ul>
-      <span style="white-space: pre;">　　</span>美訊主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。<br>
-2018 年至 2020 年間，我參與許多Dante會議及線上研討會，累積了豐富的 Dante Domain Manager (DDM) 配置和操作實務經驗與編寫擴大機的智能家居Control4驅動程式。我的工作涉及產品改進並提供解決方案以及對 MCU(ASM、C)進行編程，以控制 I2C、SPI、UART、GPIO、ADC 和 IR 等等介面進行資料傳輸。與硬體工程師緊密合作，設計流程圖。此外，我還提供業務的銷售支持，並代表公司參加了 2018 年至 2020 年在深圳、廣州、香港、澳門和成都等地舉辦的亞洲年度音頻展覽會。<br>
-      Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use.<br>
-          From 2018 to 2020, I participated in several Dante/AES67 conferences and online seminars and gained hands-on experience configuring and operating Dante Domain Manager (DDM)and develop the Control4 smart home driver for the amplifier. My role involved product improvement, solution development, and programming MCUs(ASM, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR for data transmission. I collaborated closely with hardware engineers to design flowcharts, conduct testing, and troubleshoot issues. Additionally, I provided sales support and represented the company at annual audio exhibitions across Asia, including Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu (2018 - 2020).
+      <span style="white-space: pre;">　　</span>美訊主要產品包括前級擴大機、功率擴大機和Dante/AES67網路音頻傳輸系統，為住宅和商業用戶提供多聲道音訊解決方案。而我的職責涵蓋三大面向：韌體開發方面，負責 MCU(ASM、C) 編程以控制 I2C、SPI、UART、GPIO、ADC、IR 等介面，並與硬體工程師緊密合作設計流程圖與除錯；技術研究方面，參與多場 Dante/AES67 會議及研討會，累積 Dante Domain Manager (DDM) 配置實務經驗，並開發擴大機的 Control4 智慧家居驅動程式；此外，代表公司出席 2018～2020 年亞洲各地音頻展覽（深圳、廣州、香港、澳門、成都）並提供業務銷售支持。<br>
+      Mansion’s main products include Pre-Amps, Power Amps, and Dante/AES67 network audio transmission systems, offering multi-channel audio solutions for residential and commercial use. My responsibilities covered three areas: in firmware development, I programmed MCUs (ASM, C) to control interfaces such as I2C, SPI, UART, GPIO, ADC, and IR, collaborating closely with hardware engineers on flowchart design and debugging; in technical research, I participated in Dante/AES67 conferences and seminars, gaining hands-on experience with Dante Domain Manager (DDM) configuration, and developed the Control4 smart home driver for amplifiers; additionally, I represented the company at annual audio exhibitions across Asia (Shenzhen, Guangzhou, Hong Kong, Macau, and Chengdu, 2018–2020) and provided sales support.
     </ul>
   </details>
   <details>
