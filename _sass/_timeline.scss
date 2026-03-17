@@ -29,6 +29,35 @@
 }
 
 
+// Sub-positions (LinkedIn-style promotion list)
+.sub-positions {
+  position: relative;
+  padding-left: 20px;
+  margin: 10px 0;
+  border-left: 2px solid #ccc;
+}
+
+.sub-position {
+  position: relative;
+  padding-left: 15px;
+  padding-bottom: 12px;
+
+  &:last-child {
+    padding-bottom: 0;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: -7px;
+    top: 6px;
+    width: 12px;
+    height: 12px;
+    background-color: #ccc;
+    border-radius: 50%;
+  }
+}
+
 //Toggle list
 .details {
   margin-top: 8px;
