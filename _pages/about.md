@@ -132,11 +132,11 @@ Car mechanic, Professional FPS gamer, Backpacker
       <div style="display:flex; flex-direction:column;">
         <div style="flex:1; padding-bottom:8px;">
           <font color="brown">韌體經理Firmware Manager</font><br>
-          台北市 - 信義區 Taipei - Xinyi, 2026.03~
+          台北市 - 信義區 Taipei - Xinyi, 2026.04~
         </div>
         <div style="flex:1;">
           <font color="brown">韌體副理Firmware Assistant Manager</font><br>
-          台北市 - 信義區 Taipei - Xinyi, 2025.12.08~2026.02
+          台北市 - 信義區 Taipei - Xinyi, 2025.12.08~2026.03
         </div>
       </div>
     </div>
