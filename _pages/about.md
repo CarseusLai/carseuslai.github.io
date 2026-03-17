@@ -124,7 +124,10 @@ Car mechanic, Professional FPS gamer, Backpacker
     皓博科技 Harbor Technology Solutions</span> <br>
     <font color="black">軟體二部Software Development Department 2</font><br>
     <font color="brown">♫ 韌體經理Firmware Manager</font><br>
-    台北市 - 信義區 Taipei - Xinyi, 2025.12.08~
+    台北市 - 信義區 Taipei - Xinyi, 2026.03~
+    <br><br>
+    <font color="brown">♪ 韌體副理Firmware Assistant Manager</font><br>
+    台北市 - 信義區 Taipei - Xinyi, 2025.12.08~2026.02
 
   <details>
     <summary>Job Descriptions:</summary>
