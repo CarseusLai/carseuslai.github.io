@@ -123,16 +123,22 @@ Car mechanic, Professional FPS gamer, Backpacker
       >
     皓博科技 Harbor Technology Solutions</span> <br>
     <font color="black">軟體二部Software Development Department 2</font><br>
-    <div class="sub-positions">
-      <div class="sub-position">
-        <font color="brown">♫ 韌體經理Firmware Manager</font><br>
-        台北市 - 信義區 Taipei - Xinyi, 2026.03~
-      </div>
-      <div class="sub-position">
-        <font color="brown">♪ 韌體副理Firmware Assistant Manager</font><br>
-        台北市 - 信義區 Taipei - Xinyi, 2025.12.08~2026.02
-      </div>
-    </div>
+    <table style="border:none; border-collapse:collapse; margin:10px 0;">
+      <tr style="border:none;">
+        <td style="border:none; border-left:2px solid #999; padding:0 0 10px 16px; position:relative; vertical-align:top;">
+          <span style="position:absolute; left:-7px; top:5px; width:12px; height:12px; background:#999; border-radius:50%; display:inline-block;"></span>
+          <font color="brown">韌體經理Firmware Manager</font><br>
+          台北市 - 信義區 Taipei - Xinyi, 2026.03~
+        </td>
+      </tr>
+      <tr style="border:none;">
+        <td style="border:none; border-left:2px solid #999; padding:0 0 0 16px; position:relative; vertical-align:top;">
+          <span style="position:absolute; left:-7px; top:5px; width:12px; height:12px; background:#999; border-radius:50%; display:inline-block;"></span>
+          <font color="brown">韌體副理Firmware Assistant Manager</font><br>
+          台北市 - 信義區 Taipei - Xinyi, 2025.12.08~2026.02
+        </td>
+      </tr>
+    </table>
 
   <details>
     <summary>Job Descriptions:</summary>
