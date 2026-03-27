@@ -131,7 +131,7 @@ Car mechanic, Professional FPS gamer, Backpacker
       </div>
       <div style="display:flex; flex-direction:column;">
         <div style="flex:1; padding-bottom:8px;">
-          <font color="brown">韌體經理Firmware Manager</font><br>
+          <font color="brown">首席工程師Principal Engineer</font><br>
           台北市 - 信義區 Taipei - Xinyi, 2026.04~
         </div>
         <div style="flex:1;">
