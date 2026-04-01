@@ -141,11 +141,13 @@ Car mechanic, Professional FPS gamer, Backpacker
       <div style="display:flex; flex-direction:column;">
         <div style="flex:1; padding-bottom:8px;">
           <font color="brown">首席工程師Principal Engineer</font><br>
-          台北市 - 信義區 Taipei - Xinyi, 2026.04~
+          台北市 - 信義區 Taipei - Xinyi, 2026.04~<br>
+          <span style="color:#555; font-size:13px;">→ Led firmware team · Edge AI & AIoT sensor product lines · Cross-team coordination (AI/Cloud/HW)</span>
         </div>
         <div style="flex:1;">
           <font color="brown">韌體副理Firmware Assistant Manager</font><br>
-          台北市 - 信義區 Taipei - Xinyi, 2025.12.08~2026.03
+          台北市 - 信義區 Taipei - Xinyi, 2025.12.08~2026.03<br>
+          <span style="color:#555; font-size:13px;">→ Led firmware team · Edge AI device & AIoT sensor development</span>
         </div>
       </div>
     </div>
