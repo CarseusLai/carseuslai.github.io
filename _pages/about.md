@@ -38,7 +38,7 @@ I specialize in audio (Analog/Digital) signal processing and embedded system dev
 
   <span style="background-color: #6C3483; color: #FFFFFF; padding: 3px 10px; border-radius: 5px; font-family: monospace; font-weight: bold;">AI-DEVELOPER</span>
 
-  * **Custom AI Agent Framework** — <span style="border-bottom: 2px solid #8E44AD;">Designed & built a modular multi-domain AI agent system from scratch, orchestrating **Claude (Core)** & **Gemini (Assist)** with structured knowledge management</span>
+  * **Custom AI Agent Framework** — <span style="border-bottom: 2px solid #8E44AD;">Designed & custom-built a modular multi-domain AI agent system, orchestrating **Claude (Core)** & **Gemini (Assist)** with structured knowledge management</span>
 
 <pre style="background:#1e1e1e; color:#d4d4d4; padding:12px; border-radius:6px; font-size:12px; line-height:1.5; overflow-x:auto;">
 .agent/
@@ -48,9 +48,9 @@ I specialize in audio (Analog/Digital) signal processing and embedded system dev
 ├── domains/            ← 10 domains · 46 skills · 330+ docs
 │   └── &lt;domain&gt;/skills/&lt;skill&gt;/skill_handbook/
 └── scripts/            ← Automation & tooling
-
-Key Patterns: Progressive Disclosure · Smart Model Routing · Dual-LLM Orchestration
 </pre>
+
+  * **Key Patterns:** Progressive Disclosure · Smart Model Routing · Dual-LLM Orchestration
 
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Project Management
