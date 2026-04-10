@@ -23,7 +23,8 @@ redirect_from:
 
 <!-- ===== BIOGRAPHY ===== -->
 # 🧑 Biography
-<span style=”white-space: pre;”>　　</span>擅長音頻（類比／數位）訊號處理與嵌入式系統開發，涵蓋擴大機、會議喇叭等產品線，具備從架構設計到量產導入的跨部門協作與系統除錯能力。同時具備 AI Agent 開發能力，能將 AI 工具整合至實際工作流程中，提升開發效率與決策品質。現任韌體經理，擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，以 DSP 開發板實現自適應濾波器，驗證了在實際管路噪音環境下的降噪效果。<br>
+<span style=”white-space: pre;”>　　</span>擅長音頻（類比／數位）訊號處理與嵌入式系統開發，涵蓋擴大機、會議喇叭等產品線，具備從架構設計到量產導入的跨部門協作與系統除錯能力。同時具備 AI Agent 開發能力，能將 AI 工具整合至實際工作流程中，提升開發效率與決策品質。
+現任韌體經理，擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，以 DSP 開發板實現自適應濾波器，驗證了在實際管路噪音環境下的降噪效果。<br>
 Specializing in audio (analog/digital) signal processing and embedded system development, with experience spanning amplifiers and conference speakers. Proven ability in cross-functional collaboration, system-level analysis, and debugging from prototype to mass production. Also capable of AI Agent development, integrating AI tools into real-world workflows to boost development efficiency and decision quality. Currently serving as a Firmware Manager, I hold a master’s degree from the Graduate Institute of Automation Technology at National Taipei University of Technology. My thesis, titled “Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm,” implemented an NLMS adaptive filter on a DSP evaluation kit to achieve effective noise reduction in real-world pipe noise scenarios.<br>
 <br>
 **✨ 個人特質：** 可靠、細心且具備優秀的分析能力，同時擁有高度的學習敏捷性與良好的溝通技巧。<br>
