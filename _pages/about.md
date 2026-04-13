@@ -99,17 +99,16 @@ Car mechanic, Professional FPS gamer (SF Online), Backpacker
 
 <!-- ===== LICENSE ===== -->
 ## 🎖 License & Certification
+- *2026.04.12*: 艾鍗學院 - AI 邊緣運算實作-TensorFlow Lite for MCU
 - *2025.08.13*: HackerRank - Problem Solving(Basic)
+- *2020.12.31*: Udemy - 學習和理解Node.JS
+- *2020.10.21*: Udemy - 建往百科全書(HTML,CSS,JS,JQuery,php,mySQL)
 - *2020.02.17*: Audinate - Dante Certification Level 3
 - *2020.02.04*: Audinate - Dante Certification Level 2
 - *2019.02.27*: Audinate - Dante Certification Level 1
 - *2013.07.23*: Red Hat, Inc - Red Hat Certified Engineer, RHCE(111-141-214)
 - *2011.08.23*: Red Hat, Inc - Red Hat Certified System Administrator, RHCSA(111-141-214)
 - *2008*: Workforce Development Agency - Level B technician for computer hardware decoration
-
-## 📚 Online Courses
-- *2020.12.31*: Udemy - 學習和理解Node.JS
-- *2020.10.21*: Udemy - 建往百科全書(HTML,CSS,JS,JQuery,php,mySQL)
 
 ---
 
@@ -803,7 +802,8 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
-2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>** &nbsp; **<span style="color:red; font-size:16px;">GPA: 3.88/4.0</span>**
+2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**<br>
+**<span style="color:red; font-size:16px;">GPA: 3.88/4.0</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
