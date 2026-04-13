@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Carseus Lai"
   avatar           : "images/sinyinlai.png"
-  bio              : "Principal Engineer · AI Agent Developer"
+  bio              : "Principal Engineer"
   location         : "Taipei City, Taiwan"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=koBVaaUAAAAJ"
   email            : "Carseus.Lai@gmail.com"
