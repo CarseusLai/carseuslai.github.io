@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Carseus Lai"
-description              : "AI | Audio | Firmware"
+description              : "AI Agent · Audio · Firmware"
 repository               : "CarseusLai/carseuslai.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Carseus Lai"
   avatar           : "images/sinyinlai.png"
-  bio              : "北科大 - 碩士National Taipei University of Technology (NTUT) M.S."
+  bio              : "Principal Engineer · AI Agent Developer"
   location         : "Taipei City, Taiwan"
   employer         :
   pubmed           : 
