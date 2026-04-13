@@ -24,8 +24,8 @@ redirect_from:
 <!-- ===== BIOGRAPHY ===== -->
 # 🧑 Biography
 <span style="white-space: pre;">　　</span>擅長音頻（類比／數位）訊號處理與嵌入式系統開發，涵蓋擴大機、會議喇叭等產品線，具備從架構設計到量產導入的跨部門協作與系統除錯能力。同時具備 AI Agent 開發能力，能將 AI 工具整合至實際工作流程中，提升開發效率與決策品質。
-擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法」，以 DSP 開發板實現自適應濾波器，驗證了在實際管路噪音環境下的降噪效果。<br>
-Specializing in audio (analog/digital) signal processing and embedded system development, with experience spanning amplifiers and conference speakers. Proven ability in cross-functional collaboration, system-level analysis, and debugging from prototype to mass production. Also capable of AI Agent development, integrating AI tools into real-world workflows to boost development efficiency and decision quality. I hold a master’s degree from the Graduate Institute of Automation Technology at National Taipei University of Technology. My thesis, titled "Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm," implemented an NLMS adaptive filter on a DSP evaluation kit to achieve effective noise reduction in real-world pipe noise scenarios.<br>
+擁有國立台北科技大學自動化所的碩士學位。畢業論文題目為「模擬排水管噪音環境與實用性降噪之自適應濾波器 NLMS 演算法」，以 DSP 開發板實現自適應濾波器，驗證了在實際管路噪音環境下的降噪效果。<br>
+Specializing in audio (analog/digital) signal processing and embedded system development, with experience spanning amplifiers and conference speakers. Proven ability in cross-functional collaboration, system-level analysis, and debugging from prototype to mass production. Also capable of AI Agent development, integrating AI tools into real-world workflows to boost development efficiency and decision quality. Holds a master’s degree from the Graduate Institute of Automation Technology at National Taipei University of Technology. Thesis titled "Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm," implemented an NLMS adaptive filter on a DSP evaluation kit to achieve effective noise reduction in real-world pipe noise scenarios.<br>
 <br>
 **✨ 個人特質：** 可靠、細心且具備優秀的分析能力，同時擁有高度的學習敏捷性與良好的溝通技巧。<br>
 **Personal Attributes:** Reliable, detail-oriented, and analytical, with strong learning agility and excellent communication skills.
@@ -73,7 +73,6 @@ ASM, C, Python, Matlab, Java, VB.net, C#
   - MCU - Nuvoton-M480, Airoha-AB15, PIC18F, Atmel-AT89, NXP-LPC55, STC12/15, STM32, AT32
   - DSP - TI-TMS320C6748(Thesis:NLMS Algorithm)
   - Hardware Debugging
-  - Git Tool - TortoiseGit
   <br>
   
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
@@ -91,7 +90,7 @@ Audition, Premiere Pro, Photoshop, Illustrator
 <span style="background-color:#666666; color:#ffffff; border-radius: 17px; padding: 5px 12px; font-weight: 300; font-family: Arial, sans-serif; display: inline-block;">
   Others
 </span>
-Car mechanic, Professional FPS gamer, Backpacker
+Car mechanic, Professional FPS gamer (SF Online), Backpacker
  <br>
 
 <div id="hackerrank-level"></div>
@@ -738,7 +737,7 @@ Car mechanic, Professional FPS gamer, Backpacker
     <summary>Job Descriptions:</summary>
     <ul>
       <span style="white-space: pre;">　　</span>曾經接受過線上FPS電競選手的訓練1年的時間，且擁有8年FPS遊戲經驗​，擔任SF online電競遊戲裁判(華藝國際 - 第二屆台灣中區)​兩年的時間。<br>
-      I was trained by an FPS e-Sports player for 1 year and has 8 years of experience in FPS games.
+      I was trained by an FPS e-Sports player for 1 year and had 8 years of experience in FPS games.
       Served as a SF online e-Sports referee(Huayi International - the 2nd Central Region of Taiwan) for 2 years.
     </ul>
   </details>
@@ -804,8 +803,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   /*box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* 陰影效果 */
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
-2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>**<br>
-**<span style="color:red; font-size:15px;">GPA: 3.88/4.0</span>**
+2021.09 - 2025.01, M.S. National Taipei University of Technology (NTUT), Department of Automation Technology, Taiwan.</span>** &nbsp; **<span style="color:red; font-size:16px;">GPA: 3.88/4.0</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
@@ -819,7 +817,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Journal<br>
-  Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, **Sin-Yin Lai**<br>
+  Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器 NLMS 演算法, **Sin-Yin Lai**<br>
   - Firmware development - C, Matlab
     - Using TMS320C6748 DSP demoboard to control NLMS Algorithm.<br>
   
@@ -839,7 +837,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   </div>
 <div class='paper-box-text' markdown="1">
 ### 📖 Academic - Conference<br>
-  Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器NLMS演算法, 
+  Simulation of Drain Pipe Noise Environment and Practical Noise Reduction with Adaptive Filter NLMS Algorithm, 模擬排水管噪音環境與實用性降噪之自適應濾波器 NLMS 演算法, 
 **Sin-Yin Lai**, Yu-Xuan Lin<br>
   Keywords: TMS320C6748、Adaptive Filter、NLMS、COMSOL.
 </div>
@@ -856,7 +854,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   border-radius: 0px; /* 可選，讓邊角稍圓 */
 ">
 2011.09 - 2012.11, M.S. Chaoyang University of Technology (CYUT), Department of Computer Science and Information Engineering, Taiwan.</span>**
-**<span style="color:gray; font-size:15px;">**left school without graduating</span>**
+**<span style="color:gray; font-size:15px;">**Withdrew without completing degree</span>**
 
 <div class='paper-box'>
   <div class='paper-box-image'><div>
