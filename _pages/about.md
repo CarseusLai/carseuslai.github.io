@@ -129,7 +129,7 @@ Car mechanic, Professional FPS gamer (SF Online), Backpacker
       border-radius:40px;"
       >
     皓博科技 Harbor Technology Solutions</span> <br>
-    <font color="black">韌體一部Firmware Development Department 1</font><br>
+    <font color="black">韌體部Firmware Department</font><br>
     <div style="display:flex; margin:10px 0;">
       <div style="display:flex; flex-direction:column; align-items:center; margin-right:12px;">
         <div style="width:10px; height:10px; background:#999; border-radius:50%; flex-shrink:0;"></div>
@@ -844,7 +844,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 </div>
 
 **<span style="color:light-gray; font-size:15px;">
-<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
+<img src='company logo/CYUT.png'
   alt="logo" style="
   width: 60px; 
   height: 60px; 
@@ -879,7 +879,7 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
 </div>
 
 **<span style="color:black; font-size:15px;">
-<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/bb/CYUT_Logo.svg/300px-CYUT_Logo.svg.png?20240822104144" 
+<img src='company logo/CYUT.png' 
   alt="logo" style="
   width: 60px; 
   height: 60px; 
