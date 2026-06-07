@@ -99,7 +99,8 @@ Car mechanic, Professional FPS gamer (SF Online), Backpacker
 
 <!-- ===== LICENSE ===== -->
 ## 🎖 License & Certification
-- *2026.04.12*: 艾鍗學院 - AI 邊緣運算實作-TensorFlow Lite for MCU
+- *2026.06.07*: 艾鍗學院 - ARM Bootloader 設計(ETD1150607132)
+- *2026.04.12*: 艾鍗學院 - AI 邊緣運算實作-TensorFlow Lite for MCU(ETD1150412052)
 - *2025.08.13*: HackerRank - Problem Solving(Basic)
 - *2020.12.31*: Udemy - 學習和理解Node.JS
 - *2020.10.21*: Udemy - 建往百科全書(HTML,CSS,JS,JQuery,php,mySQL)
