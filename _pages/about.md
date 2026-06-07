@@ -775,20 +775,36 @@ Outsourcing</span>** <span style="display: inline-block; width: 60%; text-align:
   
   <div class='paper-box' style='background-color: #d3d3d3;'>
     <div class='paper-box-image'><div>
-      <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo Streamer Transport</a>
+      <a href="https://www.kecesaudio.com/ch/Ebravo.html">Ebravo</a><br>
       <img src='images/EB-SD.png' alt="sym" width="70%"></div>
     </div>
   <div class='paper-box-text' markdown="1">
   
-  **<font color="green">2024 Pre-Amplifier(WiFi/BT)</font>**<br>
+  **<font color="green">2024 Streamer Transport(NET/BT)</font>**<br>
   **Participated in**<br>
   - Firmware development
-    - Control LCD, LED, button, IR, Wi-Fi Audio Streaming.
+    - Control Wi-Fi Audio Streaming, LCD, LED, button, IR.
     
   </div>
   </div>
 
- 
+   <div class='paper-box' style='background-color: #d3d3d3;'>
+    <div class='paper-box-image'><div>
+      <a href="https://www.kecesaudio.com/ch/Euphony.html">Euphony</a><br>
+      <img src='images/EB-PLUS.png' alt="sym" width="70%"></div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **<font color="green">2026 Digital to Analog Converter(BT/NET/USB/OPT/COAX)</font>**<br>
+  **Participated in**<br>
+  - Firmware development
+    - Control codec, audio bridge, Wi-Fi Audio Streaming, LED, button, IR.
+    
+  </div>
+  </div>
+
+
+
 ---
 
 <!-- ===== EDUCATION ===== -->
