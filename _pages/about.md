@@ -141,7 +141,7 @@ Car mechanic, Professional FPS gamer (SF Online), Backpacker
         <div style="flex:1; padding-bottom:8px;">
           <font color="brown">首席工程師Principal Engineer</font><br>
           台北市 - 信義區 Taipei - Xinyi, 2026.04~<br>
-          <span style="color:#555; font-size:13px;">→ Firmware architecture & technical leadership · Team management · Cross-team coordination (AI/Cloud/HW)</span>
+          <span style="color:#555; font-size:13px;">→ Firmware architecture & technical leadership · Team management · Cross-team coordination (AI/HW/PM/ME)</span>
         </div>
         <div style="flex:1;">
           <font color="brown">副理Assistant Manager</font><br>
