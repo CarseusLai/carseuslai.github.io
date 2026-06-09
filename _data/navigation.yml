@@ -1,16 +1,5 @@
-# main links links
-main:
-  - title: "About Me"
-    url: "/#about-me"
-    
-  - title: "Work Experience"
-    url: "/#-work-experience"
-
-  - title: "Side Project"
-    url: "/#-side-project"
-    
-  - title: "Education"
-    url: "/#-education"
-    
-  - title: "Other"
-    url: "/#-other"  
+# main masthead links
+# Section nav (About Me / Work Experience / Side Project / Education / Other) was
+# moved into the password-protected /cv/ page. The public landing is kept minimal,
+# so the masthead has no section links (those anchors no longer exist here).
+main: []
