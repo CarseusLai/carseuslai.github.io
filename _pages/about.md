@@ -46,10 +46,4 @@ Principal Engineer specializing in **embedded firmware**, **audio / vibration si
   <a href="https://www.linkedin.com/in/carseuslai/" style="color:#6C3483;">LinkedIn</a>.</div>
 </div>
 
----
-
-<div style="text-align: center; padding: 20px 0;">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=carseuslai.github.io">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=carseuslai.github.io&left_text=Visitors" alt="visitor badge"/>
-  </a>
-</div>
+<!-- Visitor counter removed: laobi.icu counted every page view (no per-IP dedupe), so refreshing inflated it. GoatCounter (unique-visitor, dedupes same-day refresh) to be added once the site code is provided. -->
