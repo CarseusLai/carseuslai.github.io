@@ -1,5 +1,6 @@
 # main masthead links
-# Section nav (About Me / Work Experience / Side Project / Education / Other) was
-# moved into the password-protected /cv/ page. The public landing is kept minimal,
-# so the masthead has no section links (those anchors no longer exist here).
-main: []
+# Section nav lives inside the password-protected /cv/ page. The public masthead
+# keeps a single working link to the full (encrypted) CV.
+main:
+  - title: "🔓 Full CV"
+    url: "/cv/"
