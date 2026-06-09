@@ -28,8 +28,8 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=koBVaaUAAAAJ"
-  email            : "Carseus.Lai@gmail.com"
-  researchgate     : 
+  email            : # moved into the password-protected /cv/ page to avoid public scraping
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
