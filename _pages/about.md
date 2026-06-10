@@ -39,7 +39,7 @@ Principal Engineer specializing in **embedded firmware**, **audio / vibration si
 .author__name{color:#2b1733;}
 .author__bio{font-weight:700;color:#6C3483;font-size:1.15em;margin-bottom:.4em;}
 .page__content{font-size:1.1em;line-height:1.7;}
-.page__content h1,.page__content h2{color:#6C3483;font-weight:700;border-bottom:2px solid #e0d2ec;padding-bottom:6px;margin-top:34px;}
+.page__content h1,.page__content h2{color:#3a2348;font-weight:700;border-bottom:2px solid #cdb8de;padding-bottom:6px;margin-top:34px;}
 .page__content h1{font-size:1.75em;}
 .page__content h2{font-size:1.45em;}
 </style>
