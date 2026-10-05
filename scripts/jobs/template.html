@@ -56,6 +56,7 @@ header h1{margin:0;font-size:1.5em}
 .tier-A{background:var(--a)}.tier-B{background:var(--b)}.tier-C{background:var(--c)}
 .st{font-size:.72em;font-weight:600;border-radius:5px;padding:0 7px;border:1px solid var(--line);color:var(--muted)}
 .st-applied,.st-interview,.st-offer{border-color:var(--accent);color:var(--accent)}
+.new{font-size:.72em;font-weight:700;border-radius:5px;padding:1px 7px;background:var(--accent);color:var(--accent-text)}
 .tag{display:inline-block;font-size:.76em;background:var(--chip);color:var(--muted);border-radius:5px;padding:0 7px;margin-right:4px}
 .kv{font-size:.88em}.kv b{font-weight:600}
 .notes{font-size:.88em;background:var(--chip);border-radius:8px;padding:6px 10px}
@@ -142,17 +143,28 @@ footer{margin-top:40px;color:var(--muted);font-size:.78em;text-align:center}
   const everything = () => ({ tiers: new Set(TIERS), regions: new Set(REGIONS), skills: new Set(SKILLS) });
 
   // Per-viewer convenience only: the page must work when storage is blocked.
+  // The saved choice also records which options existed when it was saved, so an option
+  // added later (a new region or skill) starts at its recommended state instead of "off".
+  const OPTIONS = { tiers: TIERS, regions: REGIONS, skills: SKILLS };
   function load() {
+    const rec = recommended();
     try {
       const raw = localStorage.getItem(STORE);
-      if (!raw) return recommended();
+      if (!raw) return rec;
       const o = JSON.parse(raw);
-      return { tiers: new Set(o.tiers), regions: new Set(o.regions), skills: new Set(o.skills) };
-    } catch (e) { return recommended(); }
+      const out = {};
+      for (const g of Object.keys(OPTIONS)) {
+        const chosen = new Set(o[g] || []);
+        const known = new Set((o.known && o.known[g]) || o[g] || []);
+        out[g] = new Set(OPTIONS[g].filter(v => known.has(v) ? chosen.has(v) : rec[g].has(v)));
+      }
+      return out;
+    } catch (e) { return rec; }
   }
   function save() {
     try {
-      localStorage.setItem(STORE, JSON.stringify({ tiers: [...sel.tiers], regions: [...sel.regions], skills: [...sel.skills] }));
+      localStorage.setItem(STORE, JSON.stringify({
+        tiers: [...sel.tiers], regions: [...sel.regions], skills: [...sel.skills], known: OPTIONS }));
     } catch (e) { /* ignore */ }
   }
 
@@ -204,8 +216,8 @@ footer{margin-top:40px;color:var(--muted);font-size:.78em;text-align:center}
   function card(j) {
     return `<article class="card">
   <div class="top">
-    <div><span class="company">${esc(j.company)}</span><span class="country">${esc(j.country)}</span></div>
-    <div class="badges"><span class="tier tier-${esc(j.tier)}">${esc(j.tier)}</span><span class="st st-${esc(j.status)}">${esc(statuses[j.status] || j.status)}</span></div>
+    <div><span class="company">${esc(j.company)}</span><span class="country">總部 ${esc(j.country)}</span></div>
+    <div class="badges">${j.isNew ? '<span class="new">新</span>' : ''}<span class="tier tier-${esc(j.tier)}">${esc(j.tier)}</span><span class="st st-${esc(j.status)}">${esc(statuses[j.status] || j.status)}</span></div>
   </div>
   <div class="title"><a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">${esc(j.title)} ↗</a></div>
   <div class="meta"><span class="tag">${esc(j.region)}</span><span class="tag">${esc(j.skill)}</span>${esc(j.location)} · 貼文 ${esc(j.posted)}</div>
