@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Carseus Lai - Job Tracker</title>
+<style>
+:root{--bg:#f7f4fa;--card:#fff;--text:#2b1733;--muted:#6b5f73;--line:#e2d8ea;--accent:#6C3483;--accent-soft:#f0e8f6;--a:#2e7d32;--b:#b26a00;--c:#607d8b;--todo:#6C3483;--applied:#1565c0;--interview:#ef6c00;--offer:#2e7d32;--rejected:#9e9e9e;--closed:#9e9e9e;--watch:#607d8b;--shadow:0 6px 20px rgba(43,23,51,.08)}
+@media (prefers-color-scheme: dark){:root{--bg:#1b1220;--card:#261a2e;--text:#f1e9f6;--muted:#b8a9c4;--line:#3b2a47;--accent:#b15fd4;--accent-soft:#33203f;--shadow:0 6px 20px rgba(0,0,0,.4)}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.6 "Segoe UI","Noto Sans TC","PingFang TC","Microsoft JhengHei",Arial,sans-serif}
+a{color:var(--accent)}
+code{font-size:.9em;background:var(--accent-soft);padding:1px 5px;border-radius:4px}
+.wrap{max-width:1100px;margin:0 auto;padding:20px 16px 60px}
+header h1{margin:0;font-size:1.6em}
+.sub{color:var(--muted);font-size:.9em}
+.stats{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:4px 12px;font-size:.85em;box-shadow:var(--shadow)}
+.stat b{color:var(--accent)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0 18px}
+.filters button{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:6px 14px;cursor:pointer;font:inherit}
+.filters button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.filters select,.filters input{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:10px;padding:7px 10px;font:inherit}
+.filters input{flex:1;min-width:160px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:6px}
+.card .top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.company{font-weight:700}
+.country{color:var(--muted);font-weight:400;font-size:.85em;margin-left:4px}
+.title{font-size:1.05em;font-weight:600;line-height:1.35}
+.meta{color:var(--muted);font-size:.85em}
+.badges{display:flex;gap:6px;flex-shrink:0}
+.badge{font-size:.75em;font-weight:700;border-radius:6px;padding:2px 8px;color:#fff;white-space:nowrap}
+.tier-A{background:var(--a)}.tier-B{background:var(--b)}.tier-C{background:var(--c)}
+.st{background:var(--todo)}
+.st-applied{background:var(--applied)}.st-interview{background:var(--interview)}.st-offer{background:var(--offer)}.st-rejected{background:var(--rejected)}.st-closed{background:var(--closed)}.st-watch{background:var(--watch)}
+.kv{font-size:.9em}.kv b{color:var(--accent)}
+.notes{font-size:.9em;background:var(--accent-soft);border-radius:8px;padding:6px 10px}
+.empty{color:var(--muted);padding:30px;text-align:center;grid-column:1/-1}
+section{margin-top:34px}
+h2{font-size:1.2em;border-bottom:2px solid var(--line);padding-bottom:6px}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line);font-size:.9em;vertical-align:top}
+th{background:var(--accent-soft)}
+tr:last-child td{border-bottom:0}
+ul{padding-left:20px}
+footer{margin-top:40px;color:var(--muted);font-size:.8em;text-align:center}
+@media (max-width:600px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>🔒 Job Tracker</h1>
+  <div class="sub">私人求職追蹤頁 · 資料更新 <b id="updated">__UPDATED__</b> · 由 <code>/g-jobs</code> 維護</div>
+  <div class="stats" id="stats"></div>
+</header>
+
+<div class="filters">
+  <span id="tierBtns"></span>
+  <select id="status" aria-label="狀態篩選"><option value="">全部狀態</option></select>
+  <input id="q" type="search" placeholder="搜尋公司、職稱、地點、備註…" aria-label="搜尋">
+</div>
+
+<div class="grid" id="list"></div>
+
+<section>
+  <h2>薪資基準（年薪，新台幣）</h2>
+  <table>
+    <thead><tr><th>參考</th><th>區間</th><th>來源</th></tr></thead>
+    <tbody id="benchBody"></tbody>
+  </table>
+</section>
+
+<section>
+  <h2>目標與條件</h2>
+  <div id="profile"></div>
+</section>
+
+<section>
+  <h2>更新紀錄</h2>
+  <ul id="log"></ul>
+</section>
+
+<footer>此頁在瀏覽器端以 staticrypt 解密；公開 repo 只有密文。建置時間 __BUILT_AT__</footer>
+</div>
+
+<script id="jobs-data" type="application/json">__JOBS_JSON__</script>
+<script>
+(function () {
+  const data = JSON.parse(document.getElementById('jobs-data').textContent);
+  const statuses = data.statuses || {};
+  const tierOrder = { A: 0, B: 1, C: 2 };
+  const statusOrder = ['interview', 'offer', 'applied', 'todo', 'watch', 'rejected', 'closed'];
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  let tier = '', status = '', q = '';
+
+  // Summary chips
+  const counts = {};
+  data.jobs.forEach(j => { counts[j.status] = (counts[j.status] || 0) + 1; });
+  document.getElementById('stats').innerHTML =
+    `<span class="stat">職缺 <b>${data.jobs.length}</b></span>` +
+    statusOrder.filter(s => counts[s]).map(s => `<span class="stat">${esc(statuses[s] || s)} <b>${counts[s]}</b></span>`).join('');
+
+  // Tier buttons
+  const tb = document.getElementById('tierBtns');
+  [['', '全部'], ['A', 'A 級'], ['B', 'B 級'], ['C', 'C 級']].forEach(([v, label]) => {
+    const b = document.createElement('button');
+    b.textContent = label; b.dataset.v = v;
+    if (v === tier) b.classList.add('on');
+    b.onclick = () => { tier = v; [...tb.children].forEach(x => x.classList.toggle('on', x.dataset.v === v)); render(); };
+    tb.appendChild(b);
+  });
+
+  // Status select
+  const sel = document.getElementById('status');
+  statusOrder.forEach(s => { if (!statuses[s]) return; const o = document.createElement('option'); o.value = s; o.textContent = statuses[s]; sel.appendChild(o); });
+  sel.onchange = () => { status = sel.value; render(); };
+  document.getElementById('q').oninput = e => { q = e.target.value.trim().toLowerCase(); render(); };
+
+  function match(j) {
+    if (tier && j.tier !== tier) return false;
+    if (status && j.status !== status) return false;
+    if (q) {
+      const hay = [j.company, j.title, j.location, j.fit, j.gap, j.notes, j.country].join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  }
+
+  function card(j) {
+    return `<article class="card">
+  <div class="top">
+    <div><span class="company">${esc(j.company)}</span><span class="country">${esc(j.country)}</span></div>
+    <div class="badges"><span class="badge tier-${esc(j.tier)}">${esc(j.tier)}</span><span class="badge st st-${esc(j.status)}">${esc(statuses[j.status] || j.status)}</span></div>
+  </div>
+  <div class="title"><a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">${esc(j.title)} ↗</a></div>
+  <div class="meta">📍 ${esc(j.location)} · 貼文 ${esc(j.posted)} · 加入 ${esc(j.added)}</div>
+  ${j.fit ? `<div class="kv"><b>對口</b>：${esc(j.fit)}</div>` : ''}
+  ${j.gap ? `<div class="kv"><b>缺口</b>：${esc(j.gap)}</div>` : ''}
+  ${j.notes ? `<div class="notes">📝 ${esc(j.notes)}</div>` : ''}
+</article>`;
+  }
+
+  // "約 2026-09-16" and "2026-09-16" must sort together; undated entries go last.
+  const dateKey = s => (String(s).match(/\d{4}-\d{2}(-\d{2})?/) || [''])[0];
+
+  function render() {
+    const rows = data.jobs.filter(match).sort((a, b) =>
+      (tierOrder[a.tier] - tierOrder[b.tier]) ||
+      (statusOrder.indexOf(a.status) - statusOrder.indexOf(b.status)) ||
+      dateKey(b.posted).localeCompare(dateKey(a.posted)));
+    document.getElementById('list').innerHTML = rows.length ? rows.map(card).join('') : '<div class="empty">沒有符合的職缺</div>';
+  }
+  render();
+
+  // Benchmarks
+  document.getElementById('benchBody').innerHTML = (data.benchmarks || []).map(b =>
+    `<tr><td>${esc(b.label)}</td><td>${esc(b.range)}</td><td><a href="${esc(b.url)}" target="_blank" rel="noopener noreferrer">${esc(b.source)}</a></td></tr>`).join('');
+
+  // Profile
+  const p = data.profile || {};
+  document.getElementById('profile').innerHTML =
+    `<p><b>${esc(p.headline || '')}</b></p><ul>${(p.targets || []).map(t => `<li>${esc(t)}</li>`).join('')}</ul>` +
+    `<p class="meta">關鍵字：${(p.keywords || []).map(esc).join(' · ')}</p>`;
+
+  // Change log, newest first
+  document.getElementById('log').innerHTML = (data.log || []).slice().reverse().map(l => `<li><b>${esc(l.date)}</b> ${esc(l.text)}</li>`).join('');
+})();
+</script>
+</body>
+</html>

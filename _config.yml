@@ -88,6 +88,8 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
+  - scripts
   - tmp
   - vendor
 keep_files:

@@ -4,3 +4,6 @@ push.sh
 
 
 .agent
+# private job-tracker data (plaintext) and local tooling - never committed
+_private/
+node_modules/
