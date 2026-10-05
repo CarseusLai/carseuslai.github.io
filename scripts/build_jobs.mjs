@@ -76,6 +76,20 @@ function loadData() {
     if (!/^https?:\/\//.test(j.url)) fail(`jobs[${i}] (${j.id}): url must start with http(s)://`);
   });
   if (!data.updated) fail('jobs.json: missing "updated"');
+
+  // Region / skill filters: every job must land in a known bucket, defaults must be valid.
+  const f = data.filters;
+  if (!f || !Array.isArray(f.regions) || !Array.isArray(f.skills)) fail('jobs.json: "filters.regions" and "filters.skills" must be arrays');
+  const regions = new Set(f.regions);
+  const skills = new Set(f.skills);
+  data.jobs.forEach((j, i) => {
+    if (!regions.has(j.region)) fail(`jobs[${i}] (${j.id}): region "${j.region}" is not in filters.regions`);
+    if (!skills.has(j.skill)) fail(`jobs[${i}] (${j.id}): skill "${j.skill}" is not in filters.skills`);
+  });
+  const d = f.defaults || {};
+  for (const t of d.tiers || []) if (!VALID_TIERS.has(t)) fail(`filters.defaults.tiers: unknown tier "${t}"`);
+  for (const r of d.regions || []) if (!regions.has(r)) fail(`filters.defaults.regions: unknown region "${r}"`);
+  for (const s of d.skills || []) if (!skills.has(s)) fail(`filters.defaults.skills: unknown skill "${s}"`);
   return data;
 }
 
@@ -121,8 +135,8 @@ function encrypt(pw) {
     '--template-instructions', 'Private page. Enter the password to unlock the job tracker.',
     '--template-button', 'Unlock',
     '--template-placeholder', 'Password',
-    '--template-color-primary', '#6C3483',
-    '--template-color-secondary', '#2b1733',
+    '--template-color-primary', '#2563eb',
+    '--template-color-secondary', '#0f1115',
   ], pw);
   if (!existsSync(OUT)) fail(`expected ${path.relative(ROOT, OUT)} after encryption but it was not produced`);
 }
