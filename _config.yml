@@ -120,6 +120,11 @@ kramdown:
 
 # Defaults
 defaults:
+  # the password-protected page stays out of sitemap.xml
+  - scope:
+      path: "p"
+    values:
+      sitemap: false
   # _pages
   - scope:
       path: ""

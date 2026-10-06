@@ -1,33 +1,33 @@
 #!/bin/sh
-# Guard for the private job tracker: never let plaintext data or the password reach a commit.
+# Guard for the private page: never let plaintext or the password reach a commit.
 # Installed with: git config core.hooksPath scripts/git-hooks
 
 staged=$(git diff --cached --name-only --diff-filter=ACMR)
 [ -z "$staged" ] && exit 0
 
 if printf '%s\n' "$staged" | grep -qE '^_private/'; then
-  echo "pre-commit: refusing to commit files under _private/ (plaintext job data / password)." >&2
+  echo "pre-commit: refusing to commit files under _private/ (plaintext / password)." >&2
   exit 1
 fi
 
-if printf '%s\n' "$staged" | grep -qx 'jobs/index.html'; then
-  content=$(git show :jobs/index.html)
+if printf '%s\n' "$staged" | grep -qx 'p/index.html'; then
+  content=$(git show :p/index.html)
   case "$content" in
     *staticrypt*) ;;
-    *) echo "pre-commit: jobs/index.html is not staticrypt output." >&2; exit 1 ;;
+    *) echo "pre-commit: p/index.html is not staticrypt output." >&2; exit 1 ;;
   esac
-  if printf '%s' "$content" | grep -q '__JOBS_JSON__\|"jobs":\['; then
-    echo "pre-commit: jobs/index.html contains plaintext markers; run npm run build:jobs." >&2
+  if printf '%s' "$content" | grep -qF 'id="page-data"'; then
+    echo "pre-commit: p/index.html contains the plaintext data block; rebuild it." >&2
     exit 1
   fi
 fi
 
-if [ -f _private/.jobs_password ]; then
-  pw=$(cat _private/.jobs_password | tr -d '\r\n')
+if [ -f _private/.password ]; then
+  pw=$(tr -d '\r\n' < _private/.password)
   if [ -n "$pw" ]; then
     for f in $staged; do
       if git show ":$f" 2>/dev/null | grep -qF -- "$pw"; then
-        echo "pre-commit: the job-tracker password appears in staged file $f." >&2
+        echo "pre-commit: the private-page password appears in staged file $f." >&2
         exit 1
       fi
     done

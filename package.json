@@ -1,11 +1,11 @@
 {
   "name": "carseuslai-site-tools",
   "private": true,
-  "description": "Build tooling for the private pages of carseuslai.github.io (not part of the Jekyll site).",
+  "description": "Build tooling for the private page of carseuslai.github.io (not part of the Jekyll site).",
   "type": "module",
   "scripts": {
-    "build:jobs": "node scripts/build_jobs.mjs",
-    "verify:jobs": "node scripts/build_jobs.mjs --verify-only"
+    "build:private": "node scripts/encrypt_private.mjs",
+    "verify:private": "node scripts/encrypt_private.mjs --verify-only"
   },
   "devDependencies": {
     "staticrypt": "^3.5.0"
