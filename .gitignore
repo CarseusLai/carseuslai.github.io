@@ -4,6 +4,9 @@ push.sh
 
 
 .agent
-# private page data (plaintext) and local tooling - never committed
+.serena/
+.cache/
+
+# private page data (plaintext) and local tooling — never committed
 _private/
 node_modules/
