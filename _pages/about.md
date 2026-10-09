@@ -10,13 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑 About Me
+# 🧑 <span class="lang-zh">關於我</span> <span class="lang-en">About Me</span>
 
-擅長**音頻（類比／數位）訊號處理**與**嵌入式系統開發**，涵蓋擴大機、會議喇叭、AIoT 感測器等產品線，具備從架構設計到量產導入的跨部門協作與系統除錯能力。同時投入 **AI Agent 開發**，將 AI 工具整合進實際工作流程，提升開發效率與決策品質。國立台北科技大學自動化所碩士。<br>
+擅長**音頻（類比／數位）訊號處理**與**嵌入式系統開發**，涵蓋擴大機、會議喇叭、AIoT 感測器等產品線，具備從架構設計到量產導入的跨部門協作與系統除錯能力。同時投入 **AI Agent 開發**，將 AI 工具整合進實際工作流程，提升開發效率與決策品質。國立台北科技大學自動化所碩士。
+{: .lang-zh}
 
 Principal Engineer specializing in **embedded firmware**, **audio / vibration signal processing**, and **AI agent development** — from architecture design to mass production. M.S., National Taipei University of Technology (NTUT).
+{: .lang-en}
 
-## 🛠 Core Expertise
+## 🛠 <span class="lang-zh">核心專長</span> <span class="lang-en">Core Expertise</span>
 
 <span class="tag">AI Agent Development</span>
 <span class="tag">Embedded Firmware</span>
@@ -47,17 +49,21 @@ Principal Engineer specializing in **embedded firmware**, **audio / vibration si
 
 ---
 
-## 🔒 Full CV
+## 🔒 <span class="lang-zh">完整履歷</span> <span class="lang-en">Full CV</span>
 
-完整的工作經歷、專案、學歷與聯絡方式已加密保護，僅供應徵／合作對象瀏覽。<br>
-<span style="color:#888;font-size:.9em;">My full work history, projects, education and contact details are password-protected — available on request.</span>
+完整的工作經歷、專案、學歷與聯絡方式已加密保護，僅供應徵／合作對象瀏覽。
+{: .lang-zh}
+
+My full work history, projects, education and contact details are password-protected — available on request.
+{: .lang-en}
 
 <div style="text-align:center; margin:30px 0 10px;">
   <a href="/cv/" style="display:inline-block; background:linear-gradient(135deg,#6C3483,#8E44AD); color:#fff; text-decoration:none; padding:14px 32px; border-radius:30px; font-weight:600; font-size:1.05em; box-shadow:0 6px 20px rgba(108,52,131,.35);">
-    🔓 Unlock Full CV
+    🔓 <span class="lang-zh">解鎖完整履歷</span><span class="lang-en">Unlock Full CV</span>
   </a>
-  <div style="color:#999; font-size:.82em; margin-top:12px;">Need the password? Reach out via
-  <a href="https://www.linkedin.com/in/carseuslai/" style="color:#6C3483;">LinkedIn</a>.</div>
+  <div style="color:#999; font-size:.82em; margin-top:12px;"><span class="lang-zh">需要密碼？請透過
+  <a href="https://www.linkedin.com/in/carseuslai/" style="color:#6C3483;">LinkedIn</a> 聯絡我。</span><span class="lang-en">Need the password? Reach out via
+  <a href="https://www.linkedin.com/in/carseuslai/" style="color:#6C3483;">LinkedIn</a>.</span></div>
 </div>
 
 <!-- Visitor counter removed: laobi.icu counted every page view (no per-IP dedupe), so refreshing inflated it. GoatCounter (unique-visitor, dedupes same-day refresh) to be added once the site code is provided. -->

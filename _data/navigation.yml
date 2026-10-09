@@ -3,4 +3,5 @@
 # keeps a single working link to the full (encrypted) CV.
 main:
   - title: "🔓 Full CV"
+    title_zh: "🔓 完整履歷"
     url: "/cv/"
