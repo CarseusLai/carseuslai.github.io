@@ -12,7 +12,7 @@ redirect_from:
 
 # 🧑 <span class="lang-zh">關於我</span> <span class="lang-en">About Me</span>
 
-擅長**音頻（類比／數位）訊號處理**與**嵌入式系統開發**，涵蓋擴大機、會議喇叭、AIoT 感測器等產品線，具備從架構設計到量產導入的跨部門協作與系統除錯能力。同時投入 **AI Agent 開發**，將 AI 工具整合進實際工作流程，提升開發效率與決策品質。國立台北科技大學自動化所碩士。
+擅長**音頻（類比／數位）訊號處理**與**嵌入式系統開發**，涵蓋擴大機、會議喇叭、工業感測器（振動／電流）等產品線，具備從架構設計到量產導入的跨部門協作與系統除錯能力。同時投入 **AI Agent 開發**，將 AI 工具整合進實際工作流程，提升開發效率與決策品質。國立台北科技大學自動化所碩士。
 {: .lang-zh}
 
 Principal Engineer specializing in **embedded firmware**, **audio / vibration signal processing**, and **AI agent development** — from architecture design to mass production. M.S., National Taipei University of Technology (NTUT).
@@ -26,7 +26,7 @@ Principal Engineer specializing in **embedded firmware**, **audio / vibration si
 <span class="tag">Signal Processing</span>
 <span class="tag">Embedded Linux</span>
 <span class="tag">MCU (M480 / STM32 / NXP …)</span>
-<span class="tag">Edge AI / AIoT</span>
+<span class="tag">Sensor Firmware</span>
 <span class="tag">C · Python · Matlab · ASM</span>
 
 <style>

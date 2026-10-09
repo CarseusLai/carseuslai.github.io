@@ -105,6 +105,12 @@ function samples(plain) {
   return out;
 }
 
+// Lock screen of the last committed cv/index.html, without the ciphertext ('' if unavailable).
+function committedShell() {
+  const r = spawnSync('git', ['show', 'HEAD:cv/index.html'], { cwd: ROOT, encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 });
+  return r.status === 0 ? r.stdout.replace(MSG_RE, '') : '';
+}
+
 function verify(pw, salt) {
   const out = readFileSync(OUT, 'utf8');
   if (out.includes(pw)) fail('password found in cv/index.html');
@@ -113,8 +119,11 @@ function verify(pw, salt) {
   if (existsSync(PLAIN)) {
     const plain = readFileSync(PLAIN, 'utf8');
     if (decrypted !== plain) fail('decrypt round-trip does not match _private/cv/index.html');
+    // The lock screen legitimately shares some markup with the plaintext (e.g. the favicon),
+    // so only flag slices that are not already in the committed lock screen.
     const shell = out.replace(MSG_RE, '');
-    const leaks = samples(plain).filter(s => shell.includes(s));
+    const known = committedShell();
+    const leaks = samples(plain).filter(s => shell.includes(s) && !known.includes(s));
     if (leaks.length) fail(`plaintext leak in cv/index.html: ${JSON.stringify(leaks[0])}`);
   }
 }
