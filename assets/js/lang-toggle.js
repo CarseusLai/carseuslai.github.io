@@ -13,10 +13,10 @@
     try { return localStorage.getItem(KEY); } catch (e) { return null; }
   }
 
+  // English unless the visitor picked a language before.
   function initial() {
     var s = stored();
-    if (s === 'zh' || s === 'en') return s;
-    return /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+    return s === 'zh' || s === 'en' ? s : 'en';
   }
 
   function apply(lang) {
