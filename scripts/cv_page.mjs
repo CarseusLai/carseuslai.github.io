@@ -13,8 +13,12 @@
 //
 // Images: <img src="cv-img/NAME"> refers to _private/cv/cv-img/NAME (gitignored). The build
 // watermarks each one (scripts/cv_images.py) and embeds it, so it exists only in the encrypted page.
+//
+// Backup: the plaintext and cv-img/ exist only on this machine, so after a good build they are
+// copied to the folder named in _private/.cv_backup_dir (one line, e.g. a Google Drive folder).
+// Files are added or overwritten, never deleted; the password is not copied.
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync, cpSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -27,6 +31,8 @@ const OUT = P('cv', 'index.html');
 const PW_FILE = P('_private', '.cv_password');
 const WORK_DIR = P('_private', 'cv_work');
 const SRC_DIR = P('_private', 'cv_src');
+const IMG_DIR = P('_private', 'cv', 'cv-img');
+const BACKUP_FILE = P('_private', '.cv_backup_dir');
 const IMG_RE = /src="cv-img\/([^"]+)"/g;
 const STATICRYPT_CLI = P('node_modules', 'staticrypt', 'cli', 'index.js');
 const MSG_RE = /("staticryptEncryptedMsgUniqueVariableName":\s*")([^"]+)(")/;
@@ -172,4 +178,26 @@ if (mode === 'decrypt') {
   if (mode === 'build') build(pw, salt, page);
   verify(pw, salt, page);
   console.log(`✔ cv/index.html ${mode === 'build' ? 'built' : 'verified'}; decrypt round-trip and leak scan passed`);
+  if (mode === 'build') backup();
+}
+
+// A missing or unreachable backup folder only warns: the build itself already succeeded.
+function backup() {
+  if (!existsSync(BACKUP_FILE)) {
+    console.warn('⚠ no backup: write a folder path into _private/.cv_backup_dir to back up the CV source and images');
+    return;
+  }
+  const dir = readFileSync(BACKUP_FILE, 'utf8').trim();
+  if (!dir || !existsSync(path.dirname(dir))) {
+    console.warn(`⚠ backup skipped: ${dir || '(empty path)'} is not reachable`);
+    return;
+  }
+  try {
+    mkdirSync(dir, { recursive: true });
+    cpSync(PLAIN, path.join(dir, 'index.html'));
+    if (existsSync(IMG_DIR)) cpSync(IMG_DIR, path.join(dir, 'cv-img'), { recursive: true });
+    console.log(`✔ CV source and images backed up to ${dir}`);
+  } catch (e) {
+    console.warn(`⚠ backup to ${dir} failed: ${e.message}`);
+  }
 }

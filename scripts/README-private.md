@@ -50,5 +50,10 @@ label) and embeds it in the encrypted page; nothing goes to the public `images/`
 Add `class="zoomable"` for click-to-enlarge. Needs Python with Pillow (`PYTHON` overrides
 the interpreter). Company or product images stay in `images/` without a watermark.
 
+The originals in `cv-img/` and the plaintext CV live only on this machine. After each good
+build, `build:cv` copies both to the folder named in `_private/.cv_backup_dir` (one line,
+gitignored; e.g. a Google Drive folder). Files are added or overwritten, never deleted, and the
+password is not copied. If the folder is unreachable the build still succeeds with a warning.
+
 Both pages load `/assets/js/lang-toggle.js` for the zh / en switch: wrap text in
 `.lang-zh` / `.lang-en`, and any `[data-lang-toggle]` element flips the language.
