@@ -41,5 +41,14 @@ npm run verify:cv    # check the committed page decrypts and leaks nothing
 A build keeps the lock screen and salt of the current `cv/index.html` and swaps in only the
 new ciphertext, so the page looks the same and visitors' "remember me" keeps working.
 
+## CV images (watermarked, never public)
+
+Put your own pictures in `_private/cv/cv-img/` (gitignored) and reference them as
+`<img src="cv-img/NAME.png">`. `npm run build:cv` runs `scripts/cv_images.py`, which shrinks each
+one to at most 1100 px, adds a "© Carseus Lai" watermark (faint diagonal repeats + a corner
+label) and embeds it in the encrypted page; nothing goes to the public `images/` folder.
+Add `class="zoomable"` for click-to-enlarge. Needs Python with Pillow (`PYTHON` overrides
+the interpreter). Company or product images stay in `images/` without a watermark.
+
 Both pages load `/assets/js/lang-toggle.js` for the zh / en switch: wrap text in
 `.lang-zh` / `.lang-en`, and any `[data-lang-toggle]` element flips the language.

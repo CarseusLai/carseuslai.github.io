@@ -10,6 +10,9 @@
 // The password lives in _private/.cv_password (gitignored). cv/index.html uses a custom
 // lock screen, so a build keeps that page as is and swaps in only the new ciphertext.
 // The salt is read from the page itself and reused, so visitors' "remember me" survives.
+//
+// Images: <img src="cv-img/NAME"> refers to _private/cv/cv-img/NAME (gitignored). The build
+// watermarks each one (scripts/cv_images.py) and embeds it, so it exists only in the encrypted page.
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
@@ -23,6 +26,8 @@ const PLAIN = P('_private', 'cv', 'index.html');
 const OUT = P('cv', 'index.html');
 const PW_FILE = P('_private', '.cv_password');
 const WORK_DIR = P('_private', 'cv_work');
+const SRC_DIR = P('_private', 'cv_src');
+const IMG_RE = /src="cv-img\/([^"]+)"/g;
 const STATICRYPT_CLI = P('node_modules', 'staticrypt', 'cli', 'index.js');
 const MSG_RE = /("staticryptEncryptedMsgUniqueVariableName":\s*")([^"]+)(")/;
 const SALT_RE = /"staticryptSaltUniqueVariableName":\s*"([0-9a-f]+)"/;
@@ -82,10 +87,39 @@ function decrypt(pw, salt) {
   console.log(`✔ decrypted cv/index.html -> _private/cv/index.html (${plain.length} chars)`);
 }
 
-function build(pw, salt) {
-  if (!existsSync(PLAIN)) fail('missing _private/cv/index.html (run `npm run decrypt:cv` first)');
+// The page that actually gets encrypted: the plaintext with every cv-img/ picture watermarked
+// and embedded. Each image is stored once and filled in by a small loader, so an image used
+// by both language copies does not double the page size.
+function expandedPage() {
+  const plain = readFileSync(PLAIN, 'utf8');
+  const names = [...new Set([...plain.matchAll(IMG_RE)].map(m => decodeURIComponent(m[1])))];
+  if (!names.length) return plain;
+  const json = path.join(WORK_DIR, 'cv_images.json');
   rmSync(WORK_DIR, { recursive: true, force: true });
-  staticrypt([PLAIN, '-d', WORK_DIR, '-s', salt, '-c', 'false', '--short'], pw);
+  mkdirSync(WORK_DIR, { recursive: true });
+  const r = spawnSync(process.env.PYTHON || 'python', [P('scripts', 'cv_images.py'), json, ...names],
+    { cwd: ROOT, encoding: 'utf8' });
+  if (r.status !== 0) fail(`watermarking images failed:\n${r.stdout}${r.stderr}`);
+  const uris = JSON.parse(readFileSync(json, 'utf8'));
+  rmSync(WORK_DIR, { recursive: true, force: true });
+  const loader = '<script>\n  // Watermarked images, embedded once and shared by every <img data-cv-img>.\n'
+    + `  (function () {\n    var M = ${JSON.stringify(uris)};\n`
+    + "    document.querySelectorAll('img[data-cv-img]').forEach(function (i) { i.src = M[i.getAttribute('data-cv-img')]; });\n"
+    + '  })();\n</script>\n';
+  const body = plain.replace(IMG_RE, (_, n) => `src="" data-cv-img="${decodeURIComponent(n)}"`);
+  const end = body.lastIndexOf('</body>');
+  if (end < 0) fail('_private/cv/index.html has no </body>');
+  return body.slice(0, end) + loader + body.slice(end);
+}
+
+function build(pw, salt, expanded) {
+  if (!existsSync(PLAIN)) fail('missing _private/cv/index.html (run `npm run decrypt:cv` first)');
+  mkdirSync(SRC_DIR, { recursive: true });
+  const src = path.join(SRC_DIR, 'index.html');
+  writeFileSync(src, expanded);
+  rmSync(WORK_DIR, { recursive: true, force: true });
+  staticrypt([src, '-d', WORK_DIR, '-s', salt, '-c', 'false', '--short'], pw);
+  rmSync(SRC_DIR, { recursive: true, force: true });
   const fresh = readFileSync(path.join(WORK_DIR, 'index.html'), 'utf8').match(MSG_RE);
   if (!fresh) fail('staticrypt output has no ciphertext');
   const page = readFileSync(OUT, 'utf8');
@@ -111,14 +145,14 @@ function committedShell() {
   return r.status === 0 ? r.stdout.replace(MSG_RE, '') : '';
 }
 
-function verify(pw, salt) {
+function verify(pw, salt, page) {
   const out = readFileSync(OUT, 'utf8');
   if (out.includes(pw)) fail('password found in cv/index.html');
   const decrypted = decryptTo(OUT, WORK_DIR, pw, salt);
   rmSync(WORK_DIR, { recursive: true, force: true });
-  if (existsSync(PLAIN)) {
-    const plain = readFileSync(PLAIN, 'utf8');
-    if (decrypted !== plain) fail('decrypt round-trip does not match _private/cv/index.html');
+  if (page !== null) {
+    const plain = page;
+    if (decrypted !== plain) fail('decrypt round-trip does not match _private/cv/index.html (with its images embedded)');
     // The lock screen legitimately shares some markup with the plaintext (e.g. the favicon),
     // so only flag slices that are not already in the committed lock screen.
     const shell = out.replace(MSG_RE, '');
@@ -134,7 +168,8 @@ const salt = pageSalt();
 if (mode === 'decrypt') {
   decrypt(pw, salt);
 } else {
-  if (mode === 'build') build(pw, salt);
-  verify(pw, salt);
+  const page = existsSync(PLAIN) ? expandedPage() : null;
+  if (mode === 'build') build(pw, salt, page);
+  verify(pw, salt, page);
   console.log(`✔ cv/index.html ${mode === 'build' ? 'built' : 'verified'}; decrypt round-trip and leak scan passed`);
 }
