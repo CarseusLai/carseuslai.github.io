@@ -58,7 +58,7 @@ My full work history, projects, education and contact details are password-prote
 {: .lang-en}
 
 <div style="text-align:center; margin:30px 0 10px;">
-  <a href="/cv/" style="display:inline-block; background:linear-gradient(135deg,#6C3483,#8E44AD); color:#fff; text-decoration:none; padding:14px 32px; border-radius:30px; font-weight:600; font-size:1.05em; box-shadow:0 6px 20px rgba(108,52,131,.35);">
+  <a href="/cv/" target="_self" style="display:inline-block; background:linear-gradient(135deg,#6C3483,#8E44AD); color:#fff; text-decoration:none; padding:14px 32px; border-radius:30px; font-weight:600; font-size:1.05em; box-shadow:0 6px 20px rgba(108,52,131,.35);">
     🔓 <span class="lang-zh">解鎖完整履歷</span><span class="lang-en">Unlock Full CV</span>
   </a>
   <div style="color:#999; font-size:.82em; margin-top:12px;"><span class="lang-zh">需要密碼？請透過
