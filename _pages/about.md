@@ -42,6 +42,7 @@ Principal Engineer specializing in **embedded firmware**, **audio / vibration si
 .author__bio{color:#6C3483;font-weight:700;font-size:1.6em;letter-spacing:.02em;margin:2px 0 .5em;}
 .author__urls li:first-child{border-bottom:1px solid #d9c9e6;padding-bottom:12px;margin-bottom:12px;}
 .page__content{font-size:1.1em;line-height:1.7;}
+.page__content p{max-width:72ch;}
 .page__content h1,.page__content h2{color:#3a2348;font-weight:700;border-bottom:2px solid #cdb8de;padding-bottom:6px;margin-top:34px;}
 .page__content h1{font-size:1.75em;}
 .page__content h2{font-size:1.45em;}
@@ -61,7 +62,7 @@ My full work history, projects, education and contact details are password-prote
   <a href="/cv/" target="_self" style="display:inline-block; background:linear-gradient(135deg,#6C3483,#8E44AD); color:#fff; text-decoration:none; padding:14px 32px; border-radius:30px; font-weight:600; font-size:1.05em; box-shadow:0 6px 20px rgba(108,52,131,.35);">
     🔓 <span class="lang-zh">解鎖完整履歷</span><span class="lang-en">Unlock Full CV</span>
   </a>
-  <div style="color:#999; font-size:.82em; margin-top:12px;"><span class="lang-zh">需要密碼？請透過
+  <div style="color:#666; font-size:.82em; margin-top:12px;"><span class="lang-zh">需要密碼？請透過
   <a href="https://www.linkedin.com/in/carseuslai/" style="color:#6C3483;">LinkedIn</a> 聯絡我。</span><span class="lang-en">Need the password? Reach out via
   <a href="https://www.linkedin.com/in/carseuslai/" style="color:#6C3483;">LinkedIn</a>.</span></div>
 </div>
