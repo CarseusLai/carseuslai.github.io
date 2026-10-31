@@ -34,6 +34,9 @@ const SRC_DIR = P('_private', 'cv_src');
 const IMG_DIR = P('_private', 'cv', 'cv-img');
 const BACKUP_FILE = P('_private', '.cv_backup_dir');
 const IMG_RE = /src="cv-img\/([^"]+)"/g;
+// A file staticrypt just wrote can stay locked for a moment (antivirus, indexer) and the
+// delete fails with EPERM, which stopped two builds before the backup step (2026-10-31).
+const RM = { recursive: true, force: true, maxRetries: 5, retryDelay: 200 };
 const STATICRYPT_CLI = P('node_modules', 'staticrypt', 'cli', 'index.js');
 const MSG_RE = /("staticryptEncryptedMsgUniqueVariableName":\s*")([^"]+)(")/;
 const SALT_RE = /"staticryptSaltUniqueVariableName":\s*"([0-9a-f]+)"/;
@@ -77,7 +80,7 @@ function staticrypt(args, pw) {
 
 // Decrypt `file` into `dir` with the page's own salt; returns the plaintext.
 function decryptTo(file, dir, pw, salt) {
-  rmSync(dir, { recursive: true, force: true });
+  rmSync(dir, RM);
   staticrypt([file, '--decrypt', '-d', dir, '-s', salt, '-c', 'false'], pw);
   const out = path.join(dir, path.basename(file));
   if (!existsSync(out)) fail(`decrypting ${path.relative(ROOT, file)} produced no file (wrong password?)`);
@@ -89,7 +92,7 @@ function decrypt(pw, salt) {
   const plain = decryptTo(OUT, WORK_DIR, pw, salt);
   mkdirSync(path.dirname(PLAIN), { recursive: true });
   writeFileSync(PLAIN, plain);
-  rmSync(WORK_DIR, { recursive: true, force: true });
+  rmSync(WORK_DIR, RM);
   console.log(`✔ decrypted cv/index.html -> _private/cv/index.html (${plain.length} chars)`);
 }
 
@@ -101,13 +104,13 @@ function expandedPage() {
   const names = [...new Set([...plain.matchAll(IMG_RE)].map(m => decodeURIComponent(m[1])))];
   if (!names.length) return plain;
   const json = path.join(WORK_DIR, 'cv_images.json');
-  rmSync(WORK_DIR, { recursive: true, force: true });
+  rmSync(WORK_DIR, RM);
   mkdirSync(WORK_DIR, { recursive: true });
   const r = spawnSync(process.env.PYTHON || 'python', [P('scripts', 'cv_images.py'), json, ...names],
     { cwd: ROOT, encoding: 'utf8' });
   if (r.status !== 0) fail(`watermarking images failed:\n${r.stdout}${r.stderr}`);
   const uris = JSON.parse(readFileSync(json, 'utf8'));
-  rmSync(WORK_DIR, { recursive: true, force: true });
+  rmSync(WORK_DIR, RM);
   const loader = '<script>\n  // Watermarked images, embedded once and shared by every <img data-cv-img>.\n'
     + `  (function () {\n    var M = ${JSON.stringify(uris)};\n`
     + "    document.querySelectorAll('img[data-cv-img]').forEach(function (i) { i.src = M[i.getAttribute('data-cv-img')]; });\n"
@@ -123,15 +126,15 @@ function build(pw, salt, expanded) {
   mkdirSync(SRC_DIR, { recursive: true });
   const src = path.join(SRC_DIR, 'index.html');
   writeFileSync(src, expanded);
-  rmSync(WORK_DIR, { recursive: true, force: true });
+  rmSync(WORK_DIR, RM);
   staticrypt([src, '-d', WORK_DIR, '-s', salt, '-c', 'false', '--short'], pw);
-  rmSync(SRC_DIR, { recursive: true, force: true });
+  rmSync(SRC_DIR, RM);
   const fresh = readFileSync(path.join(WORK_DIR, 'index.html'), 'utf8').match(MSG_RE);
   if (!fresh) fail('staticrypt output has no ciphertext');
   const page = readFileSync(OUT, 'utf8');
   if (!MSG_RE.test(page)) fail('cv/index.html has no ciphertext to replace');
   writeFileSync(OUT, page.replace(MSG_RE, (_, a, __, c) => a + fresh[2] + c));
-  rmSync(WORK_DIR, { recursive: true, force: true });
+  rmSync(WORK_DIR, RM);
 }
 
 // Evenly spaced slices of the plaintext page; none of them may survive into the output.
@@ -155,7 +158,7 @@ function verify(pw, salt, page) {
   const out = readFileSync(OUT, 'utf8');
   if (out.includes(pw)) fail('password found in cv/index.html');
   const decrypted = decryptTo(OUT, WORK_DIR, pw, salt);
-  rmSync(WORK_DIR, { recursive: true, force: true });
+  rmSync(WORK_DIR, RM);
   if (page !== null) {
     const plain = page;
     if (decrypted !== plain) fail('decrypt round-trip does not match _private/cv/index.html (with its images embedded)');
