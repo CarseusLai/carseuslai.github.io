@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Carseus Lai — Principal Engineer. AI agent development, audio/vibration signal processing, and embedded firmware."
+excerpt: "Carseus Lai — Principal Engineer. AI agent development, audio DSP, and embedded firmware."
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ redirect_from:
 投入 **AI Agent 開發**，自建多模型 agent 框架並整合進實際韌體開發流程，提升開發效率與決策品質。擅長**音頻（類比／數位）訊號處理**與**嵌入式系統開發**，涵蓋擴大機、會議喇叭、工業感測器（振動／電流）等產品線，具備從架構設計到量產導入的跨部門協作與系統除錯能力。國立台北科技大學自動化所碩士。
 {: .lang-zh}
 
-Principal Engineer working across **AI agent development**, **audio / vibration signal processing**, and **embedded firmware** — building a multi-LLM agent framework for firmware work, and taking audio and sensing products from architecture design to mass production. M.S., National Taipei University of Technology (NTUT).
+Principal Engineer working across **AI agent development**, **audio DSP**, and **embedded firmware** — building a multi-LLM agent framework for firmware work, and taking audio and sensing products from architecture design to mass production. M.S., National Taipei University of Technology (NTUT).
 {: .lang-en}
 
 ## 🛠 <span class="lang-zh">核心專長</span> <span class="lang-en">Core Expertise</span>
