@@ -181,7 +181,34 @@ if (mode === 'decrypt') {
   if (mode === 'build') build(pw, salt, page);
   verify(pw, salt, page);
   console.log(`✔ cv/index.html ${mode === 'build' ? 'built' : 'verified'}; decrypt round-trip and leak scan passed`);
+  if (existsSync(PLAIN)) publicSync(readFileSync(PLAIN, 'utf8'));
   if (mode === 'build') backup();
+}
+
+// The public homepage repeats the CV's sidebar title and bio from _config.yml, and its About
+// text lives in _pages/about.md. A CV repositioning once shipped without them (2026-11-09),
+// so compare the titles and always name the public copies. Warn only: the build is fine.
+function titleDiffs(plain, config) {
+  const pairs = [
+    ['bio', /<p class="author__bio">([^<]*)<\/p>/, /^\s+bio\s*:\s*"([^"]*)"/m],
+    ['title', /<li><div style="white-space: normal; margin-bottom: 1em;">([^<]*)<\/div><\/li>/, /^description\s*:\s*"([^"]*)"/m],
+  ];
+  const out = [];
+  for (const [name, cvRe, cfgRe] of pairs) {
+    const cv = (plain.match(cvRe) || [])[1];
+    const pub = (config.match(cfgRe) || [])[1];
+    if (cv !== undefined && pub !== undefined && cv.trim() !== pub.trim()) out.push([name, cv.trim(), pub.trim()]);
+  }
+  return out;
+}
+
+function publicSync(plain) {
+  const cfg = P('_config.yml');
+  if (!existsSync(cfg)) return;
+  for (const [name, cv, pub] of titleDiffs(plain, readFileSync(cfg, 'utf8'))) {
+    console.warn(`⚠ CV ${name} "${cv}" differs from the public homepage (_config.yml) "${pub}"`);
+  }
+  console.log('ℹ if the CV positioning changed, also update _config.yml (description, author bio), _pages/about.md, and the LinkedIn headline / About');
 }
 
 // A missing or unreachable backup folder only warns: the build itself already succeeded.
