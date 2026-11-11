@@ -34,7 +34,13 @@
                 align-items: center;
                 justify-content: center;
                 font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-                background: linear-gradient(135deg, #2b1733 0%, #4a2a63 55%, #6C3483 100%);
+                /* Same 110px / 22px engineering-paper grid as the unlocked CV, drawn light on the dark gradient. */
+                background:
+                    linear-gradient(rgba(255, 255, 255, 0.07) 1px, transparent 1px) 0 0 / 110px 110px,
+                    linear-gradient(90deg, rgba(255, 255, 255, 0.07) 1px, transparent 1px) 0 0 / 110px 110px,
+                    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px) 0 0 / 22px 22px,
+                    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px) 0 0 / 22px 22px,
+                    linear-gradient(135deg, #2b1733 0%, #4a2a63 55%, #6C3483 100%);
                 -webkit-font-smoothing: antialiased;
                 -moz-osx-font-smoothing: grayscale;
             }
