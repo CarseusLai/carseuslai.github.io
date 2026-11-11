@@ -109,3 +109,25 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Same engineering-paper grid and white content card as the encrypted CV, so the public page
+   and the CV read as one site. The grid sits on html so it fills the window on short pages. */
+html {
+    min-height: 100%;
+    background-color: #f2edf7;
+    background-image: linear-gradient(rgba(108,52,131,.17) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(108,52,131,.17) 1px, transparent 1px),
+                      linear-gradient(rgba(108,52,131,.08) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(108,52,131,.08) 1px, transparent 1px);
+    background-size: 110px 110px, 110px 110px, 22px 22px, 22px 22px;
+}
+body { background: transparent; }
+#main { margin-top: 1.6em; }
+.page {
+    background: #fff;
+    border: 1px solid #dacde8;
+    border-radius: 16px;
+    box-shadow: 0 6px 24px rgba(60,30,90,.13);
+    padding: 22px 18px 28px;
+    @media (min-width: 57.8125em) { padding: 28px 38px 36px; }
+}
