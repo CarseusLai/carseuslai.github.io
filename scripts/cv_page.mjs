@@ -34,6 +34,7 @@ const SRC_DIR = P('_private', 'cv_src');
 const IMG_DIR = P('_private', 'cv', 'cv-img');
 const BACKUP_FILE = P('_private', '.cv_backup_dir');
 const IMG_RE = /src="cv-img\/([^"]+)"/g;
+const PW_SLOT = /"__CV_PASSWORD__"/g;
 // A file staticrypt just wrote can stay locked for a moment (antivirus, indexer) and the
 // delete fails with EPERM, which stopped two builds before the backup step (2026-10-31).
 const RM = { recursive: true, force: true, maxRetries: 5, retryDelay: 200 };
@@ -99,8 +100,11 @@ function decrypt(pw, salt) {
 // The page that actually gets encrypted: the plaintext with every cv-img/ picture watermarked
 // and embedded. Each image is stored once and filled in by a small loader, so an image used
 // by both language copies does not double the page size.
-function expandedPage() {
-  const plain = readFileSync(PLAIN, 'utf8');
+// The PDF export prints the unlock password next to the web link; the plaintext only holds a
+// placeholder, so the password stays out of the backup copy and follows _private/.cv_password.
+function expandedPage(pw) {
+  // function replacer: a "$" in the password must not be read as a replacement pattern
+  const plain = readFileSync(PLAIN, 'utf8').replace(PW_SLOT, () => JSON.stringify(pw));
   const names = [...new Set([...plain.matchAll(IMG_RE)].map(m => decodeURIComponent(m[1])))];
   if (!names.length) return plain;
   const json = path.join(WORK_DIR, 'cv_images.json');
@@ -177,7 +181,7 @@ const salt = pageSalt();
 if (mode === 'decrypt') {
   decrypt(pw, salt);
 } else {
-  const page = existsSync(PLAIN) ? expandedPage() : null;
+  const page = existsSync(PLAIN) ? expandedPage(pw) : null;
   if (mode === 'build') build(pw, salt, page);
   verify(pw, salt, page);
   console.log(`✔ cv/index.html ${mode === 'build' ? 'built' : 'verified'}; decrypt round-trip and leak scan passed`);
