@@ -37,7 +37,19 @@ const IMG_RE = /src="cv-img\/([^"]+)"/g;
 const PW_SLOT = /"__CV_PASSWORD__"/g;
 // A file staticrypt just wrote can stay locked for a moment (antivirus, indexer) and the
 // delete fails with EPERM, which stopped two builds before the backup step (2026-10-31).
-const RM = { recursive: true, force: true, maxRetries: 5, retryDelay: 200 };
+// 6 s of retries was not enough either (three builds in a row on 2026-11-17, folder free again
+// moments later), so cleanup only warns, and verify decrypts into its own folder.
+const RM = { recursive: true, force: true, maxRetries: 20, retryDelay: 300 };
+const VERIFY_DIR = P('_private', 'cv_verify');
+
+// Delete a temp folder after use; a lock only leaves it behind (gitignored, cleared next build).
+function tidy(dir) {
+  try {
+    rmSync(dir, RM);
+  } catch (e) {
+    console.warn(`⚠ could not delete ${path.relative(ROOT, dir)} (${e.code}); the next build clears it`);
+  }
+}
 const STATICRYPT_CLI = P('node_modules', 'staticrypt', 'cli', 'index.js');
 const MSG_RE = /("staticryptEncryptedMsgUniqueVariableName":\s*")([^"]+)(")/;
 const SALT_RE = /"staticryptSaltUniqueVariableName":\s*"([0-9a-f]+)"/;
@@ -132,13 +144,13 @@ function build(pw, salt, expanded) {
   writeFileSync(src, expanded);
   rmSync(WORK_DIR, RM);
   staticrypt([src, '-d', WORK_DIR, '-s', salt, '-c', 'false', '--short'], pw);
-  rmSync(SRC_DIR, RM);
+  tidy(SRC_DIR);
   const fresh = readFileSync(path.join(WORK_DIR, 'index.html'), 'utf8').match(MSG_RE);
   if (!fresh) fail('staticrypt output has no ciphertext');
   const page = readFileSync(OUT, 'utf8');
   if (!MSG_RE.test(page)) fail('cv/index.html has no ciphertext to replace');
   writeFileSync(OUT, page.replace(MSG_RE, (_, a, __, c) => a + fresh[2] + c));
-  rmSync(WORK_DIR, RM);
+  tidy(WORK_DIR);
 }
 
 // Evenly spaced slices of the plaintext page; none of them may survive into the output.
@@ -161,8 +173,8 @@ function committedShell() {
 function verify(pw, salt, page) {
   const out = readFileSync(OUT, 'utf8');
   if (out.includes(pw)) fail('password found in cv/index.html');
-  const decrypted = decryptTo(OUT, WORK_DIR, pw, salt);
-  rmSync(WORK_DIR, RM);
+  const decrypted = decryptTo(OUT, VERIFY_DIR, pw, salt);
+  tidy(VERIFY_DIR);
   if (page !== null) {
     const plain = page;
     if (decrypted !== plain) fail('decrypt round-trip does not match _private/cv/index.html (with its images embedded)');
