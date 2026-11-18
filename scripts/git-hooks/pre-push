@@ -1,0 +1,17 @@
+#!/bin/sh
+# This repo sets its own core.hooksPath (scripts/git-hooks), which replaces the global one, so the global
+# pre-push guard (blocks AI force pushes to main/master; lives in ai-agent/config/git-hooks) would never run
+# here. Hand the push over to it.
+global=$(git config --global --get core.hooksPath 2>/dev/null)
+if [ -n "$global" ] && [ -f "$global/pre-push" ]; then
+	exec sh "$global/pre-push" "$@"
+fi
+# No guard to call. An AI shell is stopped (fail closed: a broken setup must not silently allow force pushes);
+# a person pushing by hand is let through with a warning.
+if env | grep -qE '^(CLAUDECODE|CODEX_SANDBOX[A-Z_]*|CODEX_THREAD_ID|GEMINI_CLI)='; then
+	echo "XX  pre-push: global core.hooksPath has no pre-push ('$global'), so the force-push guard cannot run." >&2
+	echo "    Fix it: python <ai-agent>/.agent/scripts/agent/git_hooks_setup.py --apply" >&2
+	exit 1
+fi
+echo "!!  pre-push: global core.hooksPath has no pre-push ('$global'); force-push guard not active." >&2
+exit 0
